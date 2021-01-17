@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Antminer G2",
+    "manufacturer": "Bitmain",
+    "date": 17501,
+    "price": 3399,
+    "hashrate": 220000000,
+    "power": 1200
+  },
+  {
+    "name": "B5 Plus",
+    "manufacturer": "PandaMiner",
+    "date": 17563,
+    "price": 2010,
+    "hashrate": 110000000,
+    "power": 800
+  },
+  {
+    "name": "B7",
+    "manufacturer": "PandaMiner",
+    "date": 18475,
+    "price": 2550,
+    "hashrate": 230000000,
+    "power": 1150
+  },
+  {
+    "name": "A10 - 485Mh/s",
+    "manufacturer": "Innosilicon",
+    "date": 17775,
+    "price": 2500,
+    "hashrate": 485000000,
+    "power": 850
+  },
+  {
+    "name": "A10 - 432Mh/s",
+    "manufacturer": "Innosilicon",
+    "date": 17775,
+    "price": 2250,
+    "hashrate": 432000000,
+    "power": 740
+  },
+  {
+    "name": "A10 - 365Mh/s",
+    "manufacturer": "Innosilicon",
+    "date": 17775,
+    "price": 2000,
+    "hashrate": 365000000,
+    "power": 650
+  },
+  {
+    "name": "A10 - 500Mh/s",
+    "manufacturer": "Innosilicon",
+    "date": 18140,
+    "price": 2500,
+    "hashrate": 500000000,
+    "power": 750
+  }
+]

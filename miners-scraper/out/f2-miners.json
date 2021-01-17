@@ -1,0 +1,1703 @@
+[
+  {
+    "fileName": "f2-1.html",
+    "name": "Antminer S9",
+    "manufacturer": "Bitmain",
+    "release_date": "2016/07",
+    "hashrate": "13 T",
+    "power_consumption": "1300 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_s9.jpg"
+  },
+  {
+    "fileName": "f2-10.html",
+    "name": "Avalon A841",
+    "manufacturer": "Canaan",
+    "release_date": "2018/04",
+    "hashrate": "13.6 T",
+    "power_consumption": "1290 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/avalonminer_841.jpg"
+  },
+  {
+    "fileName": "f2-101.html",
+    "name": "SnowPanther B1+",
+    "manufacturer": "Bitfily",
+    "release_date": "2018/08",
+    "hashrate": "24.5 T",
+    "power_consumption": "2100 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/bitfily_b1.jpg"
+  },
+  {
+    "fileName": "f2-102.html",
+    "name": "Avalon A851",
+    "manufacturer": "Canaan",
+    "release_date": "2018/05",
+    "hashrate": "14.5 T",
+    "power_consumption": "1450 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/avalonminer_a851.jpg"
+  },
+  {
+    "fileName": "f2-103.html",
+    "name": "INNOSILICON A10 (485M)",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/08",
+    "hashrate": "485 M",
+    "power_consumption": "850 W",
+    "algorithm": "Ethash",
+    "coins": [
+      "ETH"
+    ],
+    "image": ""
+  },
+  {
+    "fileName": "f2-104.html",
+    "name": "INNOSILICON A10 (365M)",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/08",
+    "hashrate": "365 M",
+    "power_consumption": "650 W",
+    "algorithm": "Ethash",
+    "coins": [
+      "ETH"
+    ],
+    "image": ""
+  },
+  {
+    "fileName": "f2-106.html",
+    "name": "Whatsminer M10S",
+    "manufacturer": "比特微",
+    "release_date": "2018/09",
+    "hashrate": "55 T",
+    "power_consumption": "3575 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/whatsminer_m10s.png"
+  },
+  {
+    "fileName": "f2-107.html",
+    "name": "Whatsminer M10S (Underclocked )",
+    "manufacturer": "比特微",
+    "release_date": "2018/09",
+    "hashrate": "44 T",
+    "power_consumption": "2640 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": ""
+  },
+  {
+    "fileName": "f2-108.html",
+    "name": "Whatsminer M10 (Underclocked )",
+    "manufacturer": "比特微",
+    "release_date": "2018/08",
+    "hashrate": "25 T",
+    "power_consumption": "1500 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": ""
+  },
+  {
+    "fileName": "f2-109.html",
+    "name": "Antminer DR3",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/09",
+    "hashrate": "7.8 T",
+    "power_consumption": "1410 W",
+    "algorithm": "Blake256r14",
+    "coins": [
+      "DCR"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_dr3_7.8t.jpg"
+  },
+  {
+    "fileName": "f2-11.html",
+    "name": "Antminer S9i (14.5T)",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/07",
+    "hashrate": "14.5 T",
+    "power_consumption": "1365 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_s9i（14.5t）.jpg"
+  },
+  {
+    "fileName": "f2-110.html",
+    "name": "DAYUN Zig Z1",
+    "manufacturer": "达云科技",
+    "release_date": "2018/09",
+    "hashrate": "6.8 G",
+    "power_consumption": "1200 W",
+    "algorithm": "Lyra2REv2",
+    "coins": [
+      "MONA"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/dayun_zig_z1.png"
+  },
+  {
+    "fileName": "f2-111.html",
+    "name": "ASICminer Zeon 180K",
+    "manufacturer": "ASICminer",
+    "release_date": "2018/09",
+    "hashrate": "180 K",
+    "power_consumption": "2200 W",
+    "algorithm": "Equihash",
+    "coins": [
+      "ZEC",
+      "ZEN"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/asicminer_zeon_180k.jpg"
+  },
+  {
+    "fileName": "f2-112.html",
+    "name": "Spondoolies SPx36",
+    "manufacturer": "Spondoolies",
+    "release_date": "2018/09",
+    "hashrate": "540 G",
+    "power_consumption": "4400 W",
+    "algorithm": "X11",
+    "coins": [
+      "DASH"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/spondoolies_spx36.jpg"
+  },
+  {
+    "fileName": "f2-113.html",
+    "name": "Whatsminer D1",
+    "manufacturer": "比特微",
+    "release_date": "2018/09",
+    "hashrate": "-",
+    "power_consumption": "2200 W",
+    "algorithm": "Blake256Blake256r14",
+    "coins": [
+      "DCR",
+      "HC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/whatsminer_d1.png"
+  },
+  {
+    "fileName": "f2-114.html",
+    "name": "R9 380 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/05",
+    "hashrate": "-",
+    "power_consumption": "2150 W",
+    "algorithm": "Cuckoo_CycleEquihashEtchashEthashLyra2REv2Lyra2Z",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "MONA",
+      "ZEN",
+      "AE",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/r9_380_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-115.html",
+    "name": "Bitfury Tardis B8",
+    "manufacturer": "Bitfury",
+    "release_date": "2018/10",
+    "hashrate": "80 T",
+    "power_consumption": "6300 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/bitfury_tardis_b8.jpg"
+  },
+  {
+    "fileName": "f2-116.html",
+    "name": "R9 390 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/05",
+    "hashrate": "-",
+    "power_consumption": "2550 W",
+    "algorithm": "Cuckoo_CycleEquihashEtchashEthash",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "AE",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/r9_390_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-117.html",
+    "name": "RX 560 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/05",
+    "hashrate": "-",
+    "power_consumption": "750 W",
+    "algorithm": "BeamHashIIICuckoo_CycleEquihashEthashRandomX",
+    "coins": [
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "AE",
+      "XMR",
+      "BEAM"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/rx_560_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-118.html",
+    "name": "Fury X 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/05",
+    "hashrate": "-",
+    "power_consumption": "1750 W",
+    "algorithm": "EquihashEthashLyra2REv2",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/fury_x_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-119.html",
+    "name": "Vega56 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/05",
+    "hashrate": "-",
+    "power_consumption": "1830 W",
+    "algorithm": "BeamHashIIIEquihashEtchashEthashLyra2REv2X16R",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "RVC",
+      "BEAM",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/vega56_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-120.html",
+    "name": "Vega64 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/05",
+    "hashrate": "-",
+    "power_consumption": "2550 W",
+    "algorithm": "BeamHashIIICuckoo_CycleEquihashEtchashEthashLyra2REv2ProgPoWRandomXX16RX17",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "SERO",
+      "AE",
+      "XVG-X17",
+      "XMR",
+      "RVC",
+      "BEAM",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/vega64_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-121.html",
+    "name": "GTX 750Ti 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/05",
+    "hashrate": "-",
+    "power_consumption": "630 W",
+    "algorithm": "EquihashEthashLyra2REv2TensorityX21S",
+    "coins": [
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "BTM",
+      "PGN"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/gtx_750ti_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-122.html",
+    "name": "GTX 1050Ti 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/05",
+    "hashrate": "-",
+    "power_consumption": "750 W",
+    "algorithm": "EquihashEquihash144_5Equihash210_9EthashLyra2REv2Lyra2ZNeoScryptTensorityX16RZelHash",
+    "coins": [
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "BTM",
+      "ZEL",
+      "CHI",
+      "AION",
+      "RVC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/gtx_1050ti_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-123.html",
+    "name": "P104 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/05",
+    "hashrate": "-",
+    "power_consumption": "1350 W",
+    "algorithm": "Blake2B+SHA3EaglesongEquihashEquihash144_5Equihash210_9EtchashEthashKawPowLyra2REv2Lyra2ZNeoScryptOctopusTensorityX16R",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "BTM",
+      "CKB",
+      "CHI",
+      "HNS",
+      "AION",
+      "RVN",
+      "RVC",
+      "CFX",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/p104_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-124.html",
+    "name": "GTX TitanV 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/08",
+    "hashrate": "-",
+    "power_consumption": "2150 W",
+    "algorithm": "EquihashEthashLyra2REv2",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/gtx_titanv_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-125.html",
+    "name": "GTX TitanX 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/09",
+    "hashrate": "-",
+    "power_consumption": "2150 W",
+    "algorithm": "EquihashEthashProgPoW",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "SERO"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/gtxtitanx_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-126.html",
+    "name": "RTX 2080 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/09",
+    "hashrate": "-",
+    "power_consumption": "1480 W",
+    "algorithm": "BeamHashIIIBlake2B+SHA3Cuckoo_CycleEaglesongEquihash192_7EtchashEthashKawPowNeoScryptOctopusProgPoWRandomXTensorityX16R",
+    "coins": [
+      "ETH",
+      "CLO",
+      "BTM",
+      "SERO",
+      "YEC",
+      "AE",
+      "CKB",
+      "XMR",
+      "CHI",
+      "HNS",
+      "RVN",
+      "RVC",
+      "BEAM",
+      "CFX",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/gtx_2080_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-127.html",
+    "name": "GMO B3",
+    "manufacturer": "GMO",
+    "release_date": "2018/07",
+    "hashrate": "33 T",
+    "power_consumption": "3417 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/gmo_b3_miner.jpg"
+  },
+  {
+    "fileName": "f2-128.html",
+    "name": "INNOSILICON T2T-25T",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/09",
+    "hashrate": "25 T",
+    "power_consumption": "2050 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_t2t-25t_btc_miner.jpg"
+  },
+  {
+    "fileName": "f2-129.html",
+    "name": "INNOSILICON T2T+",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/09",
+    "hashrate": "32 T",
+    "power_consumption": "2200 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_t2t+_miner.jpg"
+  },
+  {
+    "fileName": "f2-13.html",
+    "name": "Ebit E9.2",
+    "manufacturer": "Ebang",
+    "release_date": "2016/12",
+    "hashrate": "12 T",
+    "power_consumption": "1320 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/ebit_e9.2.jpg"
+  },
+  {
+    "fileName": "f2-133.html",
+    "name": "Avalon A911",
+    "manufacturer": "Canaan",
+    "release_date": "2018/10",
+    "hashrate": "18 T",
+    "power_consumption": "1440 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/avalonminer_a911.jpg"
+  },
+  {
+    "fileName": "f2-134.html",
+    "name": "Avalon A921",
+    "manufacturer": "Canaan",
+    "release_date": "2018/10",
+    "hashrate": "20 T",
+    "power_consumption": "1700 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/avalonminer_a921.jpg"
+  },
+  {
+    "fileName": "f2-135.html",
+    "name": "StrongU STU-U1",
+    "manufacturer": "思创优",
+    "release_date": "2018/10",
+    "hashrate": "-",
+    "power_consumption": "1600 W",
+    "algorithm": "Blake256Blake256r14",
+    "coins": [
+      "DCR",
+      "HC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/strongu_miner_stu-u1.png"
+  },
+  {
+    "fileName": "f2-136.html",
+    "name": "StrongU STU-U1+",
+    "manufacturer": "思创优",
+    "release_date": "2018/10",
+    "hashrate": "-",
+    "power_consumption": "1850 W",
+    "algorithm": "Blake256Blake256r14",
+    "coins": [
+      "DCR",
+      "HC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/strongu_miner_stu-u1+.png"
+  },
+  {
+    "fileName": "f2-137.html",
+    "name": "StrongU STU-U2",
+    "manufacturer": "思创优",
+    "release_date": "2018/10",
+    "hashrate": "7 T",
+    "power_consumption": "1600 W",
+    "algorithm": "Blake2B",
+    "coins": [],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/strongu_miner_stu-u2.png"
+  },
+  {
+    "fileName": "f2-14.html",
+    "name": "Ebit E9.3",
+    "manufacturer": "Ebang",
+    "release_date": "2017/02",
+    "hashrate": "16 T",
+    "power_consumption": "1760 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/ebit_e9.3.jpg"
+  },
+  {
+    "fileName": "f2-15.html",
+    "name": "Ebit E9i",
+    "manufacturer": "Ebang",
+    "release_date": "2018/07",
+    "hashrate": "13.5 T",
+    "power_consumption": "1418 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/ebit_e9i.jpg"
+  },
+  {
+    "fileName": "f2-16.html",
+    "name": "Ebit E10.1",
+    "manufacturer": "Ebang",
+    "release_date": "2017/12",
+    "hashrate": "18 T",
+    "power_consumption": "1620 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/ebit_e10.jpg"
+  },
+  {
+    "fileName": "f2-17.html",
+    "name": "Ebit E9+",
+    "manufacturer": "Ebang",
+    "release_date": "2017/12",
+    "hashrate": "9 T",
+    "power_consumption": "1305 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/ebit_e9+.jpg"
+  },
+  {
+    "fileName": "f2-18.html",
+    "name": "Whatsminer M3",
+    "manufacturer": "MicroBT",
+    "release_date": "2017/08",
+    "hashrate": "11.5 T",
+    "power_consumption": "2000 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/whatsminer_m3.jpg"
+  },
+  {
+    "fileName": "f2-19.html",
+    "name": "Whatsminer M3v2",
+    "manufacturer": "比特微",
+    "release_date": "2018/05",
+    "hashrate": "12.5 T",
+    "power_consumption": "2100 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/whatsminer_m3v2.jpg"
+  },
+  {
+    "fileName": "f2-2.html",
+    "name": "Antminer S9i (14T)",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/05",
+    "hashrate": "14 T",
+    "power_consumption": "1320 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_s9i（14t）.jpg"
+  },
+  {
+    "fileName": "f2-20.html",
+    "name": "DragonMint T1 Miner",
+    "manufacturer": "Halong Mining",
+    "release_date": "2018/04",
+    "hashrate": "16 T",
+    "power_consumption": "1480 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/dragonmint_t1_miner.jpg"
+  },
+  {
+    "fileName": "f2-21.html",
+    "name": "Antminer D3",
+    "manufacturer": "Bitmain",
+    "release_date": "2017/08",
+    "hashrate": "17 G",
+    "power_consumption": "970 W",
+    "algorithm": "X11",
+    "coins": [
+      "DASH"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_d3.jpg"
+  },
+  {
+    "fileName": "f2-22.html",
+    "name": "INNOSILICON A5",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2017/07",
+    "hashrate": "32.5 G",
+    "power_consumption": "750 W",
+    "algorithm": "X11",
+    "coins": [
+      "DASH"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_a5.jpg"
+  },
+  {
+    "fileName": "f2-23.html",
+    "name": "INNOSILICON A5+",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/05",
+    "hashrate": "65 G",
+    "power_consumption": "1500 W",
+    "algorithm": "X11",
+    "coins": [
+      "DASH"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_a5+.jpg"
+  },
+  {
+    "fileName": "f2-24.html",
+    "name": "Pinidea DR-100",
+    "manufacturer": "Pinidea",
+    "release_date": "2017/09",
+    "hashrate": "21 G",
+    "power_consumption": "820 W",
+    "algorithm": "X11",
+    "coins": [
+      "DASH"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/pinidea_dr-100.jpg"
+  },
+  {
+    "fileName": "f2-25.html",
+    "name": "iBeLink™ DM11G",
+    "manufacturer": "Broadeng",
+    "release_date": "2017/07",
+    "hashrate": "11 G",
+    "power_consumption": "810 W",
+    "algorithm": "X11",
+    "coins": [
+      "DASH"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/ibelink™_dm11g.jpg"
+  },
+  {
+    "fileName": "f2-26.html",
+    "name": "iBeLink™ DM22G",
+    "manufacturer": "Broadeng",
+    "release_date": "2017/08",
+    "hashrate": "22 G",
+    "power_consumption": "810 W",
+    "algorithm": "X11",
+    "coins": [
+      "DASH"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/ibelink™_dm22g.jpg"
+  },
+  {
+    "fileName": "f2-27.html",
+    "name": "iBeLink™ DM56G",
+    "manufacturer": "Broadeng",
+    "release_date": "2018/02",
+    "hashrate": "56 G",
+    "power_consumption": "2100 W",
+    "algorithm": "X11",
+    "coins": [
+      "DASH"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/ibelink™_dm56g.jpg"
+  },
+  {
+    "fileName": "f2-28.html",
+    "name": "iBeLink™ DSM6T",
+    "manufacturer": "Broadeng",
+    "release_date": "2018/06",
+    "hashrate": "6 T",
+    "power_consumption": "2100 W",
+    "algorithm": "Blake256r14",
+    "coins": [
+      "DCR"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/ibelink™_dsm6t.jpg"
+  },
+  {
+    "fileName": "f2-29.html",
+    "name": "iBeLink™ DSM7T",
+    "manufacturer": "Broadeng",
+    "release_date": "2018/07",
+    "hashrate": "7 T",
+    "power_consumption": "2100 W",
+    "algorithm": "Blake256r14",
+    "coins": [
+      "DCR",
+      "SCC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/ibelink™_dsm7t（blake256）.jpg"
+  },
+  {
+    "fileName": "f2-33.html",
+    "name": "Antminer L3+",
+    "manufacturer": "Bitmain",
+    "release_date": "2017/03",
+    "hashrate": "504 M",
+    "power_consumption": "800 W",
+    "algorithm": "Scrypt",
+    "coins": [
+      "LTC",
+      "DGB-SCRYPT",
+      "XVG-SCRYPT"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_l3+.jpg"
+  },
+  {
+    "fileName": "f2-35.html",
+    "name": "Antminer L3++",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/04",
+    "hashrate": "580 M",
+    "power_consumption": "942 W",
+    "algorithm": "Scrypt",
+    "coins": [
+      "LTC",
+      "DGB-SCRYPT",
+      "XVG-SCRYPT"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_l3++.jpg"
+  },
+  {
+    "fileName": "f2-36.html",
+    "name": "Innosilicon A4+ LTCMaster",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2017/12",
+    "hashrate": "620 M",
+    "power_consumption": "750 W",
+    "algorithm": "Scrypt",
+    "coins": [
+      "LTC",
+      "DGB-SCRYPT",
+      "XVG-SCRYPT"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_a4+_ltcmaster.jpg"
+  },
+  {
+    "fileName": "f2-37.html",
+    "name": "Innosilicon A6 LTCMaster",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/02",
+    "hashrate": "1230 M",
+    "power_consumption": "1500 W",
+    "algorithm": "Scrypt",
+    "coins": [
+      "LTC",
+      "DGB-SCRYPT",
+      "XVG-SCRYPT"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_a6_ltcmaster.jpg"
+  },
+  {
+    "fileName": "f2-38.html",
+    "name": "BW L21",
+    "manufacturer": "BW",
+    "release_date": "2017/08",
+    "hashrate": "550 M",
+    "power_consumption": "950 W",
+    "algorithm": "Scrypt",
+    "coins": [
+      "LTC",
+      "DGB-SCRYPT",
+      "XVG-SCRYPT"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/bw_l21.jpg"
+  },
+  {
+    "fileName": "f2-39.html",
+    "name": "Antminer A3",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/01",
+    "hashrate": "0.815 T",
+    "power_consumption": "1275 W",
+    "algorithm": "Blake2B",
+    "coins": [],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_a3.jpg"
+  },
+  {
+    "fileName": "f2-4.html",
+    "name": "SnowPanther A1",
+    "manufacturer": "Bitfily",
+    "release_date": "2018/02",
+    "hashrate": "49 T",
+    "power_consumption": "6200 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/bitfily_a1.jpg"
+  },
+  {
+    "fileName": "f2-40.html",
+    "name": "Innosilicon S11 SiaMaster",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/04",
+    "hashrate": "4.3 T",
+    "power_consumption": "1380 W",
+    "algorithm": "Blake2B",
+    "coins": [],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_s11_siamaster.jpg"
+  },
+  {
+    "fileName": "f2-41.html",
+    "name": "RX570 8 cards",
+    "manufacturer": "-",
+    "release_date": "2017/08",
+    "hashrate": "-",
+    "power_consumption": "1350 W",
+    "algorithm": "Cuckoo_CycleEquihashEtchashEthashLyra2REv2RandomXX16R",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "AE",
+      "XMR",
+      "RVC",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/rx570_8_cards_miner.jpg"
+  },
+  {
+    "fileName": "f2-43.html",
+    "name": "RX 580 8 cards",
+    "manufacturer": "-",
+    "release_date": "2017/09",
+    "hashrate": "-",
+    "power_consumption": "1630 W",
+    "algorithm": "BeamHashIIIBlake2B+SHA3Cuckatoo32Cuckoo_CycleEaglesongEquihashEtchashEthashKawPowLyra2REv2OctopusProgPoWRandomXX16RX17",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "SERO",
+      "AE",
+      "XVG-X17",
+      "CKB",
+      "XMR",
+      "HNS",
+      "RVN",
+      "GRIN-32",
+      "RVC",
+      "BEAM",
+      "CFX",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/rx_580_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-45.html",
+    "name": "RX 470 8 cards",
+    "manufacturer": "-",
+    "release_date": "2017/12",
+    "hashrate": "-",
+    "power_consumption": "1110 W",
+    "algorithm": "Cuckoo_CycleEquihashEtchashEthashLyra2REv2RandomXX16R",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "AE",
+      "XMR",
+      "RVC",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/rx_470_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-48.html",
+    "name": "Galaxy S2 (RX 580)",
+    "manufacturer": "银河矿机",
+    "release_date": "2017/11",
+    "hashrate": "240 M",
+    "power_consumption": "1600 W",
+    "algorithm": "Ethash",
+    "coins": [
+      "ETH",
+      "CLO"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/galaxy_miner_s2（rx_580）.jpg"
+  },
+  {
+    "fileName": "f2-49.html",
+    "name": "Snow Panther E3 (RX 570)",
+    "manufacturer": "Bitfily",
+    "release_date": "2018/02",
+    "hashrate": "230 M",
+    "power_consumption": "1276 W",
+    "algorithm": "Ethash",
+    "coins": [
+      "ETH",
+      "CLO"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/bitfily_e3（rx_570）.jpg"
+  },
+  {
+    "fileName": "f2-5.html",
+    "name": "Antminer V9",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/02",
+    "hashrate": "4 T",
+    "power_consumption": "1027 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_v9.jpg"
+  },
+  {
+    "fileName": "f2-50.html",
+    "name": "Panda B3 Pro (RX 470)",
+    "manufacturer": "熊猫矿机",
+    "release_date": "2017/03",
+    "hashrate": "-",
+    "power_consumption": "1375 W",
+    "algorithm": "EtchashEthash",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/pandaminer_b3_pro（rx_470）.jpg"
+  },
+  {
+    "fileName": "f2-51.html",
+    "name": "RX 480 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/04",
+    "hashrate": "-",
+    "power_consumption": "1350 W",
+    "algorithm": "Cuckoo_CycleEquihashEtchashEthashLyra2REv2Lyra2ZRandomXX16R",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "AE",
+      "XMR",
+      "RVC",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/rx_480_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-53.html",
+    "name": "GTX 1060 8 cards",
+    "manufacturer": "-",
+    "release_date": "2016/11",
+    "hashrate": "-",
+    "power_consumption": "1590 W",
+    "algorithm": "BeamHashIIIBlake2B+SHA3Cuckatoo32Cuckoo_CycleEaglesongEquihashEquihash210_9EtchashEthashKawPowLyra2REv2MTPNeoScryptOctopusProgPoWTensorityX16RX17X21SZelHash",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "BTM",
+      "SERO",
+      "AE",
+      "XVG-X17",
+      "PGN",
+      "ZEL",
+      "CKB",
+      "CHI",
+      "HNS",
+      "AION",
+      "XFR",
+      "RVN",
+      "GRIN-32",
+      "RVC",
+      "BEAM",
+      "CFX",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/gtx_1060_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-55.html",
+    "name": "Calf Miner P2 (NP 102)",
+    "manufacturer": "Calf Miner One",
+    "release_date": "2017/12",
+    "hashrate": "290 M",
+    "power_consumption": "2016 W",
+    "algorithm": "Ethash",
+    "coins": [
+      "ETH",
+      "CLO"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/calf_miner_p2（np_102）.jpg"
+  },
+  {
+    "fileName": "f2-56.html",
+    "name": "Maya D1 (RX 570)",
+    "manufacturer": "玛雅科技",
+    "release_date": "2018/02",
+    "hashrate": "230 M",
+    "power_consumption": "1300 W",
+    "algorithm": "Ethash",
+    "coins": [
+      "ETH",
+      "CLO"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/mayaminer_d1（rx_570）.jpg"
+  },
+  {
+    "fileName": "f2-57.html",
+    "name": "Antminer X3",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/04",
+    "hashrate": "220 K",
+    "power_consumption": "535 W",
+    "algorithm": "Cryptonight",
+    "coins": [],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_x3.jpg"
+  },
+  {
+    "fileName": "f2-58.html",
+    "name": "Antminer E3",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/07",
+    "hashrate": "190 M",
+    "power_consumption": "836 W",
+    "algorithm": "Ethash",
+    "coins": [],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_e3.jpg"
+  },
+  {
+    "fileName": "f2-59.html",
+    "name": "Antminer Z9",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/05",
+    "hashrate": "40.8 K",
+    "power_consumption": "1150 W",
+    "algorithm": "Equihash",
+    "coins": [
+      "ZEC",
+      "ZEN"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_z9.jpg"
+  },
+  {
+    "fileName": "f2-6.html",
+    "name": "Antminer T9+",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/01",
+    "hashrate": "10.5 T",
+    "power_consumption": "1432 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_t9+.jpg"
+  },
+  {
+    "fileName": "f2-60.html",
+    "name": "Antminer Z9 Mini",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/06",
+    "hashrate": "10 K",
+    "power_consumption": "300 W",
+    "algorithm": "Equihash",
+    "coins": [
+      "ZEC",
+      "ZEN"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_z9_mini.jpg"
+  },
+  {
+    "fileName": "f2-61.html",
+    "name": "INNOSILICON T2 Turbo (T2T) Miner",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/07",
+    "hashrate": "24 T",
+    "power_consumption": "1980 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": ""
+  },
+  {
+    "fileName": "f2-62.html",
+    "name": "INNOSILICON Equihash A9 ZMaster",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/06",
+    "hashrate": "50 K",
+    "power_consumption": "620 W",
+    "algorithm": "Equihash",
+    "coins": [
+      "ZEC",
+      "ZEN"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_equihash_a9_zmaster.jpg"
+  },
+  {
+    "fileName": "f2-63.html",
+    "name": "INNOSILICON D9+",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/04",
+    "hashrate": "-",
+    "power_consumption": "1230 W",
+    "algorithm": "Blake256Blake256r14",
+    "coins": [
+      "HC",
+      "DCR"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_d9+.jpg"
+  },
+  {
+    "fileName": "f2-64.html",
+    "name": "INNOSILICON A8+ CryptoMaster",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/05",
+    "hashrate": "248 K",
+    "power_consumption": "480 W",
+    "algorithm": "Cryptonight",
+    "coins": [],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_a8+_cryptomaster.jpg"
+  },
+  {
+    "fileName": "f2-65.html",
+    "name": "INNOSILICON A8 CryptoMaster",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/04",
+    "hashrate": "160 K",
+    "power_consumption": "350 W",
+    "algorithm": "Cryptonight",
+    "coins": [],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_a8_cryptomaster.jpg"
+  },
+  {
+    "fileName": "f2-66.html",
+    "name": "Baika BK-N240 (Cryptonight)",
+    "manufacturer": "Baikal",
+    "release_date": "2018/05",
+    "hashrate": "240 K",
+    "power_consumption": "650 W",
+    "algorithm": "Cryptonight",
+    "coins": [],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/baikal_miner_bk-n240（cryptonight）.jpg"
+  },
+  {
+    "fileName": "f2-68.html",
+    "name": "Baikal BK-N70 (Cryptonight)",
+    "manufacturer": "Baikal",
+    "release_date": "2018/02",
+    "hashrate": "70 K",
+    "power_consumption": "220 W",
+    "algorithm": "Cryptonight",
+    "coins": [],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/baikal_miner_bk-n70（cryptonight）.jpg"
+  },
+  {
+    "fileName": "f2-7.html",
+    "name": "INNOSILICON T2 Miner",
+    "manufacturer": "INNOSILICON",
+    "release_date": "2018/05",
+    "hashrate": "17.2 T",
+    "power_consumption": "1570 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/innosilicon_t2_miner.jpg"
+  },
+  {
+    "fileName": "f2-70.html",
+    "name": "Baikal BK-N+ (Cryptonight)",
+    "manufacturer": "Baikal",
+    "release_date": "2018/02",
+    "hashrate": "40 K",
+    "power_consumption": "130 W",
+    "algorithm": "Cryptonight",
+    "coins": [],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/baikal_miner_bk-n70（cryptonight）.jpg"
+  },
+  {
+    "fileName": "f2-72.html",
+    "name": "Baikal BK-B (Blake256R14)",
+    "manufacturer": "Baikal",
+    "release_date": "2018/02",
+    "hashrate": "160 G",
+    "power_consumption": "410 W",
+    "algorithm": "Blake256r14",
+    "coins": [
+      "DCR"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/baikal_miner_bk-b（blake256r14）.jpg"
+  },
+  {
+    "fileName": "f2-74.html",
+    "name": "Baikal Miner BK-B (Blake2B)",
+    "manufacturer": "Baikal",
+    "release_date": "2018/02",
+    "hashrate": "0.08 T",
+    "power_consumption": "300 W",
+    "algorithm": "Blake2B",
+    "coins": [],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/baikal_miner_bk-b（blake2b）.jpg"
+  },
+  {
+    "fileName": "f2-77.html",
+    "name": "Baikal BK-X (X11)",
+    "manufacturer": "Baikal",
+    "release_date": "2018/02",
+    "hashrate": "10 G",
+    "power_consumption": "630 W",
+    "algorithm": "X11",
+    "coins": [
+      "DASH"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/baikal_miner_bk-x（x11）.jpg"
+  },
+  {
+    "fileName": "f2-79.html",
+    "name": "Baikal BK-X (Qubit)",
+    "manufacturer": "Baikal",
+    "release_date": "2018/02",
+    "hashrate": "10 G",
+    "power_consumption": "390 W",
+    "algorithm": "Qubit",
+    "coins": [
+      "DGB-QUBIT"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/baikal_miner_bk-x（qubit）.jpg"
+  },
+  {
+    "fileName": "f2-8.html",
+    "name": "Avalon A741",
+    "manufacturer": "Canaan",
+    "release_date": "2016/12",
+    "hashrate": "7.3 T",
+    "power_consumption": "1150 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/avalonminer_a741.jpg"
+  },
+  {
+    "fileName": "f2-80.html",
+    "name": "Baikal BK-X (Groestl)",
+    "manufacturer": "Baikal",
+    "release_date": "2018/02",
+    "hashrate": "10 G",
+    "power_consumption": "150 W",
+    "algorithm": "Myriad-Groestl",
+    "coins": [
+      "XVG-GROESTL"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/baikal_miner_bk-x（groestl）.jpg"
+  },
+  {
+    "fileName": "f2-82.html",
+    "name": "Baikal BK-X (Skein)",
+    "manufacturer": "Baikal",
+    "release_date": "2018/02",
+    "hashrate": "5 G",
+    "power_consumption": "120 W",
+    "algorithm": "Skein",
+    "coins": [
+      "DGB-SKEIN"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/baikal_miner_bk-x（skein）.jpg"
+  },
+  {
+    "fileName": "f2-84.html",
+    "name": "Antminer S9j",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/08",
+    "hashrate": "14.5 T",
+    "power_consumption": "1350 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_s9j.jpg"
+  },
+  {
+    "fileName": "f2-87.html",
+    "name": "BginMiner (RX570 4G)",
+    "manufacturer": "Bgin",
+    "release_date": "2018/05",
+    "hashrate": "230 M",
+    "power_consumption": "1200 W",
+    "algorithm": "Ethash",
+    "coins": [
+      "ETH",
+      "CLO"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/bginminer（rx570_4g）.jpg"
+  },
+  {
+    "fileName": "f2-88.html",
+    "name": "Antminer G2 (RX 570)",
+    "manufacturer": "Bitmain",
+    "release_date": "2017/12",
+    "hashrate": "-",
+    "power_consumption": "1200 W",
+    "algorithm": "EtchashEthash",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_g2（rx_570）.jpg"
+  },
+  {
+    "fileName": "f2-89.html",
+    "name": "GTX 1070 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/05",
+    "hashrate": "-",
+    "power_consumption": "1350 W",
+    "algorithm": "BeamHashIIICuckoo_CycleEquihashEquihash210_9EtchashEthashLyra2REv2NeoScryptOctopusProgPoWRandomXTensorityX13X16RX17X21S",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "BTM",
+      "BCD",
+      "AE",
+      "XVG-X17",
+      "PGN",
+      "XMR",
+      "CHI",
+      "AION",
+      "RVC",
+      "BEAM",
+      "SERO",
+      "CFX",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/gtx_1070_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-9.html",
+    "name": "Avalon A821",
+    "manufacturer": "Canaan",
+    "release_date": "2017/12",
+    "hashrate": "11.5 T",
+    "power_consumption": "1200 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/avalonminer_a821.jpg"
+  },
+  {
+    "fileName": "f2-91.html",
+    "name": "GTX 1080 8 cards",
+    "manufacturer": "-",
+    "release_date": "2018/05",
+    "hashrate": "-",
+    "power_consumption": "1590 W",
+    "algorithm": "Cuckoo_CycleEquihashEquihash210_9EtchashEthashLyra2REv2NeoScryptTensorityX13X16RZelHash",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "BTM",
+      "BCD",
+      "AE",
+      "ZEL",
+      "CHI",
+      "AION",
+      "RVC",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/gtx_1080_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-93.html",
+    "name": "GTX 1070Ti 8 cards",
+    "manufacturer": "-",
+    "release_date": "2017/12",
+    "hashrate": "-",
+    "power_consumption": "1350 W",
+    "algorithm": "Blake2B+SHA3Cuckoo_CycleEaglesongEquihashEquihash210_9EtchashEthashKawPowLyra2REv2NeoScryptOctopusRandomXTensorityX13X16RX17X21SZelHash",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "BTM",
+      "BCD",
+      "AE",
+      "XVG-X17",
+      "PGN",
+      "ZEL",
+      "CKB",
+      "XMR",
+      "CHI",
+      "HNS",
+      "AION",
+      "RVN",
+      "RVC",
+      "CFX",
+      "ETC"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/gtx_1070ti_8_cardsminer.png"
+  },
+  {
+    "fileName": "f2-95.html",
+    "name": "GTX 1080Ti 8 cards",
+    "manufacturer": "-",
+    "release_date": "2017/12",
+    "hashrate": "-",
+    "power_consumption": "2150 W",
+    "algorithm": "Blake2B+SHA3Cuckatoo32Cuckoo_CycleEaglesongEquihashEquihash210_9EthashKawPowLyra2REv2NeoScryptOctopusProgPoWRandomXTensorityX13X16RX17ZelHash",
+    "coins": [
+      "ETH",
+      "CLO",
+      "ZEC",
+      "ZEN",
+      "MONA",
+      "BTM",
+      "BCD",
+      "AE",
+      "SERO",
+      "XVG-X17",
+      "ZEL",
+      "CKB",
+      "XMR",
+      "CHI",
+      "HNS",
+      "AION",
+      "RVN",
+      "GRIN-32",
+      "RVC",
+      "CFX"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/gtx_1080ti_8_cards_miner.png"
+  },
+  {
+    "fileName": "f2-96.html",
+    "name": "IMAMBA X1",
+    "manufacturer": "IMAMBA",
+    "release_date": "2018/01",
+    "hashrate": "230 M",
+    "power_consumption": "1200 W",
+    "algorithm": "Ethash",
+    "coins": [
+      "ETH",
+      "CLO"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/imamba_x1_miner.jpg"
+  },
+  {
+    "fileName": "f2-97.html",
+    "name": "Whatsminer M10",
+    "manufacturer": "比特微",
+    "release_date": "2018/08",
+    "hashrate": "33 T",
+    "power_consumption": "2145 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/whatsminer_m10.jpg"
+  },
+  {
+    "fileName": "f2-98.html",
+    "name": "Avalon A9",
+    "manufacturer": "Canaan",
+    "release_date": "2018/08",
+    "hashrate": "23 T",
+    "power_consumption": "1720 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/avalonminer_a9.jpg"
+  },
+  {
+    "fileName": "f2-99.html",
+    "name": "Antminer S9 Hydro",
+    "manufacturer": "Bitmain",
+    "release_date": "2018/08",
+    "hashrate": "18 T",
+    "power_consumption": "1728 W",
+    "algorithm": "SHA256d",
+    "coins": [
+      "BTC",
+      "BCHN",
+      "BSV",
+      "DGB-SHA256D"
+    ],
+    "image": "https://static.f2pool.com/assets/mining-machine/img/antminer_s9_hydro.jpg"
+  }
+]

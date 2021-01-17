@@ -1,0 +1,4592 @@
+[
+  {
+    "Asic": {
+      "ID": "1",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S3",
+      "ReleaseDate": "07/2014",
+      "Noise": "60",
+      "Price": "382",
+      "TimeStamp": "2021-01-09 18:19:59"
+    },
+    "Algo": [
+      {
+        "MinerID": "1",
+        "Algo": "SHA-256",
+        "Hashrate": "478",
+        "Hashtype": "Gh/s",
+        "Power": "366",
+        "Coins": "0.00000371536",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "2",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S5",
+      "ReleaseDate": "12/2014",
+      "Noise": "60",
+      "Price": "0",
+      "TimeStamp": "2019-06-07 15:42:12"
+    },
+    "Algo": [
+      {
+        "MinerID": "2",
+        "Algo": "SHA-256",
+        "Hashrate": "1.155",
+        "Hashtype": "Th/s",
+        "Power": "590",
+        "Coins": "0.00000897749",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "3",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S7",
+      "ReleaseDate": "09/2015",
+      "Noise": "62",
+      "Price": "0",
+      "TimeStamp": "2019-06-09 19:50:18"
+    },
+    "Algo": [
+      {
+        "MinerID": "3",
+        "Algo": "SHA-256",
+        "Hashrate": "4.73",
+        "Hashtype": "Th/s",
+        "Power": "1293",
+        "Coins": "0.0000367649",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "4",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S9 - 11.5Th/s",
+      "ReleaseDate": "06/2016",
+      "Noise": "85",
+      "Price": "0",
+      "TimeStamp": "2019-06-09 20:00:14"
+    },
+    "Algo": [
+      {
+        "MinerID": "4",
+        "Algo": "SHA-256",
+        "Hashrate": "11.5",
+        "Hashtype": "Th/s",
+        "Power": "1127",
+        "Coins": "0.0000893862",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "5",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S7-LN",
+      "ReleaseDate": "06/2016",
+      "Noise": "48",
+      "Price": "0",
+      "TimeStamp": "2019-06-09 20:00:54"
+    },
+    "Algo": [
+      {
+        "MinerID": "5",
+        "Algo": "SHA-256",
+        "Hashrate": "2.7",
+        "Hashtype": "Th/s\r\n",
+        "Power": "697",
+        "Coins": "2.09863e-17",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "6",
+      "Manufacturer": "Baikal",
+      "Model": "Quadruple Mini Miner",
+      "ReleaseDate": "08/2016",
+      "Noise": "50",
+      "Price": "0",
+      "TimeStamp": "2019-06-09 20:02:14"
+    },
+    "Algo": [
+      {
+        "MinerID": "6",
+        "Algo": "X11",
+        "Hashrate": "600",
+        "Hashtype": "Mh/s",
+        "Power": "160",
+        "Coins": "0.000114289",
+        "Coinstype": "Dash"
+      },
+      {
+        "MinerID": "6",
+        "Algo": "X13",
+        "Hashrate": "600",
+        "Hashtype": "Mh/s",
+        "Power": "184",
+        "Coins": "2.80748",
+        "Coinstype": "DeepOnion"
+      },
+      {
+        "MinerID": "6",
+        "Algo": "X14",
+        "Hashrate": "600",
+        "Hashtype": "Mh/s",
+        "Power": "188",
+        "Coins": "0",
+        "Coinstype": "BERNcash"
+      },
+      {
+        "MinerID": "6",
+        "Algo": "X15",
+        "Hashrate": "600",
+        "Hashtype": "Mh/s",
+        "Power": "192",
+        "Coins": "0",
+        "Coinstype": "Kobocoin"
+      },
+      {
+        "MinerID": "6",
+        "Algo": "Quark",
+        "Hashrate": "600",
+        "Hashtype": "Mh/s",
+        "Power": "100",
+        "Coins": "0.312407",
+        "Coinstype": "Quark"
+      },
+      {
+        "MinerID": "6",
+        "Algo": "Qubit",
+        "Hashrate": "600",
+        "Hashtype": "Mh/s",
+        "Power": "112",
+        "Coins": "3.85329",
+        "Coinstype": "DigiByte"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "7",
+      "Manufacturer": "Baikal",
+      "Model": "Mini Miner",
+      "ReleaseDate": "09/2016",
+      "Noise": "45",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 16:45:19"
+    },
+    "Algo": [
+      {
+        "MinerID": "7",
+        "Algo": "X11",
+        "Hashrate": "150",
+        "Hashtype": "Mh/s",
+        "Power": "40",
+        "Coins": "0.0000285723",
+        "Coinstype": "Dash"
+      },
+      {
+        "MinerID": "7",
+        "Algo": "X13",
+        "Hashrate": "150",
+        "Hashtype": "Mh/s",
+        "Power": "46",
+        "Coins": "0.701871",
+        "Coinstype": "DeepOnion"
+      },
+      {
+        "MinerID": "7",
+        "Algo": "X14",
+        "Hashrate": "150",
+        "Hashtype": "Mh/s",
+        "Power": "47",
+        "Coins": "0",
+        "Coinstype": "BERNcash"
+      },
+      {
+        "MinerID": "7",
+        "Algo": "X15",
+        "Hashrate": "150",
+        "Hashtype": "Mh/s",
+        "Power": "48",
+        "Coins": "0",
+        "Coinstype": "Kobocoin"
+      },
+      {
+        "MinerID": "7",
+        "Algo": "Quark",
+        "Hashrate": "150",
+        "Hashtype": "Mh/s",
+        "Power": "25",
+        "Coins": "0.0781017",
+        "Coinstype": "Quark"
+      },
+      {
+        "MinerID": "7",
+        "Algo": "Qubit",
+        "Hashrate": "150",
+        "Hashtype": "Mh/s",
+        "Power": "28",
+        "Coins": "0.963323",
+        "Coinstype": "DigiByte"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "8",
+      "Manufacturer": "Baikal",
+      "Model": "Giant A900",
+      "ReleaseDate": "10/2016",
+      "Noise": "65",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 17:00:19"
+    },
+    "Algo": [
+      {
+        "MinerID": "8",
+        "Algo": "X11",
+        "Hashrate": "900",
+        "Hashtype": "Mh/s",
+        "Power": "217",
+        "Coins": "0.000171434",
+        "Coinstype": "Dash"
+      },
+      {
+        "MinerID": "8",
+        "Algo": "X13",
+        "Hashrate": "900",
+        "Hashtype": "Mh/s",
+        "Power": "255",
+        "Coins": "4.21123",
+        "Coinstype": "DeepOnion"
+      },
+      {
+        "MinerID": "8",
+        "Algo": "X14",
+        "Hashrate": "900",
+        "Hashtype": "Mh/s",
+        "Power": "263",
+        "Coins": "0",
+        "Coinstype": "BERNcash"
+      },
+      {
+        "MinerID": "8",
+        "Algo": "X15",
+        "Hashrate": "900",
+        "Hashtype": "Mh/s",
+        "Power": "270",
+        "Coins": "0",
+        "Coinstype": "Kobocoin"
+      },
+      {
+        "MinerID": "8",
+        "Algo": "Quark",
+        "Hashrate": "900",
+        "Hashtype": "Mh/s",
+        "Power": "132",
+        "Coins": "0.46861",
+        "Coinstype": "Quark"
+      },
+      {
+        "MinerID": "8",
+        "Algo": "Qubit",
+        "Hashrate": "900",
+        "Hashtype": "Mh/s",
+        "Power": "146",
+        "Coins": "5.77994",
+        "Coinstype": "DigiByte"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "9",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S9 - 12.5Th/s",
+      "ReleaseDate": "02/2017",
+      "Noise": "85",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 17:30:34"
+    },
+    "Algo": [
+      {
+        "MinerID": "9",
+        "Algo": "SHA-256",
+        "Hashrate": "12.5",
+        "Hashtype": "Th/s",
+        "Power": "1225",
+        "Coins": "0.0000971589",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "10",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer R4",
+      "ReleaseDate": "02/2017",
+      "Noise": "52",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 17:33:14"
+    },
+    "Algo": [
+      {
+        "MinerID": "10",
+        "Algo": "SHA-256",
+        "Hashrate": "8.7",
+        "Hashtype": "Th/s",
+        "Power": "845",
+        "Coins": "0.0000676226",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "11",
+      "Manufacturer": "Canaan",
+      "Model": "AvalonMiner 741",
+      "ReleaseDate": "04/2017",
+      "Noise": "65",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 18:03:42"
+    },
+    "Algo": [
+      {
+        "MinerID": "11",
+        "Algo": "SHA-256",
+        "Hashrate": "7.3",
+        "Hashtype": "Th/s",
+        "Power": "1150",
+        "Coins": "0.0000567408",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "12",
+      "Manufacturer": "Baikal",
+      "Model": "Miner Cube",
+      "ReleaseDate": "04/2017",
+      "Noise": "45",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 19:49:39"
+    },
+    "Algo": [
+      {
+        "MinerID": "12",
+        "Algo": "X11",
+        "Hashrate": "300",
+        "Hashtype": "Mh/s",
+        "Power": "75",
+        "Coins": "0.0000571445",
+        "Coinstype": "Dash"
+      },
+      {
+        "MinerID": "12",
+        "Algo": "X13",
+        "Hashrate": "300",
+        "Hashtype": "Mh/s",
+        "Power": "87",
+        "Coins": "1.40374",
+        "Coinstype": "DeepOnion"
+      },
+      {
+        "MinerID": "12",
+        "Algo": "X14",
+        "Hashrate": "300",
+        "Hashtype": "Mh/s",
+        "Power": "89",
+        "Coins": "0",
+        "Coinstype": "BERNcash"
+      },
+      {
+        "MinerID": "12",
+        "Algo": "X15",
+        "Hashrate": "300",
+        "Hashtype": "Mh/s",
+        "Power": "91",
+        "Coins": "0",
+        "Coinstype": "Kobocoin"
+      },
+      {
+        "MinerID": "12",
+        "Algo": "Quark",
+        "Hashrate": "300",
+        "Hashtype": "Mh/s",
+        "Power": "50",
+        "Coins": "0.156203",
+        "Coinstype": "Quark"
+      },
+      {
+        "MinerID": "12",
+        "Algo": "Qubit",
+        "Hashrate": "300",
+        "Hashtype": "Mh/s",
+        "Power": "55",
+        "Coins": "1.92665",
+        "Coinstype": "DigiByte"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "13",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer T9 - 11.5Th/s\r\n",
+      "ReleaseDate": "04/2017",
+      "Noise": "68",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 19:56:14"
+    },
+    "Algo": [
+      {
+        "MinerID": "13",
+        "Algo": "SHA-256",
+        "Hashrate": "11.5",
+        "Hashtype": "Th/s",
+        "Power": "1450",
+        "Coins": "0.0000893862",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "14",
+      "Manufacturer": "PinIdea",
+      "Model": "DR-3",
+      "ReleaseDate": "04/2017",
+      "Noise": "50",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 20:00:38"
+    },
+    "Algo": [
+      {
+        "MinerID": "14",
+        "Algo": "X11",
+        "Hashrate": "600",
+        "Hashtype": "Mh/s",
+        "Power": "345",
+        "Coins": "0.000114289",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "15",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer L3+ - 504Mh/s\r\n",
+      "ReleaseDate": "06/2017",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 20:11:16"
+    },
+    "Algo": [
+      {
+        "MinerID": "15",
+        "Algo": "Scrypt",
+        "Hashrate": "504",
+        "Hashtype": "Mh/s",
+        "Power": "800",
+        "Coins": "0.0136506",
+        "Coinstype": "Litecoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "16",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S9 - 13Th/s\r\n",
+      "ReleaseDate": "07/2017",
+      "Noise": "85",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 20:16:36"
+    },
+    "Algo": [
+      {
+        "MinerID": "16",
+        "Algo": "SHA-256",
+        "Hashrate": "13",
+        "Hashtype": "Th/s",
+        "Power": "1300",
+        "Coins": "0.000101045",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "17",
+      "Manufacturer": "Innosilicon",
+      "Model": "A4 Dominator",
+      "ReleaseDate": "07/2017",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 20:18:06"
+    },
+    "Algo": [
+      {
+        "MinerID": "17",
+        "Algo": "Scrypt",
+        "Hashrate": "280",
+        "Hashtype": "Mh/s",
+        "Power": "1050",
+        "Coins": "0.00758368",
+        "Coinstype": "Litecoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "18",
+      "Manufacturer": "iBeLink",
+      "Model": "DM11G",
+      "ReleaseDate": "07/2017",
+      "Noise": "81",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 20:43:08"
+    },
+    "Algo": [
+      {
+        "MinerID": "18",
+        "Algo": "X11",
+        "Hashrate": "10.8",
+        "Hashtype": "Gh/s",
+        "Power": "810",
+        "Coins": "0.0020572",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "19",
+      "Manufacturer": "Baikal",
+      "Model": "Giant+ A2000",
+      "ReleaseDate": "08/2017",
+      "Noise": "65",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 20:44:51"
+    },
+    "Algo": [
+      {
+        "MinerID": "19",
+        "Algo": "X11",
+        "Hashrate": "2",
+        "Hashtype": "Gh/s",
+        "Power": "430",
+        "Coins": "0.000380964",
+        "Coinstype": "Dash"
+      },
+      {
+        "MinerID": "19",
+        "Algo": "X13",
+        "Hashrate": "1.6",
+        "Hashtype": "Gh/s",
+        "Power": "430",
+        "Coins": "7.48663",
+        "Coinstype": "DeepOnion"
+      },
+      {
+        "MinerID": "19",
+        "Algo": "X14",
+        "Hashrate": "1.6",
+        "Hashtype": "Gh/s",
+        "Power": "440",
+        "Coins": "0",
+        "Coinstype": "BERNcash"
+      },
+      {
+        "MinerID": "19",
+        "Algo": "X15",
+        "Hashrate": "1.6",
+        "Hashtype": "Gh/s",
+        "Power": "450",
+        "Coins": "0",
+        "Coinstype": "Kobocoin"
+      },
+      {
+        "MinerID": "19",
+        "Algo": "Quark",
+        "Hashrate": "2",
+        "Hashtype": "Gh/s",
+        "Power": "248",
+        "Coins": "1.04136",
+        "Coinstype": "Quark"
+      },
+      {
+        "MinerID": "19",
+        "Algo": "Qubit",
+        "Hashrate": "2",
+        "Hashtype": "Gh/s",
+        "Power": "280",
+        "Coins": "12.8443",
+        "Coinstype": "DigiByte"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "20",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer T9 - 12.5Th/s\r\n",
+      "ReleaseDate": "08/2017",
+      "Noise": "68",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 20:50:25"
+    },
+    "Algo": [
+      {
+        "MinerID": "20",
+        "Algo": "SHA-256",
+        "Hashrate": "12.5",
+        "Hashtype": "Th/s",
+        "Power": "1576",
+        "Coins": "0.0000971589",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "21",
+      "Manufacturer": "PinIdea",
+      "Model": "DR-100",
+      "ReleaseDate": "08/2017",
+      "Noise": "55",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 20:55:23"
+    },
+    "Algo": [
+      {
+        "MinerID": "21",
+        "Algo": "X11",
+        "Hashrate": "19",
+        "Hashtype": "Gh/s",
+        "Power": "900",
+        "Coins": "0.00361915",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "22",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S9 - 13.5Th/s\r\n",
+      "ReleaseDate": "09/2017",
+      "Noise": "85",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 20:56:57"
+    },
+    "Algo": [
+      {
+        "MinerID": "22",
+        "Algo": "SHA-256",
+        "Hashrate": "13.5",
+        "Hashtype": "Th/s",
+        "Power": "1323",
+        "Coins": "0.000104932",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "23",
+      "Manufacturer": "Pantech",
+      "Model": "SX6",
+      "ReleaseDate": "09/2017",
+      "Noise": "72",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 20:58:04"
+    },
+    "Algo": [
+      {
+        "MinerID": "23",
+        "Algo": "SHA-256",
+        "Hashrate": "8.5",
+        "Hashtype": "Th/s",
+        "Power": "1000",
+        "Coins": "0.0000660681",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "24",
+      "Manufacturer": "iBeLink",
+      "Model": "DM22G",
+      "ReleaseDate": "09/2017",
+      "Noise": "81",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 21:36:03"
+    },
+    "Algo": [
+      {
+        "MinerID": "24",
+        "Algo": "X11",
+        "Hashrate": "22",
+        "Hashtype": "Gh/s",
+        "Power": "810",
+        "Coins": "0.0041906",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "25",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer D3 - 15Gh/s\r\n",
+      "ReleaseDate": "09/2017",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 21:37:24"
+    },
+    "Algo": [
+      {
+        "MinerID": "25",
+        "Algo": "X11",
+        "Hashrate": "15",
+        "Hashtype": "Gh/s",
+        "Power": "1200",
+        "Coins": "0.00285723",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "26",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer D3 - 17.5Gh/s",
+      "ReleaseDate": "10/2017",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 21:38:42"
+    },
+    "Algo": [
+      {
+        "MinerID": "26",
+        "Algo": "X11",
+        "Hashrate": "17.5",
+        "Hashtype": "Gh/s",
+        "Power": "1280",
+        "Coins": "0.00333343",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "27",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer L3+ - 600Mh/s\r\n",
+      "ReleaseDate": "10/2017",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 21:39:49"
+    },
+    "Algo": [
+      {
+        "MinerID": "27",
+        "Algo": "Scrypt",
+        "Hashrate": "600",
+        "Hashtype": "Mh/s",
+        "Power": "910",
+        "Coins": "0.0162507",
+        "Coinstype": "Litecoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "28",
+      "Manufacturer": "Innosilicon",
+      "Model": "A5 DashMaster",
+      "ReleaseDate": "10/2017",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 21:40:50"
+    },
+    "Algo": [
+      {
+        "MinerID": "28",
+        "Algo": "X11",
+        "Hashrate": "32.5",
+        "Hashtype": "Gh/s",
+        "Power": "750",
+        "Coins": "0.00619066",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "29",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer D3 - 19.3Gh/s",
+      "ReleaseDate": "10/2017",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 21:42:03"
+    },
+    "Algo": [
+      {
+        "MinerID": "29",
+        "Algo": "X11",
+        "Hashrate": "19.3",
+        "Hashtype": "Gh/s",
+        "Power": "1350",
+        "Coins": "0.0036763",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "30",
+      "Manufacturer": "Innosilicon",
+      "Model": "A4+ LTCMaster",
+      "ReleaseDate": "11/2017",
+      "Noise": "80",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 21:43:04"
+    },
+    "Algo": [
+      {
+        "MinerID": "30",
+        "Algo": "Scrypt",
+        "Hashrate": "620",
+        "Hashtype": "Mh/s",
+        "Power": "750",
+        "Coins": "0.0167924",
+        "Coinstype": "Litecoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "31",
+      "Manufacturer": "Bitmain\r\n",
+      "Model": "Antminer S9 - 14Th/s",
+      "ReleaseDate": "11/2017",
+      "Noise": "85",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 21:44:39"
+    },
+    "Algo": [
+      {
+        "MinerID": "31",
+        "Algo": "SHA-256",
+        "Hashrate": "14",
+        "Hashtype": "Th/s",
+        "Power": "1372",
+        "Coins": "0.000108818",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "32",
+      "Manufacturer": "Baikal",
+      "Model": "BK-X",
+      "ReleaseDate": "11/2017",
+      "Noise": "65",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 21:46:03"
+    },
+    "Algo": [
+      {
+        "MinerID": "32",
+        "Algo": "X11",
+        "Hashrate": "10",
+        "Hashtype": "Gh/s",
+        "Power": "630",
+        "Coins": "0.00190482",
+        "Coinstype": "Dash"
+      },
+      {
+        "MinerID": "32",
+        "Algo": "Quark",
+        "Hashrate": "10",
+        "Hashtype": "Gh/s",
+        "Power": "360",
+        "Coins": "5.20678",
+        "Coinstype": "Quark"
+      },
+      {
+        "MinerID": "32",
+        "Algo": "Qubit",
+        "Hashrate": "10",
+        "Hashtype": "Gh/s",
+        "Power": "390",
+        "Coins": "64.2215",
+        "Coinstype": "DigiByte"
+      },
+      {
+        "MinerID": "32",
+        "Algo": "Myriad-Groestl",
+        "Hashrate": "10",
+        "Hashtype": "Gh/s",
+        "Power": "150",
+        "Coins": "0",
+        "Coinstype": "Myriadcoin"
+      },
+      {
+        "MinerID": "32",
+        "Algo": "Skein",
+        "Hashrate": "5",
+        "Hashtype": "Gh/s",
+        "Power": "120",
+        "Coins": "121.957",
+        "Coinstype": "Skeincoin"
+      },
+      {
+        "MinerID": "32",
+        "Algo": "Nist5",
+        "Hashrate": "10",
+        "Hashtype": "Gh/s",
+        "Power": "250",
+        "Coins": "0",
+        "Coinstype": "Electra"
+      },
+      {
+        "MinerID": "32",
+        "Algo": "X11Gost",
+        "Hashrate": "1.35",
+        "Hashtype": "Gh/s",
+        "Power": "200",
+        "Coins": "2.25333",
+        "Coinstype": "SIBCoin"
+      },
+      {
+        "MinerID": "32",
+        "Algo": "Groestl",
+        "Hashrate": "10",
+        "Hashtype": "Gh/s",
+        "Power": "210",
+        "Coins": "2.52193",
+        "Coinstype": "Groestlcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "33",
+      "Manufacturer": "PinIdea",
+      "Model": "DR-100 Pro",
+      "ReleaseDate": "11/2017",
+      "Noise": "55",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 21:55:23"
+    },
+    "Algo": [
+      {
+        "MinerID": "33",
+        "Algo": "X11",
+        "Hashrate": "21",
+        "Hashtype": "Gh/s",
+        "Power": "900",
+        "Coins": "0.00400012",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "34",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer G2",
+      "ReleaseDate": "12/2017",
+      "Noise": "72",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 21:56:21"
+    },
+    "Algo": [
+      {
+        "MinerID": "34",
+        "Algo": "Ethash",
+        "Hashrate": "220",
+        "Hashtype": "Mh/s",
+        "Power": "1200",
+        "Coins": "0.0162866",
+        "Coinstype": "Ethereum"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "35",
+      "Manufacturer": "Bitfury",
+      "Model": "B8",
+      "ReleaseDate": "12/2017",
+      "Noise": "85",
+      "Price": "6000",
+      "TimeStamp": "2019-10-03 16:19:45"
+    },
+    "Algo": [
+      {
+        "MinerID": "35",
+        "Algo": "SHA-256",
+        "Hashrate": "49",
+        "Hashtype": "Th/s",
+        "Power": "6400",
+        "Coins": "0.000380863",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "36",
+      "Manufacturer": "MicroBT",
+      "Model": "Whatsminer M3",
+      "ReleaseDate": "01/2018",
+      "Noise": "78",
+      "Price": "1200",
+      "TimeStamp": "2019-10-12 15:47:55"
+    },
+    "Algo": [
+      {
+        "MinerID": "36",
+        "Algo": "SHA-256",
+        "Hashrate": "12",
+        "Hashtype": "Th/s",
+        "Power": "2000",
+        "Coins": "0.0000932726",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "37",
+      "Manufacturer": "Bitfily",
+      "Model": "Snow Panther A1",
+      "ReleaseDate": "01/2017",
+      "Noise": "82",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 22:57:54"
+    },
+    "Algo": [
+      {
+        "MinerID": "37",
+        "Algo": "SHA-256",
+        "Hashrate": "49",
+        "Hashtype": "Th/s",
+        "Power": "5400",
+        "Coins": "0.000380863",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "38",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer T9+ - 10.5Th/s\r\n",
+      "ReleaseDate": "01/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 23:04:17"
+    },
+    "Algo": [
+      {
+        "MinerID": "38",
+        "Algo": "SHA-256",
+        "Hashrate": "10.5",
+        "Hashtype": "Th/s",
+        "Power": "1432",
+        "Coins": "0.0000816135",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "39",
+      "Manufacturer": "Pantech",
+      "Model": "WX6",
+      "ReleaseDate": "01/2018",
+      "Noise": "72",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 23:05:16"
+    },
+    "Algo": [
+      {
+        "MinerID": "39",
+        "Algo": "SHA-256",
+        "Hashrate": "34",
+        "Hashtype": "Th/s",
+        "Power": "5000",
+        "Coins": "0.000264272",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "40",
+      "Manufacturer": "Innosilicon",
+      "Model": "A6 LTCMaster",
+      "ReleaseDate": "01/2018",
+      "Noise": "82",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 23:06:08"
+    },
+    "Algo": [
+      {
+        "MinerID": "40",
+        "Algo": "Scrypt",
+        "Hashrate": "1.23",
+        "Hashtype": "Gh/s",
+        "Power": "1500",
+        "Coins": "0.033314",
+        "Coinstype": "Litecoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "41",
+      "Manufacturer": "Baikal",
+      "Model": "BK-B",
+      "ReleaseDate": "01/2018",
+      "Noise": "65",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 23:07:20"
+    },
+    "Algo": [
+      {
+        "MinerID": "41",
+        "Algo": "Blake256R14",
+        "Hashrate": "160",
+        "Hashtype": "Gh/s",
+        "Power": "410",
+        "Coins": "0.00120378",
+        "Coinstype": "Decred"
+      },
+      {
+        "MinerID": "41",
+        "Algo": "Blake256R8",
+        "Hashrate": "160",
+        "Hashtype": "Gh/s",
+        "Power": "260",
+        "Coins": "0",
+        "Coinstype": "Photon"
+      },
+      {
+        "MinerID": "41",
+        "Algo": "Blake2B",
+        "Hashrate": "80",
+        "Hashtype": "Gh/s",
+        "Power": "300",
+        "Coins": "0",
+        "Coinstype": "SiaClassic"
+      },
+      {
+        "MinerID": "41",
+        "Algo": "Lbry",
+        "Hashrate": "40",
+        "Hashtype": "Gh/s",
+        "Power": "400",
+        "Coins": "0",
+        "Coinstype": "Lbry-Credits"
+      },
+      {
+        "MinerID": "41",
+        "Algo": "Pascal",
+        "Hashrate": "40",
+        "Hashtype": "Gh/s",
+        "Power": "210",
+        "Coins": "0",
+        "Coinstype": "Pascalcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "42",
+      "Manufacturer": "BW",
+      "Model": "L21",
+      "ReleaseDate": "01/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 23:13:19"
+    },
+    "Algo": [
+      {
+        "MinerID": "42",
+        "Algo": "Scrypt",
+        "Hashrate": "550",
+        "Hashtype": "Mh/s",
+        "Power": "950",
+        "Coins": "0.0148965",
+        "Coinstype": "Litecoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "43",
+      "Manufacturer": "Ebang",
+      "Model": "Ebit E9+",
+      "ReleaseDate": "01/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 23:23:55"
+    },
+    "Algo": [
+      {
+        "MinerID": "43",
+        "Algo": "SHA-256",
+        "Hashrate": "9",
+        "Hashtype": "Th/s",
+        "Power": "1300",
+        "Coins": "0.0000699544",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "44",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer A3 - 815Gh/s",
+      "ReleaseDate": "01/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 23:30:12"
+    },
+    "Algo": [
+      {
+        "MinerID": "44",
+        "Algo": "Blake2B",
+        "Hashrate": "815",
+        "Hashtype": "Gh/s",
+        "Power": "1275",
+        "Coins": "0",
+        "Coinstype": "SiaClassic"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "45",
+      "Manufacturer": "Ebang",
+      "Model": "Ebit E10",
+      "ReleaseDate": "02/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 23:32:36"
+    },
+    "Algo": [
+      {
+        "MinerID": "45",
+        "Algo": "SHA-256",
+        "Hashrate": "18",
+        "Hashtype": "Th/s",
+        "Power": "1650",
+        "Coins": "0.000139909",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "46",
+      "Manufacturer": "Canaan",
+      "Model": "AvalonMiner 821",
+      "ReleaseDate": "02/2018",
+      "Noise": "65",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 23:37:12"
+    },
+    "Algo": [
+      {
+        "MinerID": "46",
+        "Algo": "SHA-256",
+        "Hashrate": "11.5",
+        "Hashtype": "Th/s",
+        "Power": "1200",
+        "Coins": "0.0000893862",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "47",
+      "Manufacturer": "PandaMiner",
+      "Model": "B5 Plus",
+      "ReleaseDate": "02/2018",
+      "Noise": "65",
+      "Price": "0",
+      "TimeStamp": "2019-06-18 23:38:11"
+    },
+    "Algo": [
+      {
+        "MinerID": "47",
+        "Algo": "Ethash",
+        "Hashrate": "110",
+        "Hashtype": "Mh/s",
+        "Power": "800",
+        "Coins": "0.00814331",
+        "Coinstype": "Ethereum"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "48",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer V9 - 4Th/s",
+      "ReleaseDate": "03/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:03:57"
+    },
+    "Algo": [
+      {
+        "MinerID": "48",
+        "Algo": "SHA-256",
+        "Hashrate": "4",
+        "Hashtype": "Th/s",
+        "Power": "1027",
+        "Coins": "0.0000310909",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "49",
+      "Manufacturer": "MicroBT",
+      "Model": "Whatsminer M3X",
+      "ReleaseDate": "03/2018",
+      "Noise": "78",
+      "Price": "1200",
+      "TimeStamp": "2019-10-12 14:42:01"
+    },
+    "Algo": [
+      {
+        "MinerID": "49",
+        "Algo": "SHA-256",
+        "Hashrate": "12.5",
+        "Hashtype": "Th/s",
+        "Power": "2050",
+        "Coins": "0.0000971589",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "50",
+      "Manufacturer": "Baikal",
+      "Model": "BK-N",
+      "ReleaseDate": "03/2018",
+      "Noise": "60",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:07:05"
+    },
+    "Algo": [
+      {
+        "MinerID": "50",
+        "Algo": "CryptoNight",
+        "Hashrate": "20",
+        "Hashtype": "Kh/s",
+        "Power": "60",
+        "Coins": "0.0000000000606765",
+        "Coinstype": "Dero"
+      },
+      {
+        "MinerID": "50",
+        "Algo": "CryptoNight-Lite",
+        "Hashrate": "40",
+        "Hashtype": "Kh/s",
+        "Power": "60",
+        "Coins": "0",
+        "Coinstype": "Aeon"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "51",
+      "Manufacturer": "Innosilicon",
+      "Model": "A5+ DashMaster",
+      "ReleaseDate": "03/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:11:16"
+    },
+    "Algo": [
+      {
+        "MinerID": "51",
+        "Algo": "X11",
+        "Hashrate": "65",
+        "Hashtype": "Gh/s",
+        "Power": "1500",
+        "Coins": "0.0123813",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "52",
+      "Manufacturer": "Baikal",
+      "Model": "BK-N+",
+      "ReleaseDate": "03/2018",
+      "Noise": "60",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:12:07"
+    },
+    "Algo": [
+      {
+        "MinerID": "52",
+        "Algo": "CryptoNight",
+        "Hashrate": "40",
+        "Hashtype": "Kh/s",
+        "Power": "120",
+        "Coins": "0.000000000121353",
+        "Coinstype": "Dero"
+      },
+      {
+        "MinerID": "52",
+        "Algo": "CryptoNight-Lite",
+        "Hashrate": "80",
+        "Hashtype": "Kh/s",
+        "Power": "120",
+        "Coins": "0",
+        "Coinstype": "Aeon"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "53",
+      "Manufacturer": "PandaMiner",
+      "Model": "B3 Pro",
+      "ReleaseDate": "04/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:14:44"
+    },
+    "Algo": [
+      {
+        "MinerID": "53",
+        "Algo": "Ethash",
+        "Hashrate": "230",
+        "Hashtype": "Mh/s",
+        "Power": "1250",
+        "Coins": "0.0170269",
+        "Coinstype": "Ethereum"
+      },
+      {
+        "MinerID": "53",
+        "Algo": "Equihash",
+        "Hashrate": "2.04",
+        "Hashtype": "Ksol/s",
+        "Power": "1025",
+        "Coins": "0.00272665",
+        "Coinstype": "Zcash"
+      },
+      {
+        "MinerID": "53",
+        "Algo": "Cryptonight-V7",
+        "Hashrate": "5.52",
+        "Hashtype": "Kh/s",
+        "Power": "980",
+        "Coins": "0",
+        "Coinstype": "Dero"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "54",
+      "Manufacturer": "Halong Mining",
+      "Model": "DragonMint T1",
+      "ReleaseDate": "04/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:18:05"
+    },
+    "Algo": [
+      {
+        "MinerID": "54",
+        "Algo": "SHA-256",
+        "Hashrate": "16",
+        "Hashtype": "Th/s",
+        "Power": "1480",
+        "Coins": "0.000124363",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "55",
+      "Manufacturer": "Canaan",
+      "Model": "AvalonMiner 841",
+      "ReleaseDate": "04/2018",
+      "Noise": "65",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:50:03"
+    },
+    "Algo": [
+      {
+        "MinerID": "55",
+        "Algo": "SHA-256",
+        "Hashrate": "13.6",
+        "Hashtype": "Th/s",
+        "Power": "1290",
+        "Coins": "0.000105709",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "56",
+      "Manufacturer": "PinIdea",
+      "Model": "RR-200",
+      "ReleaseDate": "04/2018",
+      "Noise": "55",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:51:06"
+    },
+    "Algo": [
+      {
+        "MinerID": "56",
+        "Algo": "CryptoNight",
+        "Hashrate": "27",
+        "Hashtype": "Kh/s",
+        "Power": "350",
+        "Coins": "0.0000000000819133",
+        "Coinstype": "Dero"
+      },
+      {
+        "MinerID": "56",
+        "Algo": "CryptoNight-Lite",
+        "Hashrate": "55",
+        "Hashtype": "Kh/s",
+        "Power": "350",
+        "Coins": "0",
+        "Coinstype": "Aeon"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "57",
+      "Manufacturer": "Halong Mining",
+      "Model": "DragonMint B52",
+      "ReleaseDate": "04/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:53:39"
+    },
+    "Algo": [
+      {
+        "MinerID": "57",
+        "Algo": "Blake2B",
+        "Hashrate": "3.83",
+        "Hashtype": "Th/s",
+        "Power": "1380",
+        "Coins": "0",
+        "Coinstype": "SiaClassic"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "58",
+      "Manufacturer": "Halong Mining",
+      "Model": "DragonMint B29",
+      "ReleaseDate": "04/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:55:28"
+    },
+    "Algo": [
+      {
+        "MinerID": "58",
+        "Algo": "Blake256R14",
+        "Hashrate": "2.1",
+        "Hashtype": "Th/s",
+        "Power": "900",
+        "Coins": "0.0157997",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "59",
+      "Manufacturer": "Innosilicon",
+      "Model": "A8 CryptoMaster",
+      "ReleaseDate": "04/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:56:35"
+    },
+    "Algo": [
+      {
+        "MinerID": "59",
+        "Algo": "CryptoNight",
+        "Hashrate": "160",
+        "Hashtype": "Kh/s",
+        "Power": "350",
+        "Coins": "0.000000000485412",
+        "Coinstype": "Dero"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "60",
+      "Manufacturer": "PinIdea",
+      "Model": "RR-210",
+      "ReleaseDate": "04/2018",
+      "Noise": "55",
+      "Price": "0",
+      "TimeStamp": "2019-06-19 00:57:57"
+    },
+    "Algo": [
+      {
+        "MinerID": "60",
+        "Algo": "CryptoNight",
+        "Hashrate": "30",
+        "Hashtype": "Kh/s",
+        "Power": "350",
+        "Coins": "0.0000000000910148",
+        "Coinstype": "Dero"
+      },
+      {
+        "MinerID": "60",
+        "Algo": "CryptoNight-Lite",
+        "Hashrate": "60",
+        "Hashtype": "Kh/s",
+        "Power": "350",
+        "Coins": "0",
+        "Coinstype": "Aeon"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "61",
+      "Manufacturer": "Innosilicon",
+      "Model": "A8+ CryptoMaster",
+      "ReleaseDate": "04/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 21:49:21"
+    },
+    "Algo": [
+      {
+        "MinerID": "61",
+        "Algo": "CryptoNight",
+        "Hashrate": "240",
+        "Hashtype": "Kh/s",
+        "Power": "480",
+        "Coins": "0.000000000728118",
+        "Coinstype": "Dero"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "62",
+      "Manufacturer": "Innosilicon",
+      "Model": "S11 SiaMaster",
+      "ReleaseDate": "04/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 21:50:47"
+    },
+    "Algo": [
+      {
+        "MinerID": "62",
+        "Algo": "Blake2B",
+        "Hashrate": "4.3",
+        "Hashtype": "Th/s",
+        "Power": "1380",
+        "Coins": "0",
+        "Coinstype": "SiaClassic"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "63",
+      "Manufacturer": "Innosilicon",
+      "Model": "D9 DecredMaster",
+      "ReleaseDate": "04/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 21:54:30"
+    },
+    "Algo": [
+      {
+        "MinerID": "63",
+        "Algo": "Blake256R14",
+        "Hashrate": "2.4",
+        "Hashtype": "Th/s",
+        "Power": "1000",
+        "Coins": "0.0180567",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "64",
+      "Manufacturer": "Bitmain\r\n",
+      "Model": "Antminer X3 - 220Kh/s",
+      "ReleaseDate": "05/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 21:57:29"
+    },
+    "Algo": [
+      {
+        "MinerID": "64",
+        "Algo": "CryptoNight",
+        "Hashrate": "220",
+        "Hashtype": "Kh/s",
+        "Power": "465",
+        "Coins": "0.000000000667442",
+        "Coinstype": "Dero"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "65",
+      "Manufacturer": "Bitmain\r\n",
+      "Model": "Antminer L3++ - 596Mh/s",
+      "ReleaseDate": "05/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 22:14:30"
+    },
+    "Algo": [
+      {
+        "MinerID": "65",
+        "Algo": "Scrypt",
+        "Hashrate": "596",
+        "Hashtype": "Mh/s",
+        "Power": "1050",
+        "Coins": "0.0161424",
+        "Coinstype": "Litecoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "66",
+      "Manufacturer": "Bitmain\r\n",
+      "Model": "Antminer B3 - 780H/s",
+      "ReleaseDate": "05/2018",
+      "Noise": "72",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 22:16:54"
+    },
+    "Algo": [
+      {
+        "MinerID": "66",
+        "Algo": "Tensority",
+        "Hashrate": "780",
+        "Hashtype": "H/s",
+        "Power": "360",
+        "Coins": "0.305583",
+        "Coinstype": "Bytom"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "67",
+      "Manufacturer": "Innosilicon",
+      "Model": "A8C CryptoMaster",
+      "ReleaseDate": "05/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 22:17:57"
+    },
+    "Algo": [
+      {
+        "MinerID": "67",
+        "Algo": "CryptoNight",
+        "Hashrate": "80",
+        "Hashtype": "Kh/s",
+        "Power": "175",
+        "Coins": "0.000000000242706",
+        "Coinstype": "Dero"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "68",
+      "Manufacturer": "iBeLink",
+      "Model": "DM56G",
+      "ReleaseDate": "05/2018",
+      "Noise": "72",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 22:18:54"
+    },
+    "Algo": [
+      {
+        "MinerID": "68",
+        "Algo": "X11",
+        "Hashrate": "56",
+        "Hashtype": "Gh/s",
+        "Power": "2100",
+        "Coins": "0.010667",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "69",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S9i - 14Th/s",
+      "ReleaseDate": "05/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 22:20:34"
+    },
+    "Algo": [
+      {
+        "MinerID": "69",
+        "Algo": "SHA-256",
+        "Hashrate": "14",
+        "Hashtype": "Th/s",
+        "Power": "1320",
+        "Coins": "0.000108818",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "70",
+      "Manufacturer": "Bitmain\r\n",
+      "Model": "Antminer S9i - 13.5Th/s",
+      "ReleaseDate": "05/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 22:21:35"
+    },
+    "Algo": [
+      {
+        "MinerID": "70",
+        "Algo": "SHA-256",
+        "Hashrate": "13.5",
+        "Hashtype": "Th/s",
+        "Power": "1310",
+        "Coins": "0.000104932",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "71",
+      "Manufacturer": "Ebang",
+      "Model": "Ebit E9.2",
+      "ReleaseDate": "05/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 22:24:04"
+    },
+    "Algo": [
+      {
+        "MinerID": "71",
+        "Algo": "SHA-256",
+        "Hashrate": "12",
+        "Hashtype": "Th/s",
+        "Power": "1320",
+        "Coins": "0.0000932726",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "72",
+      "Manufacturer": "ASICminer",
+      "Model": "8 Nano Pro",
+      "ReleaseDate": "05/2018",
+      "Noise": "48",
+      "Price": "9500",
+      "TimeStamp": "2019-09-13 20:14:16"
+    },
+    "Algo": [
+      {
+        "MinerID": "72",
+        "Algo": "SHA-256",
+        "Hashrate": "80",
+        "Hashtype": "Th/s",
+        "Power": "4200",
+        "Coins": "0.000621817",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "73",
+      "Manufacturer": "Bitmain\r\n",
+      "Model": "Antminer S9i - 13Th/s",
+      "ReleaseDate": "05/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 22:31:01"
+    },
+    "Algo": [
+      {
+        "MinerID": "73",
+        "Algo": "SHA-256",
+        "Hashrate": "13",
+        "Hashtype": "Th/s",
+        "Power": "1290",
+        "Coins": "0.000101045",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "74",
+      "Manufacturer": "Baikal",
+      "Model": "BK-N70",
+      "ReleaseDate": "05/2018",
+      "Noise": "62",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 22:32:23"
+    },
+    "Algo": [
+      {
+        "MinerID": "74",
+        "Algo": "CryptoNight",
+        "Hashrate": "70",
+        "Hashtype": "Kh/s",
+        "Power": "220",
+        "Coins": "0.000000000212368",
+        "Coinstype": "Dero"
+      },
+      {
+        "MinerID": "74",
+        "Algo": "CryptoNight-Lite",
+        "Hashrate": "140",
+        "Hashtype": "Kh/s",
+        "Power": "220",
+        "Coins": "0",
+        "Coinstype": "Aeon"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "75",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer B3 - 1Kh/s\r\n",
+      "ReleaseDate": "05/2018",
+      "Noise": "72",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 22:34:08"
+    },
+    "Algo": [
+      {
+        "MinerID": "75",
+        "Algo": "Tensority",
+        "Hashrate": "1",
+        "Hashtype": "Kh/s",
+        "Power": "380",
+        "Coins": "0.391773",
+        "Coinstype": "Bytom"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "76",
+      "Manufacturer": "Ebang",
+      "Model": "Ebit E9.3",
+      "ReleaseDate": "05/2018",
+      "Noise": "72",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 23:54:04"
+    },
+    "Algo": [
+      {
+        "MinerID": "76",
+        "Algo": "SHA-256",
+        "Hashrate": "16",
+        "Hashtype": "Th/s",
+        "Power": "1760",
+        "Coins": "0.000124363",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "76",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer L3++ - 580Mh/s\r\n",
+      "ReleaseDate": "05/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 22:40:32"
+    },
+    "Algo": [
+      {
+        "MinerID": "76",
+        "Algo": "SHA-256",
+        "Hashrate": "16",
+        "Hashtype": "Th/s",
+        "Power": "1760",
+        "Coins": "0.000124363",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "77",
+      "Manufacturer": "Innosilicon",
+      "Model": "T2 Terminator",
+      "ReleaseDate": "05/2018",
+      "Noise": "72",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 23:54:41"
+    },
+    "Algo": [
+      {
+        "MinerID": "77",
+        "Algo": "SHA-256",
+        "Hashrate": "17.2",
+        "Hashtype": "Th/s",
+        "Power": "1570",
+        "Coins": "0.000133691",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "78",
+      "Manufacturer": "Baikal",
+      "Model": "BK-N240",
+      "ReleaseDate": "05/2018",
+      "Noise": "62",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 23:55:14"
+    },
+    "Algo": [
+      {
+        "MinerID": "78",
+        "Algo": "CryptoNight",
+        "Hashrate": "240",
+        "Hashtype": "Kh/s",
+        "Power": "650",
+        "Coins": "0.000000000728118",
+        "Coinstype": "Dero"
+      },
+      {
+        "MinerID": "78",
+        "Algo": "CryptoNight-Lite",
+        "Hashrate": "480",
+        "Hashtype": "Kh/s",
+        "Power": "630",
+        "Coins": "0",
+        "Coinstype": "Aeon"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "80",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer Z9 Mini",
+      "ReleaseDate": "06/2018",
+      "Noise": "65",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 23:56:08"
+    },
+    "Algo": [
+      {
+        "MinerID": "80",
+        "Algo": "Equihash",
+        "Hashrate": "10",
+        "Hashtype": "Ksol/s",
+        "Power": "300",
+        "Coins": "0.016228",
+        "Coinstype": "Zcash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "81",
+      "Manufacturer": "iBeLink",
+      "Model": "DSM6T",
+      "ReleaseDate": "06/2018",
+      "Noise": "78",
+      "Price": "0",
+      "TimeStamp": "2019-06-20 23:57:04"
+    },
+    "Algo": [
+      {
+        "MinerID": "81",
+        "Algo": "Blake256R14",
+        "Hashrate": "6",
+        "Hashtype": "Th/s",
+        "Power": "2100",
+        "Coins": "0.0451419",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "82",
+      "Manufacturer": "Innosilicon",
+      "Model": "A9 ZMaster",
+      "ReleaseDate": "06/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 00:09:59"
+    },
+    "Algo": [
+      {
+        "MinerID": "82",
+        "Algo": "Equihash",
+        "Hashrate": "50",
+        "Hashtype": "Ksol/s",
+        "Power": "620",
+        "Coins": "0.0811398",
+        "Coinstype": "Zcash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "83",
+      "Manufacturer": "Baikal",
+      "Model": "BK-D",
+      "ReleaseDate": "06/2018",
+      "Noise": "65",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 00:11:05"
+    },
+    "Algo": [
+      {
+        "MinerID": "83",
+        "Algo": "Blake256R14",
+        "Hashrate": "320",
+        "Hashtype": "Gh/s",
+        "Power": "500",
+        "Coins": "0.00240757",
+        "Coinstype": "Decred"
+      },
+      {
+        "MinerID": "83",
+        "Algo": "Blake256R8",
+        "Hashrate": "280",
+        "Hashtype": "Gh/s",
+        "Power": "550",
+        "Coins": "0",
+        "Coinstype": "Photon"
+      },
+      {
+        "MinerID": "83",
+        "Algo": "Lbry",
+        "Hashrate": "80",
+        "Hashtype": "Gh/s",
+        "Power": "500",
+        "Coins": "0",
+        "Coinstype": "Lbry-Credits"
+      },
+      {
+        "MinerID": "83",
+        "Algo": "Pascal",
+        "Hashrate": "70",
+        "Hashtype": "Gh/s",
+        "Power": "550",
+        "Coins": "0",
+        "Coinstype": "Pascalcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "84",
+      "Manufacturer": "PandaMiner",
+      "Model": "B3 Pro 8G",
+      "ReleaseDate": "06/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 00:30:03"
+    },
+    "Algo": [
+      {
+        "MinerID": "84",
+        "Algo": "Ethash",
+        "Hashrate": "230",
+        "Hashtype": "Mh/s",
+        "Power": "1250",
+        "Coins": "0.0170269",
+        "Coinstype": "Ethereum"
+      },
+      {
+        "MinerID": "84",
+        "Algo": "Equihash",
+        "Hashrate": "2.04",
+        "Hashtype": "Ksol/s",
+        "Power": "1025",
+        "Coins": "0.00272665",
+        "Coinstype": "Zcash"
+      },
+      {
+        "MinerID": "84",
+        "Algo": "Cryptonight-V7",
+        "Hashrate": "5.52",
+        "Hashtype": "Kh/s",
+        "Power": "980",
+        "Coins": "0",
+        "Coinstype": "Dero"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "85",
+      "Manufacturer": "FFMiner",
+      "Model": "Decred D18",
+      "ReleaseDate": "06/2018",
+      "Noise": "55",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 00:17:40"
+    },
+    "Algo": [
+      {
+        "MinerID": "85",
+        "Algo": "Blake256R14",
+        "Hashrate": "340",
+        "Hashtype": "Gh/s",
+        "Power": "180",
+        "Coins": "0.00255804",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "86",
+      "Manufacturer": "Obelisk",
+      "Model": "SC1",
+      "ReleaseDate": "06/2018",
+      "Noise": "65",
+      "Price": "4000",
+      "TimeStamp": "2019-09-19 20:13:04"
+    },
+    "Algo": [
+      {
+        "MinerID": "86",
+        "Algo": "Blake2B",
+        "Hashrate": "550",
+        "Hashtype": "Gh/s",
+        "Power": "500",
+        "Coins": "0",
+        "Coinstype": "SiaClassic"
+      },
+      {
+        "MinerID": "86",
+        "Algo": "Blake2B-Sia",
+        "Hashrate": "550",
+        "Hashtype": "Gh/s",
+        "Power": "500",
+        "Coins": "2037.58",
+        "Coinstype": "SiaCoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "87",
+      "Manufacturer": "Obelisk",
+      "Model": "DCR1",
+      "ReleaseDate": "06/2018",
+      "Noise": "65",
+      "Price": "2500",
+      "TimeStamp": "2019-09-19 20:58:07"
+    },
+    "Algo": [
+      {
+        "MinerID": "87",
+        "Algo": "Blake256R14",
+        "Hashrate": "1.2",
+        "Hashtype": "Th/s",
+        "Power": "500",
+        "Coins": "0.00902837",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "88",
+      "Manufacturer": "Bitmain\r\n",
+      "Model": "Antminer E3 - 180Mh/s",
+      "ReleaseDate": "07/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 00:34:03"
+    },
+    "Algo": [
+      {
+        "MinerID": "88",
+        "Algo": "Ethash",
+        "Hashrate": "180",
+        "Hashtype": "Mh/s",
+        "Power": "800",
+        "Coins": "0.0133254",
+        "Coinstype": "Ethereum"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "89",
+      "Manufacturer": "Aladdin Miner",
+      "Model": "16Th/s Bitcoin",
+      "ReleaseDate": "07/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 00:35:21"
+    },
+    "Algo": [
+      {
+        "MinerID": "89",
+        "Algo": "SHA-256",
+        "Hashrate": "16",
+        "Hashtype": "Th/s",
+        "Power": "1400",
+        "Coins": "0.000124363",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "90",
+      "Manufacturer": "Bitmain\r\n",
+      "Model": "Antminer E3 - 190Mh/s",
+      "ReleaseDate": "07/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:27:01"
+    },
+    "Algo": [
+      {
+        "MinerID": "90",
+        "Algo": "Ethash",
+        "Hashrate": "190",
+        "Hashtype": "Mh/s",
+        "Power": "760",
+        "Coins": "0.0140657",
+        "Coinstype": "Ethereum"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "91",
+      "Manufacturer": "Bitfily",
+      "Model": "Snow Panther B1",
+      "ReleaseDate": "07/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:28:20"
+    },
+    "Algo": [
+      {
+        "MinerID": "91",
+        "Algo": "SHA-256",
+        "Hashrate": "16",
+        "Hashtype": "Th/s",
+        "Power": "1380",
+        "Coins": "0.000124363",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "92",
+      "Manufacturer": "Bitfily",
+      "Model": "Snow Panther D1",
+      "ReleaseDate": "07/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:29:34"
+    },
+    "Algo": [
+      {
+        "MinerID": "92",
+        "Algo": "Blake256R14",
+        "Hashrate": "6",
+        "Hashtype": "Th/s",
+        "Power": "2100",
+        "Coins": "0.0451419",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "93",
+      "Manufacturer": "Ebang",
+      "Model": "Ebit E9i",
+      "ReleaseDate": "07/2018",
+      "Noise": "74",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:30:45"
+    },
+    "Algo": [
+      {
+        "MinerID": "93",
+        "Algo": "SHA-256",
+        "Hashrate": "13.5",
+        "Hashtype": "Th/s",
+        "Power": "1420",
+        "Coins": "0.000104932",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "94",
+      "Manufacturer": "Innosilicon",
+      "Model": "D9+ DecredMaster",
+      "ReleaseDate": "08/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:32:18"
+    },
+    "Algo": [
+      {
+        "MinerID": "94",
+        "Algo": "Blake256R14",
+        "Hashrate": "2.8",
+        "Hashtype": "Th/s",
+        "Power": "1230",
+        "Coins": "0.0210662",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "95",
+      "Manufacturer": "Innosilicon",
+      "Model": "T2 Turbo",
+      "ReleaseDate": "08/2018",
+      "Noise": "72",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:33:14"
+    },
+    "Algo": [
+      {
+        "MinerID": "95",
+        "Algo": "SHA-256",
+        "Hashrate": "24",
+        "Hashtype": "Th/s",
+        "Power": "1980",
+        "Coins": "0.000186545",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "96",
+      "Manufacturer": "iBeLink",
+      "Model": "DSM7T",
+      "ReleaseDate": "08/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:34:05"
+    },
+    "Algo": [
+      {
+        "MinerID": "96",
+        "Algo": "Blake256R14",
+        "Hashrate": "7",
+        "Hashtype": "Th/s",
+        "Power": "2100",
+        "Coins": "0.0526655",
+        "Coinstype": "Decred"
+      },
+      {
+        "MinerID": "96",
+        "Algo": "Blake2B",
+        "Hashrate": "3.5",
+        "Hashtype": "Th/s",
+        "Power": "2100",
+        "Coins": "0",
+        "Coinstype": "SiaClassic"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "97",
+      "Manufacturer": "FusionSilicon",
+      "Model": "X6 Miner",
+      "ReleaseDate": "08/2018",
+      "Noise": "72",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:35:45"
+    },
+    "Algo": [
+      {
+        "MinerID": "97",
+        "Algo": "Scrypt",
+        "Hashrate": "860",
+        "Hashtype": "Mh/s",
+        "Power": "1079",
+        "Coins": "0.0232927",
+        "Coinstype": "Litecoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "98",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S9j - 14.5Th/s\r\n",
+      "ReleaseDate": "08/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:36:57"
+    },
+    "Algo": [
+      {
+        "MinerID": "98",
+        "Algo": "SHA-256",
+        "Hashrate": "14.5",
+        "Hashtype": "Th/s",
+        "Power": "1350",
+        "Coins": "0.000112704",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "99",
+      "Manufacturer": "FFMiner",
+      "Model": "DS19",
+      "ReleaseDate": "08/2018",
+      "Noise": "67",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:37:50"
+    },
+    "Algo": [
+      {
+        "MinerID": "99",
+        "Algo": "Blake256R14",
+        "Hashrate": "3.1",
+        "Hashtype": "Th/s",
+        "Power": "680",
+        "Coins": "0.0233233",
+        "Coinstype": "Decred"
+      },
+      {
+        "MinerID": "99",
+        "Algo": "Blake2B",
+        "Hashrate": "1.55",
+        "Hashtype": "Th/s",
+        "Power": "410",
+        "Coins": "0",
+        "Coinstype": "SiaClassic"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "100",
+      "Manufacturer": "Bitfily",
+      "Model": "Snow Panther B1+",
+      "ReleaseDate": "08/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:39:30"
+    },
+    "Algo": [
+      {
+        "MinerID": "100",
+        "Algo": "SHA-256",
+        "Hashrate": "24.5",
+        "Hashtype": "Th/s",
+        "Power": "2100",
+        "Coins": "0.000190432",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "101",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S9 Hydro - 18Th/s\r\n",
+      "ReleaseDate": "08/2018",
+      "Noise": "45",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:40:30"
+    },
+    "Algo": [
+      {
+        "MinerID": "101",
+        "Algo": "SHA-256",
+        "Hashrate": "18",
+        "Hashtype": "Th/s",
+        "Power": "1728",
+        "Coins": "0.000139909",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "102",
+      "Manufacturer": "Innosilicon",
+      "Model": "A10 - 485Mh/s",
+      "ReleaseDate": "09/2018",
+      "Noise": "75",
+      "Price": "2500",
+      "TimeStamp": "2019-10-11 17:10:46"
+    },
+    "Algo": [
+      {
+        "MinerID": "102",
+        "Algo": "Ethash",
+        "Hashrate": "485",
+        "Hashtype": "Mh/s",
+        "Power": "850",
+        "Coins": "0.0359046",
+        "Coinstype": "Ethereum"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "103",
+      "Manufacturer": "Innosilicon",
+      "Model": "A10 - 432Mh/s",
+      "ReleaseDate": "09/2018",
+      "Noise": "75",
+      "Price": "2250",
+      "TimeStamp": "2019-10-12 11:32:16"
+    },
+    "Algo": [
+      {
+        "MinerID": "103",
+        "Algo": "Ethash",
+        "Hashrate": "432",
+        "Hashtype": "Mh/s",
+        "Power": "740",
+        "Coins": "0.031981",
+        "Coinstype": "Ethereum"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "104",
+      "Manufacturer": "Innosilicon",
+      "Model": "A10 - 365Mh/s",
+      "ReleaseDate": "09/2018",
+      "Noise": "75",
+      "Price": "2000",
+      "TimeStamp": "2019-10-12 13:11:35"
+    },
+    "Algo": [
+      {
+        "MinerID": "104",
+        "Algo": "Ethash",
+        "Hashrate": "365",
+        "Hashtype": "Mh/s",
+        "Power": "650",
+        "Coins": "0.027021",
+        "Coinstype": "Ethereum"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "105",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer Z9",
+      "ReleaseDate": "09/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:46:15"
+    },
+    "Algo": [
+      {
+        "MinerID": "105",
+        "Algo": "Equihash",
+        "Hashrate": "42",
+        "Hashtype": "Ksol/s",
+        "Power": "970",
+        "Coins": "0.0681575",
+        "Coinstype": "Zcash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "106",
+      "Manufacturer": "Spondoolies",
+      "Model": "SPx36",
+      "ReleaseDate": "09/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 16:47:38"
+    },
+    "Algo": [
+      {
+        "MinerID": "106",
+        "Algo": "X11",
+        "Hashrate": "540",
+        "Hashtype": "Gh/s",
+        "Power": "4400",
+        "Coins": "0.10286",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "107",
+      "Manufacturer": "ASICminer",
+      "Model": "Zeon 180K",
+      "ReleaseDate": "09/2018",
+      "Noise": "47",
+      "Price": "19900",
+      "TimeStamp": "2019-09-17 17:03:18"
+    },
+    "Algo": [
+      {
+        "MinerID": "107",
+        "Algo": "Equihash",
+        "Hashrate": "180",
+        "Hashtype": "Ksol/s",
+        "Power": "2200",
+        "Coins": "0.292103",
+        "Coinstype": "Zcash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "108",
+      "Manufacturer": "Dayun",
+      "Model": "Zig Z1",
+      "ReleaseDate": "09/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 17:19:18"
+    },
+    "Algo": [
+      {
+        "MinerID": "108",
+        "Algo": "Lyra2REv2",
+        "Hashrate": "6.8",
+        "Hashtype": "Gh/s",
+        "Power": "1200",
+        "Coins": "0.548895",
+        "Coinstype": "Monacoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "109",
+      "Manufacturer": "Innosilicon",
+      "Model": "T2 Turbo+ 32T",
+      "ReleaseDate": "09/2018",
+      "Noise": "72",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 17:20:38"
+    },
+    "Algo": [
+      {
+        "MinerID": "109",
+        "Algo": "SHA-256",
+        "Hashrate": "32",
+        "Hashtype": "Th/s",
+        "Power": "2200",
+        "Coins": "0.000248727",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "110",
+      "Manufacturer": "MicroBT",
+      "Model": "Whatsminer M10S",
+      "ReleaseDate": "09/2018",
+      "Noise": "75",
+      "Price": "789",
+      "TimeStamp": "2019-09-28 13:13:11"
+    },
+    "Algo": [
+      {
+        "MinerID": "110",
+        "Algo": "SHA-256",
+        "Hashrate": "55",
+        "Hashtype": "Th/s",
+        "Power": "3500",
+        "Coins": "0.000427499",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "111",
+      "Manufacturer": "MicroBT",
+      "Model": "Whatsminer M10",
+      "ReleaseDate": "09/2018",
+      "Noise": "75",
+      "Price": "566",
+      "TimeStamp": "2019-09-28 13:54:29"
+    },
+    "Algo": [
+      {
+        "MinerID": "111",
+        "Algo": "SHA-256",
+        "Hashrate": "33",
+        "Hashtype": "Th/s",
+        "Power": "2145",
+        "Coins": "0.0002565",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "112",
+      "Manufacturer": "Canaan",
+      "Model": "AvalonMiner 921",
+      "ReleaseDate": "09/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 17:23:19"
+    },
+    "Algo": [
+      {
+        "MinerID": "112",
+        "Algo": "SHA-256",
+        "Hashrate": "20",
+        "Hashtype": "Th/s",
+        "Power": "1700",
+        "Coins": "0.000155454",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "113",
+      "Manufacturer": "PandaMiner",
+      "Model": "B3 Mute",
+      "ReleaseDate": "09/2018",
+      "Noise": "60",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 17:24:14"
+    },
+    "Algo": [
+      {
+        "MinerID": "113",
+        "Algo": "Ethash",
+        "Hashrate": "230",
+        "Hashtype": "Mh/s",
+        "Power": "1150",
+        "Coins": "0.0170269",
+        "Coinstype": "Ethereum"
+      },
+      {
+        "MinerID": "113",
+        "Algo": "Cryptonight-V7",
+        "Hashrate": "5.52",
+        "Hashtype": "Kh/s",
+        "Power": "980",
+        "Coins": "0",
+        "Coinstype": "Dero"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "114",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer DR3",
+      "ReleaseDate": "09/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 17:28:53"
+    },
+    "Algo": [
+      {
+        "MinerID": "114",
+        "Algo": "Blake256R14",
+        "Hashrate": "7.8",
+        "Hashtype": "Th/s",
+        "Power": "1410",
+        "Coins": "0.0586844",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "115",
+      "Manufacturer": "GMO miner",
+      "Model": "B2",
+      "ReleaseDate": "10/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 17:29:57"
+    },
+    "Algo": [
+      {
+        "MinerID": "115",
+        "Algo": "SHA-256",
+        "Hashrate": "24",
+        "Hashtype": "Th/s",
+        "Power": "1950",
+        "Coins": "0.000186545",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "116",
+      "Manufacturer": "StrongU",
+      "Model": "STU-U1",
+      "ReleaseDate": "10/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 17:34:45"
+    },
+    "Algo": [
+      {
+        "MinerID": "116",
+        "Algo": "Blake256R14",
+        "Hashrate": "11",
+        "Hashtype": "Th/s",
+        "Power": "1600",
+        "Coins": "0.0827601",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "117",
+      "Manufacturer": "ASICminer",
+      "Model": "8 Nano 44Th",
+      "ReleaseDate": "10/2018",
+      "Noise": "47",
+      "Price": "4500",
+      "TimeStamp": "2019-09-27 15:35:40"
+    },
+    "Algo": [
+      {
+        "MinerID": "117",
+        "Algo": "SHA-256",
+        "Hashrate": "44",
+        "Hashtype": "Th/s",
+        "Power": "2100",
+        "Coins": "0.000341999",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "118",
+      "Manufacturer": "Ebang",
+      "Model": "Ebit E11++",
+      "ReleaseDate": "10/2018",
+      "Noise": "75",
+      "Price": "2025",
+      "TimeStamp": "2019-09-23 15:22:20"
+    },
+    "Algo": [
+      {
+        "MinerID": "118",
+        "Algo": "SHA-256",
+        "Hashrate": "44",
+        "Hashtype": "Th/s",
+        "Power": "1980",
+        "Coins": "0.000341999",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "119",
+      "Manufacturer": "Ebang",
+      "Model": "Ebit E11+",
+      "ReleaseDate": "10/2018",
+      "Noise": "75",
+      "Price": "1517",
+      "TimeStamp": "2019-09-28 15:01:12"
+    },
+    "Algo": [
+      {
+        "MinerID": "119",
+        "Algo": "SHA-256",
+        "Hashrate": "37",
+        "Hashtype": "Th/s",
+        "Power": "2035",
+        "Coins": "0.00028759",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "120",
+      "Manufacturer": "Ebang",
+      "Model": "Ebit E11",
+      "ReleaseDate": "10/2018",
+      "Noise": "75",
+      "Price": "1110",
+      "TimeStamp": "2019-09-28 15:37:02"
+    },
+    "Algo": [
+      {
+        "MinerID": "120",
+        "Algo": "SHA-256",
+        "Hashrate": "30",
+        "Hashtype": "Th/s",
+        "Power": "1950",
+        "Coins": "0.000233181",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "121",
+      "Manufacturer": "Dayun",
+      "Model": "Zig Z1+",
+      "ReleaseDate": "10/2018",
+      "Noise": "70",
+      "Price": "2400",
+      "TimeStamp": "2019-09-27 17:02:47"
+    },
+    "Algo": [
+      {
+        "MinerID": "121",
+        "Algo": "Lyra2REv2",
+        "Hashrate": "7.25",
+        "Hashtype": "Gh/s",
+        "Power": "1200",
+        "Coins": "0.585219",
+        "Coinstype": "Monacoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "122",
+      "Manufacturer": "StrongU",
+      "Model": "STU-U2",
+      "ReleaseDate": "10/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 17:55:00"
+    },
+    "Algo": [
+      {
+        "MinerID": "122",
+        "Algo": "Blake2B",
+        "Hashrate": "7",
+        "Hashtype": "Th/s",
+        "Power": "1600",
+        "Coins": "0",
+        "Coinstype": "SiaClassic"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "123",
+      "Manufacturer": "StrongU",
+      "Model": "STU-U1+",
+      "ReleaseDate": "10/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 17:55:57"
+    },
+    "Algo": [
+      {
+        "MinerID": "123",
+        "Algo": "Blake256R14",
+        "Hashrate": "12.8",
+        "Hashtype": "Th/s",
+        "Power": "1850",
+        "Coins": "0.0963027",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "124",
+      "Manufacturer": "Innosilicon",
+      "Model": "T2 Turbo 25T",
+      "ReleaseDate": "10/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 17:57:18"
+    },
+    "Algo": [
+      {
+        "MinerID": "124",
+        "Algo": "SHA-256",
+        "Hashrate": "25",
+        "Hashtype": "Th/s",
+        "Power": "2050",
+        "Coins": "0.000194318",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "125",
+      "Manufacturer": "Baikal",
+      "Model": "BK-G28",
+      "ReleaseDate": "10/2018",
+      "Noise": "70",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 18:00:28"
+    },
+    "Algo": [
+      {
+        "MinerID": "125",
+        "Algo": "X11",
+        "Hashrate": "28",
+        "Hashtype": "Gh/s",
+        "Power": "1300",
+        "Coins": "0.00533349",
+        "Coinstype": "Dash"
+      },
+      {
+        "MinerID": "125",
+        "Algo": "Quark",
+        "Hashrate": "28",
+        "Hashtype": "Gh/s",
+        "Power": "800",
+        "Coins": "14.579",
+        "Coinstype": "Quark"
+      },
+      {
+        "MinerID": "125",
+        "Algo": "Qubit",
+        "Hashrate": "28",
+        "Hashtype": "Gh/s",
+        "Power": "850",
+        "Coins": "179.82",
+        "Coinstype": "DigiByte"
+      },
+      {
+        "MinerID": "125",
+        "Algo": "Myriad-Groestl",
+        "Hashrate": "28",
+        "Hashtype": "Gh/s",
+        "Power": "350",
+        "Coins": "0",
+        "Coinstype": "Myriadcoin"
+      },
+      {
+        "MinerID": "125",
+        "Algo": "Nist5",
+        "Hashrate": "28",
+        "Hashtype": "Gh/s",
+        "Power": "550",
+        "Coins": "0",
+        "Coinstype": "Electra"
+      },
+      {
+        "MinerID": "125",
+        "Algo": "Skein",
+        "Hashrate": "14",
+        "Hashtype": "Gh/s",
+        "Power": "300",
+        "Coins": "341.478",
+        "Coinstype": "Skeincoin"
+      },
+      {
+        "MinerID": "125",
+        "Algo": "X11Gost",
+        "Hashrate": "3.5",
+        "Hashtype": "Gh/s",
+        "Power": "450",
+        "Coins": "5.84197",
+        "Coinstype": "SIBCoin"
+      },
+      {
+        "MinerID": "125",
+        "Algo": "Groestl",
+        "Hashrate": "28",
+        "Hashtype": "Gh/s",
+        "Power": "450",
+        "Coins": "7.06141",
+        "Coinstype": "Groestlcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "126",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S11 - 20.5Th/s\r\n",
+      "ReleaseDate": "11/2018",
+      "Noise": "76",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 18:07:32"
+    },
+    "Algo": [
+      {
+        "MinerID": "126",
+        "Algo": "SHA-256",
+        "Hashrate": "20.5",
+        "Hashtype": "Th/s",
+        "Power": "1530",
+        "Coins": "0.000159341",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "127",
+      "Manufacturer": "GMO miner",
+      "Model": "B3",
+      "ReleaseDate": "11/2018",
+      "Noise": "75",
+      "Price": "0",
+      "TimeStamp": "2019-06-21 18:08:24"
+    },
+    "Algo": [
+      {
+        "MinerID": "127",
+        "Algo": "SHA-256",
+        "Hashrate": "33",
+        "Hashtype": "Th/s",
+        "Power": "3417",
+        "Coins": "0.0002565",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "128",
+      "Manufacturer": "Dayun",
+      "Model": "Zig D1",
+      "ReleaseDate": "11/2018",
+      "Noise": "55",
+      "Price": "2300",
+      "TimeStamp": "2019-10-13 15:26:16"
+    },
+    "Algo": [
+      {
+        "MinerID": "128",
+        "Algo": "X11",
+        "Hashrate": "48",
+        "Hashtype": "Gh/s",
+        "Power": "2200",
+        "Coins": "0.00914312",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "129",
+      "Manufacturer": "Dayun",
+      "Model": "Zig M1",
+      "ReleaseDate": "11/2018",
+      "Noise": "55",
+      "Price": "1700",
+      "TimeStamp": "2019-10-13 14:32:36"
+    },
+    "Algo": [
+      {
+        "MinerID": "129",
+        "Algo": "Groestl",
+        "Hashrate": "2.6",
+        "Hashtype": "Gh/s",
+        "Power": "200",
+        "Coins": "0.181599",
+        "Coinstype": "Groestlcoin"
+      },
+      {
+        "MinerID": "129",
+        "Algo": "Myriad-Groestl",
+        "Hashrate": "4.3",
+        "Hashtype": "Gh/s",
+        "Power": "220",
+        "Coins": "0",
+        "Coinstype": "Myriadcoin"
+      },
+      {
+        "MinerID": "129",
+        "Algo": "Lbry",
+        "Hashrate": "1.5",
+        "Hashtype": "Gh/s",
+        "Power": "11",
+        "Coins": "0",
+        "Coinstype": "Lbry-Credits"
+      },
+      {
+        "MinerID": "129",
+        "Algo": "Pascal",
+        "Hashrate": "2.3",
+        "Hashtype": "Gh/s",
+        "Power": "3",
+        "Coins": "0",
+        "Coinstype": "Pascalcoin"
+      },
+      {
+        "MinerID": "129",
+        "Algo": "Lyra2REv2",
+        "Hashrate": "192",
+        "Hashtype": "Mh/s",
+        "Power": "25",
+        "Coins": "0.12609",
+        "Coinstype": "Monacoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "130",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer D5 - 119Gh/s",
+      "ReleaseDate": "11/2018",
+      "Noise": "76",
+      "Price": "1600",
+      "TimeStamp": "2019-10-13 13:21:47"
+    },
+    "Algo": [
+      {
+        "MinerID": "130",
+        "Algo": "X11",
+        "Hashrate": "119",
+        "Hashtype": "Gh/s",
+        "Power": "1566",
+        "Coins": "0.0226673",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "131",
+      "Manufacturer": "MicroBT",
+      "Model": "Whatsminer D1",
+      "ReleaseDate": "11/2018",
+      "Noise": "75",
+      "Price": "940",
+      "TimeStamp": "2019-10-12 14:01:09"
+    },
+    "Algo": [
+      {
+        "MinerID": "131",
+        "Algo": "Blake256R14",
+        "Hashrate": "48",
+        "Hashtype": "Th/s",
+        "Power": "2200",
+        "Coins": "0.361135",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "132",
+      "Manufacturer": "Bitfury",
+      "Model": "Tardis",
+      "ReleaseDate": "11/2018",
+      "Noise": "80",
+      "Price": "3770",
+      "TimeStamp": "2019-10-03 14:48:57"
+    },
+    "Algo": [
+      {
+        "MinerID": "132",
+        "Algo": "SHA-256",
+        "Hashrate": "80",
+        "Hashtype": "Th/s",
+        "Power": "6300",
+        "Coins": "0.000621817",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "133",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S15 - 28Th/s",
+      "ReleaseDate": "12/2018",
+      "Noise": "76",
+      "Price": "1035",
+      "TimeStamp": "2019-09-28 12:45:51"
+    },
+    "Algo": [
+      {
+        "MinerID": "133",
+        "Algo": "SHA-256",
+        "Hashrate": "28",
+        "Hashtype": "Th/s",
+        "Power": "1596",
+        "Coins": "0.000217636",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "134",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer T15 - 23Th/s",
+      "ReleaseDate": "12/2018",
+      "Noise": "76",
+      "Price": "722",
+      "TimeStamp": "2019-10-03 14:12:32"
+    },
+    "Algo": [
+      {
+        "MinerID": "134",
+        "Algo": "SHA-256",
+        "Hashrate": "23",
+        "Hashtype": "Th/s",
+        "Power": "1541",
+        "Coins": "0.000178772",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "135",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer DR5 - 34Th/s",
+      "ReleaseDate": "12/2018",
+      "Noise": "76",
+      "Price": "2000",
+      "TimeStamp": "2019-10-03 14:11:54"
+    },
+    "Algo": [
+      {
+        "MinerID": "135",
+        "Algo": "Blake256R14",
+        "Hashrate": "34",
+        "Hashtype": "Th/s",
+        "Power": "1800",
+        "Coins": "0.255804",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "136",
+      "Manufacturer": "Holic",
+      "Model": "H28",
+      "ReleaseDate": "12/2018",
+      "Noise": "70",
+      "Price": "2100",
+      "TimeStamp": "2019-10-02 14:09:28"
+    },
+    "Algo": [
+      {
+        "MinerID": "136",
+        "Algo": "SHA-256",
+        "Hashrate": "28",
+        "Hashtype": "Th/s",
+        "Power": "2100",
+        "Coins": "0.000217636",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "137",
+      "Manufacturer": "Holic",
+      "Model": "H22",
+      "ReleaseDate": "12/2018",
+      "Noise": "70",
+      "Price": "1900",
+      "TimeStamp": "2019-10-02 13:53:11"
+    },
+    "Algo": [
+      {
+        "MinerID": "137",
+        "Algo": "SHA-256",
+        "Hashrate": "22",
+        "Hashtype": "Th/s",
+        "Power": "1600",
+        "Coins": "0.000171",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "138",
+      "Manufacturer": "FusionSilicon",
+      "Model": "X1 Miner",
+      "ReleaseDate": "01/2019",
+      "Noise": "72",
+      "Price": "750",
+      "TimeStamp": "2019-09-15 22:06:30"
+    },
+    "Algo": [
+      {
+        "MinerID": "138",
+        "Algo": "Lyra2REv2",
+        "Hashrate": "12.96",
+        "Hashtype": "Gh/s",
+        "Power": "1110",
+        "Coins": "1.04613",
+        "Coinstype": "Monacoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "139",
+      "Manufacturer": "Obelisk",
+      "Model": "SC1 Slim",
+      "ReleaseDate": "01/2019",
+      "Noise": "75",
+      "Price": "1700",
+      "TimeStamp": "2019-09-17 19:19:13"
+    },
+    "Algo": [
+      {
+        "MinerID": "139",
+        "Algo": "Blake2B",
+        "Hashrate": "550",
+        "Hashtype": "Gh/s",
+        "Power": "450",
+        "Coins": "0",
+        "Coinstype": "SiaClassic"
+      },
+      {
+        "MinerID": "139",
+        "Algo": "Blake2B-Sia",
+        "Hashrate": "550",
+        "Hashtype": "Gh/s",
+        "Power": "450",
+        "Coins": "2037.58",
+        "Coinstype": "SiaCoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "140",
+      "Manufacturer": "Innosilicon",
+      "Model": "A9+ ZMaster",
+      "ReleaseDate": "01/2019",
+      "Noise": "75",
+      "Price": "4500",
+      "TimeStamp": "2019-09-27 15:52:46"
+    },
+    "Algo": [
+      {
+        "MinerID": "140",
+        "Algo": "Equihash",
+        "Hashrate": "120",
+        "Hashtype": "Ksol/s",
+        "Power": "1550",
+        "Coins": "0.194736",
+        "Coinstype": "Zcash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "141",
+      "Manufacturer": "Innosilicon",
+      "Model": "T3 43T",
+      "ReleaseDate": "01/2019",
+      "Noise": "75",
+      "Price": "1720",
+      "TimeStamp": "2019-09-23 15:44:57"
+    },
+    "Algo": [
+      {
+        "MinerID": "141",
+        "Algo": "SHA-256",
+        "Hashrate": "43",
+        "Hashtype": "Th/s",
+        "Power": "2100",
+        "Coins": "0.000334227",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "142",
+      "Manufacturer": "Innosilicon",
+      "Model": "A6+ LTCMaster",
+      "ReleaseDate": "03/2019",
+      "Noise": "82",
+      "Price": "3000",
+      "TimeStamp": "2019-10-01 16:48:26"
+    },
+    "Algo": [
+      {
+        "MinerID": "142",
+        "Algo": "Scrypt",
+        "Hashrate": "2.2",
+        "Hashtype": "Gh/s",
+        "Power": "2100",
+        "Coins": "0.0595861",
+        "Coinstype": "Litecoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "143",
+      "Manufacturer": "Obelisk",
+      "Model": "SC1 Immersion",
+      "ReleaseDate": "03/2019",
+      "Noise": "30",
+      "Price": "4000",
+      "TimeStamp": "2019-09-13 14:25:59"
+    },
+    "Algo": [
+      {
+        "MinerID": "143",
+        "Algo": "Blake2B",
+        "Hashrate": "2.2",
+        "Hashtype": "Th/s",
+        "Power": "1600",
+        "Coins": "0",
+        "Coinstype": "SiaClassic"
+      },
+      {
+        "MinerID": "143",
+        "Algo": "Blake2B-Sia",
+        "Hashrate": "2.2",
+        "Hashtype": "Th/s",
+        "Power": "1600",
+        "Coins": "8150.32",
+        "Coinstype": "SiaCoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "144",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer B7 - 96Kh/s",
+      "ReleaseDate": "03/2019",
+      "Noise": "65",
+      "Price": "2012",
+      "TimeStamp": "2019-09-22 16:33:32"
+    },
+    "Algo": [
+      {
+        "MinerID": "144",
+        "Algo": "Tensority",
+        "Hashrate": "96",
+        "Hashtype": "Kh/s",
+        "Power": "528",
+        "Coins": "37.6102",
+        "Coinstype": "Bytom"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "145",
+      "Manufacturer": "Obelisk",
+      "Model": "SC1 Dual",
+      "ReleaseDate": "03/2019",
+      "Noise": "75",
+      "Price": "2500",
+      "TimeStamp": "2019-09-17 18:22:56"
+    },
+    "Algo": [
+      {
+        "MinerID": "145",
+        "Algo": "Blake2B",
+        "Hashrate": "1.1",
+        "Hashtype": "Th/s",
+        "Power": "900",
+        "Coins": "0",
+        "Coinstype": "SiaClassic"
+      },
+      {
+        "MinerID": "145",
+        "Algo": "Blake2B-Sia",
+        "Hashrate": "1.1",
+        "Hashtype": "Th/s",
+        "Power": "900",
+        "Coins": "4075.16",
+        "Coinstype": "SiaCoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "146",
+      "Manufacturer": "FusionSilicon",
+      "Model": "X7 Miner",
+      "ReleaseDate": "03/2019",
+      "Noise": "72",
+      "Price": "1663",
+      "TimeStamp": "2019-09-22 00:01:28"
+    },
+    "Algo": [
+      {
+        "MinerID": "146",
+        "Algo": "X11",
+        "Hashrate": "262",
+        "Hashtype": "Gh/s",
+        "Power": "1420",
+        "Coins": "0.0499062",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "147",
+      "Manufacturer": "Innosilicon",
+      "Model": "T3 39T",
+      "ReleaseDate": "03/2019",
+      "Noise": "75",
+      "Price": "1880",
+      "TimeStamp": "2019-09-21 23:20:45"
+    },
+    "Algo": [
+      {
+        "MinerID": "147",
+        "Algo": "SHA-256",
+        "Hashrate": "39",
+        "Hashtype": "Th/s",
+        "Power": "2150",
+        "Coins": "0.000303136",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "148",
+      "Manufacturer": "FusionSilicon",
+      "Model": "X7+ Miner",
+      "ReleaseDate": "03/2019",
+      "Noise": "72",
+      "Price": "780",
+      "TimeStamp": "2019-09-21 22:56:42"
+    },
+    "Algo": [
+      {
+        "MinerID": "148",
+        "Algo": "X11",
+        "Hashrate": "320",
+        "Hashtype": "Gh/s",
+        "Power": "2000",
+        "Coins": "0.0609542",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "149",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer Z11",
+      "ReleaseDate": "04/2019",
+      "Noise": "70",
+      "Price": "1608",
+      "TimeStamp": "2019-09-21 22:01:36"
+    },
+    "Algo": [
+      {
+        "MinerID": "149",
+        "Algo": "Equihash",
+        "Hashrate": "135",
+        "Hashtype": "Ksol/s",
+        "Power": "1418",
+        "Coins": "0.219078",
+        "Coinstype": "Zcash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "151",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S17 Pro - 56Th/s",
+      "ReleaseDate": "04/2019",
+      "Noise": "82",
+      "Price": "4323",
+      "TimeStamp": "2019-09-15 20:56:35"
+    },
+    "Algo": [
+      {
+        "MinerID": "151",
+        "Algo": "SHA-256",
+        "Hashrate": "56",
+        "Hashtype": "Th/s",
+        "Power": "2520",
+        "Coins": "0.000435272",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "152",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S17 Pro - 50Th/s",
+      "ReleaseDate": "04/2019",
+      "Noise": "82",
+      "Price": "2969",
+      "TimeStamp": "2019-09-15 20:42:22"
+    },
+    "Algo": [
+      {
+        "MinerID": "152",
+        "Algo": "SHA-256",
+        "Hashrate": "50",
+        "Hashtype": "Th/s",
+        "Power": "1975",
+        "Coins": "0.000388636",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "153",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S17 - 53Th/s",
+      "ReleaseDate": "04/2019",
+      "Noise": "82",
+      "Price": "2727",
+      "TimeStamp": "2019-09-15 20:03:14"
+    },
+    "Algo": [
+      {
+        "MinerID": "153",
+        "Algo": "SHA-256",
+        "Hashrate": "53",
+        "Hashtype": "Th/s",
+        "Power": "2385",
+        "Coins": "0.000411954",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "154",
+      "Manufacturer": "Innosilicon",
+      "Model": "A9++ ZMaster",
+      "ReleaseDate": "05/2019",
+      "Noise": "75",
+      "Price": "2900",
+      "TimeStamp": "2019-09-20 20:49:37"
+    },
+    "Algo": [
+      {
+        "MinerID": "154",
+        "Algo": "Equihash",
+        "Hashrate": "140",
+        "Hashtype": "Ksol/s",
+        "Power": "1550",
+        "Coins": "0.227192",
+        "Coinstype": "Zcash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "155",
+      "Manufacturer": "Innosilicon",
+      "Model": "T3+ 52T",
+      "ReleaseDate": "05/2019",
+      "Noise": "75",
+      "Price": "1900",
+      "TimeStamp": "2019-09-17 10:04:55"
+    },
+    "Algo": [
+      {
+        "MinerID": "155",
+        "Algo": "SHA-256",
+        "Hashrate": "52",
+        "Hashtype": "Th/s",
+        "Power": "2200",
+        "Coins": "0.000404181",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "156",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer T17 - 40Th/s",
+      "ReleaseDate": "05/2019",
+      "Noise": "82",
+      "Price": "2100",
+      "TimeStamp": "2019-09-20 20:04:12"
+    },
+    "Algo": [
+      {
+        "MinerID": "156",
+        "Algo": "SHA-256",
+        "Hashrate": "40",
+        "Hashtype": "Th/s",
+        "Power": "2200",
+        "Coins": "0.000310909",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "157",
+      "Manufacturer": "MicroBT",
+      "Model": "Whatsminer M21S",
+      "ReleaseDate": "06/2019",
+      "Noise": "75",
+      "Price": "878",
+      "TimeStamp": "2019-09-20 19:08:07"
+    },
+    "Algo": [
+      {
+        "MinerID": "157",
+        "Algo": "SHA-256",
+        "Hashrate": "56",
+        "Hashtype": "Th/s",
+        "Power": "3360",
+        "Coins": "0.000435272",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "158",
+      "Manufacturer": "Dayun",
+      "Model": "Zig Z1 Pro",
+      "ReleaseDate": "06/2019",
+      "Noise": "72",
+      "Price": "2400",
+      "TimeStamp": "2019-09-19 23:11:10"
+    },
+    "Algo": [
+      {
+        "MinerID": "158",
+        "Algo": "Lyra2REv2",
+        "Hashrate": "13",
+        "Hashtype": "Gh/s",
+        "Power": "1500",
+        "Coins": "1.04936",
+        "Coinstype": "Monacoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "159",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S9 SE - 16Th/s",
+      "ReleaseDate": "07/2019",
+      "Noise": "76",
+      "Price": "430",
+      "TimeStamp": "2019-09-15 21:26:56"
+    },
+    "Algo": [
+      {
+        "MinerID": "159",
+        "Algo": "SHA-256",
+        "Hashrate": "16",
+        "Hashtype": "Th/s",
+        "Power": "1280",
+        "Coins": "0.000124363",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "160",
+      "Manufacturer": "StrongU",
+      "Model": "STU-U8",
+      "ReleaseDate": "07/2019",
+      "Noise": "76",
+      "Price": "1598",
+      "TimeStamp": "2019-09-17 13:18:04"
+    },
+    "Algo": [
+      {
+        "MinerID": "160",
+        "Algo": "SHA-256",
+        "Hashrate": "46",
+        "Hashtype": "Th/s",
+        "Power": "2100",
+        "Coins": "0.000357545",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "161",
+      "Manufacturer": "StrongU",
+      "Model": "STU-U1++",
+      "ReleaseDate": "07/2019",
+      "Noise": "76",
+      "Price": "1147",
+      "TimeStamp": "2019-09-17 12:49:55"
+    },
+    "Algo": [
+      {
+        "MinerID": "161",
+        "Algo": "Blake256R14",
+        "Hashrate": "52",
+        "Hashtype": "Th/s",
+        "Power": "2200",
+        "Coins": "0.39123",
+        "Coinstype": "Decred"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "162",
+      "Manufacturer": "Innosilicon",
+      "Model": "G32-1800",
+      "ReleaseDate": "08/2019",
+      "Noise": "76",
+      "Price": "14315",
+      "TimeStamp": "2019-09-16 21:14:51"
+    },
+    "Algo": [
+      {
+        "MinerID": "162",
+        "Algo": "Cuckatoo31",
+        "Hashrate": "328",
+        "Hashtype": "GPS",
+        "Power": "1800",
+        "Coins": "31.4722",
+        "Coinstype": "Grin"
+      },
+      {
+        "MinerID": "162",
+        "Algo": "Cuckatoo32",
+        "Hashrate": "65.6",
+        "Hashtype": "GPS",
+        "Power": "1800",
+        "Coins": "0",
+        "Coinstype": "Grin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "163",
+      "Manufacturer": "Innosilicon",
+      "Model": "G32-500",
+      "ReleaseDate": "08/2019",
+      "Noise": "75",
+      "Price": "4355",
+      "TimeStamp": "2019-09-16 21:54:32"
+    },
+    "Algo": [
+      {
+        "MinerID": "163",
+        "Algo": "Cuckatoo31",
+        "Hashrate": "100",
+        "Hashtype": "GPS",
+        "Power": "520",
+        "Coins": "9.59518",
+        "Coinstype": "Grin"
+      },
+      {
+        "MinerID": "163",
+        "Algo": "Cuckatoo32",
+        "Hashrate": "20",
+        "Hashtype": "GPS",
+        "Power": "520",
+        "Coins": "0",
+        "Coinstype": "Grin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "164",
+      "Manufacturer": "Innosilicon",
+      "Model": "G32-Mini",
+      "ReleaseDate": "08/2019",
+      "Noise": "65",
+      "Price": "1250",
+      "TimeStamp": "2019-09-16 22:33:16"
+    },
+    "Algo": [
+      {
+        "MinerID": "164",
+        "Algo": "Cuckatoo31",
+        "Hashrate": "21.5",
+        "Hashtype": "GPS",
+        "Power": "140",
+        "Coins": "2.06296",
+        "Coinstype": "Grin"
+      },
+      {
+        "MinerID": "164",
+        "Algo": "Cuckatoo32",
+        "Hashrate": "4.5",
+        "Hashtype": "GPS",
+        "Power": "140",
+        "Coins": "0",
+        "Coinstype": "Grin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "165",
+      "Manufacturer": "MicroBT",
+      "Model": "Whatsminer M20S",
+      "ReleaseDate": "08/2019",
+      "Noise": "75",
+      "Price": "1500",
+      "TimeStamp": "2019-09-17 10:29:43"
+    },
+    "Algo": [
+      {
+        "MinerID": "165",
+        "Algo": "SHA-256",
+        "Hashrate": "72",
+        "Hashtype": "Th/s",
+        "Power": "3360",
+        "Coins": "0.000559635",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "166",
+      "Manufacturer": "MicroBT",
+      "Model": "Whatsminer M21",
+      "ReleaseDate": "08/2019",
+      "Noise": "75",
+      "Price": "1000",
+      "TimeStamp": "2019-09-17 11:43:34"
+    },
+    "Algo": [
+      {
+        "MinerID": "166",
+        "Algo": "SHA-256",
+        "Hashrate": "31",
+        "Hashtype": "Th/s",
+        "Power": "1860",
+        "Coins": "0.000240954",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "170",
+      "Manufacturer": "StrongU",
+      "Model": "STU-U6",
+      "ReleaseDate": "11/2019",
+      "Noise": "76",
+      "Price": "1882",
+      "TimeStamp": "2019-09-17 13:06:07"
+    },
+    "Algo": [
+      {
+        "MinerID": "170",
+        "Algo": "X11",
+        "Hashrate": "660",
+        "Hashtype": "Gh/s",
+        "Power": "1300",
+        "Coins": "0.125718",
+        "Coinstype": "Dash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "171",
+      "Manufacturer": "Bitfily",
+      "Model": "Snow Panther B3",
+      "ReleaseDate": "08/2019",
+      "Noise": "75",
+      "Price": "1392",
+      "TimeStamp": "2019-09-15 18:09:11"
+    },
+    "Algo": [
+      {
+        "MinerID": "171",
+        "Algo": "SHA-256",
+        "Hashrate": "24",
+        "Hashtype": "Th/s",
+        "Power": "2100",
+        "Coins": "0.000186545",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "172",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer T17e",
+      "ReleaseDate": "11/2019",
+      "Noise": "82",
+      "Price": "1597",
+      "TimeStamp": "2019-09-15 21:49:01"
+    },
+    "Algo": [
+      {
+        "MinerID": "172",
+        "Algo": "SHA-256",
+        "Hashrate": "53",
+        "Hashtype": "Th/s",
+        "Power": "2915",
+        "Coins": "0.000411954",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "173",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S17e",
+      "ReleaseDate": "11/2019",
+      "Noise": "82",
+      "Price": "2683",
+      "TimeStamp": "2019-09-15 21:10:12"
+    },
+    "Algo": [
+      {
+        "MinerID": "173",
+        "Algo": "SHA-256",
+        "Hashrate": "64",
+        "Hashtype": "Th/s",
+        "Power": "2880",
+        "Coins": "0.000497454",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "174",
+      "Manufacturer": "ASICminer",
+      "Model": "8 Nano S",
+      "ReleaseDate": "07/2019",
+      "Noise": "47",
+      "Price": "3800",
+      "TimeStamp": "2019-09-30 14:43:07"
+    },
+    "Algo": [
+      {
+        "MinerID": "174",
+        "Algo": "SHA-256",
+        "Hashrate": "58",
+        "Hashtype": "Th/s",
+        "Power": "2500",
+        "Coins": "0.000450817",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "175",
+      "Manufacturer": "ASICminer",
+      "Model": "Zeon Turbo",
+      "ReleaseDate": "07/2019",
+      "Noise": "47",
+      "Price": "9500",
+      "TimeStamp": "2019-09-30 16:36:11"
+    },
+    "Algo": [
+      {
+        "MinerID": "175",
+        "Algo": "Equihash",
+        "Hashrate": "400",
+        "Hashtype": "Ksol/s",
+        "Power": "2500",
+        "Coins": "0.649119",
+        "Coinstype": "Zcash"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "176",
+      "Manufacturer": "Ebang",
+      "Model": "Ebit E12",
+      "ReleaseDate": "09/2019",
+      "Noise": "75",
+      "Price": "1930",
+      "TimeStamp": "2019-10-01 10:48:14"
+    },
+    "Algo": [
+      {
+        "MinerID": "176",
+        "Algo": "SHA-256",
+        "Hashrate": "44",
+        "Hashtype": "Th/s",
+        "Power": "2500",
+        "Coins": "0.000341999",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "177",
+      "Manufacturer": "Ebang",
+      "Model": "Ebit E12+",
+      "ReleaseDate": "09/2019",
+      "Noise": "75",
+      "Price": "2410",
+      "TimeStamp": "2019-10-01 11:47:52"
+    },
+    "Algo": [
+      {
+        "MinerID": "177",
+        "Algo": "SHA-256",
+        "Hashrate": "50",
+        "Hashtype": "Th/s",
+        "Power": "2500",
+        "Coins": "0.000388636",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "178",
+      "Manufacturer": "Innosilicon",
+      "Model": "T3 50T",
+      "ReleaseDate": "07/2019",
+      "Noise": "75",
+      "Price": "2100",
+      "TimeStamp": "2019-10-09 17:09:48"
+    },
+    "Algo": [
+      {
+        "MinerID": "178",
+        "Algo": "SHA-256",
+        "Hashrate": "50",
+        "Hashtype": "Th/s",
+        "Power": "3100",
+        "Coins": "0.000388636",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "179",
+      "Manufacturer": "Innosilicon",
+      "Model": "A10 - 500Mh/s",
+      "ReleaseDate": "09/2019",
+      "Noise": "75",
+      "Price": "2500",
+      "TimeStamp": "2019-10-10 14:03:06"
+    },
+    "Algo": [
+      {
+        "MinerID": "179",
+        "Algo": "Ethash",
+        "Hashrate": "500",
+        "Hashtype": "Mh/s",
+        "Power": "750",
+        "Coins": "0.0370151",
+        "Coinstype": "Ethereum"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "180",
+      "Manufacturer": "Innosilicon",
+      "Model": "T3+ 57T",
+      "ReleaseDate": "10/2019",
+      "Noise": "75",
+      "Price": "2310",
+      "TimeStamp": "2019-10-11 12:55:28"
+    },
+    "Algo": [
+      {
+        "MinerID": "180",
+        "Algo": "SHA-256",
+        "Hashrate": "57",
+        "Hashtype": "Th/s",
+        "Power": "3300",
+        "Coins": "0.000443045",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "181",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer T17+ - 64Th/s",
+      "ReleaseDate": "10/2019",
+      "Noise": "75",
+      "Price": "1802",
+      "TimeStamp": "2019-10-11 15:37:38"
+    },
+    "Algo": [
+      {
+        "MinerID": "181",
+        "Algo": "SHA-256",
+        "Hashrate": "64",
+        "Hashtype": "Th/s",
+        "Power": "3200",
+        "Coins": "0.000497454",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "182",
+      "Manufacturer": "Bitmain",
+      "Model": "Antminer S17+ - 73Th/s",
+      "ReleaseDate": "10/2019",
+      "Noise": "75",
+      "Price": "2833",
+      "TimeStamp": "2019-10-11 15:37:21"
+    },
+    "Algo": [
+      {
+        "MinerID": "182",
+        "Algo": "SHA-256",
+        "Hashrate": "73",
+        "Hashtype": "Th/s",
+        "Power": "2920",
+        "Coins": "0.000567408",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "183",
+      "Manufacturer": "Canaan",
+      "Model": "AvalonMiner 1047",
+      "ReleaseDate": "11/2019",
+      "Noise": "75",
+      "Price": "1030",
+      "TimeStamp": "2019-10-12 18:24:20"
+    },
+    "Algo": [
+      {
+        "MinerID": "183",
+        "Algo": "SHA-256",
+        "Hashrate": "37",
+        "Hashtype": "Th/s",
+        "Power": "2380",
+        "Coins": "0.00028759",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  },
+  {
+    "Asic": {
+      "ID": "184",
+      "Manufacturer": "Canaan",
+      "Model": "AvalonMiner 1066",
+      "ReleaseDate": "11/2019",
+      "Noise": "75",
+      "Price": "1390",
+      "TimeStamp": "2019-10-12 18:23:22"
+    },
+    "Algo": [
+      {
+        "MinerID": "184",
+        "Algo": "SHA-256",
+        "Hashrate": "50",
+        "Hashtype": "Th/s",
+        "Power": "3250",
+        "Coins": "0.000388636",
+        "Coinstype": "Bitcoin"
+      }
+    ]
+  }
+]

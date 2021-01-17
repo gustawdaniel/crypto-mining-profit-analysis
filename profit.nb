@@ -1,0 +1,2421 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[    104031,       2413]
+NotebookOptionsPosition[     97297,       2318]
+NotebookOutlinePosition[     97777,       2336]
+CellTagsIndexPosition[     97734,       2333]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"electricityPrice", "=", 
+    RowBox[{"{", "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"2001", ",", "0.36"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2002", ",", "0.38"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2003", ",", "0.40"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2004", ",", "0.41"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2005", ",", "0.42"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2006", ",", "0.44"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2007", ",", "0.45"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2008", ",", "0.50"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2009", ",", "0.53"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2010", ",", "0.55"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2011", ",", "0.56"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2012", ",", "0.57"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2013", ",", "0.58"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2014", ",", "0.56"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2015", ",", "0.57"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2016", ",", "0.56"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2017", ",", "0.55"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2018", ",", "0.55"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2019", ",", "0.55"}], "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"2020", ",", "0.62"}], "}"}]}], "\[IndentingNewLine]", "}"}]}],
+    ";"}], "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.8189506059314203`*^9, 3.818950606595536*^9}, {
+  3.818950640610982*^9, 3.818950828819644*^9}, {3.818950913715641*^9, 
+  3.818950914034894*^9}, {3.819309038414319*^9, 3.819309121956438*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"ea084c3c-0412-463d-ac7f-3647f46874ed"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"cryptoPrice", " ", "=", " ", 
+  RowBox[{"Import", "[", 
+   RowBox[{
+   "\"\</home/daniel/pro/crypto/2015-08-07_2021-01-06_ethereum_price.csv\>\"",
+     ",", "\"\<CSV\>\""}], "]"}]}]], "Input",
+ CellChangeTimes->{{3.81895136387372*^9, 3.818951379667923*^9}, {
+  3.818951414145816*^9, 3.8189514238688583`*^9}},
+ CellLabel->"In[2]:=",ExpressionUUID->"1efa1762-5f4a-437c-9c9b-dc4e2ec91194"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   FrameBox[GridBox[{
+      {
+       ItemBox[
+        TagBox[
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            
+            RowBox[{"\<\"timestamp\"\>", ",", "\<\"open\"\>", 
+             ",", "\<\"high\"\>", ",", "\<\"low\"\>", ",", "\<\"close\"\>"}], 
+            "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{
+            "1609891200", ",", "1109.8623544757581`", 
+             ",", "\<\"undefined\"\>", ",", "\<\"undefined\"\>", 
+             ",", "\<\"undefined\"\>"}], "}"}], ",", 
+           TemplateBox[{"2004"},
+            "OutputSizeLimit`Skeleton"], ",", 
+           RowBox[{"{", 
+            RowBox[{
+            "1438992000", ",", "1.2`", ",", "\<\"undefined\"\>", 
+             ",", "\<\"undefined\"\>", ",", "\<\"undefined\"\>"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{
+            "1438905600", ",", "3", ",", "\<\"undefined\"\>", 
+             ",", "\<\"undefined\"\>", ",", "\<\"undefined\"\>"}], "}"}]}], 
+          "}"}],
+         Short[#, 5]& ],
+        BaseStyle->{Deployed -> False},
+        StripOnInput->False]},
+      {GridBox[{
+         {
+          PaneBox[
+           TagBox[
+            TooltipBox[
+             StyleBox[
+              StyleBox[
+               DynamicBox[ToBoxes[
+                 FEPrivate`FrontEndResource[
+                 "FEStrings", "sizeBriefExplanation"], StandardForm],
+                ImageSizeCache->{52.46370967741935, {2., 7.}}],
+               StripOnInput->False,
+               DynamicUpdating->True,
+               LineSpacing->{1, 2},
+               LineIndent->0,
+               LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLText",
+              StripOnInput->False],
+             StyleBox[
+              DynamicBox[
+               ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeExplanation"], 
+                StandardForm]], DynamicUpdating -> True, LineIndent -> 0, 
+              LinebreakAdjustments -> {1., 100, 0, 0, 0}, 
+              LineSpacing -> {1, 2}, StripOnInput -> False]],
+            Annotation[#, 
+             Style[
+              Dynamic[
+               FEPrivate`FrontEndResource["FEStrings", "sizeExplanation"]], 
+              DynamicUpdating -> True, LineIndent -> 0, 
+              LinebreakAdjustments -> {1., 100, 0, 0, 0}, 
+              LineSpacing -> {1, 2}], "Tooltip"]& ],
+           Alignment->Center,
+           BaselinePosition->Baseline,
+           ImageSize->{Automatic, {25, Full}}], 
+          ButtonBox[
+           PaneSelectorBox[{False->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowLess"], 
+                StandardForm],
+               ImageSizeCache->{46.62096774193549, {0., 7.}}],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControl",
+             StripOnInput->False], True->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowLess"], 
+                StandardForm]],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControlActive",
+             StripOnInput->False]}, Dynamic[
+             CurrentValue["MouseOver"]],
+            Alignment->Center,
+            FrameMargins->0,
+            ImageSize->{Automatic, {25, Full}}],
+           Appearance->None,
+           BaselinePosition->Baseline,
+           
+           ButtonFunction:>OutputSizeLimit`ButtonFunction[
+            OutputSizeLimit`Defer, 2, 26613061194102776070, 5/2],
+           Enabled->True,
+           Evaluator->Automatic,
+           Method->"Queued"], 
+          ButtonBox[
+           PaneSelectorBox[{False->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowMore"], 
+                StandardForm],
+               ImageSizeCache->{52.475806451612904`, {0., 7.}}],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControl",
+             StripOnInput->False], True->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowMore"], 
+                StandardForm]],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControlActive",
+             StripOnInput->False]}, Dynamic[
+             CurrentValue["MouseOver"]],
+            Alignment->Center,
+            FrameMargins->0,
+            ImageSize->{Automatic, {25, Full}}],
+           Appearance->None,
+           BaselinePosition->Baseline,
+           
+           ButtonFunction:>OutputSizeLimit`ButtonFunction[
+            OutputSizeLimit`Defer, 2, 26613061194102776070, 5 2],
+           Enabled->True,
+           Evaluator->Automatic,
+           Method->"Queued"], 
+          ButtonBox[
+           PaneSelectorBox[{False->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowAll"], 
+                StandardForm],
+               ImageSizeCache->{39.375, {0., 7.}}],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControl",
+             StripOnInput->False], True->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowAll"], 
+                StandardForm]],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControlActive",
+             StripOnInput->False]}, Dynamic[
+             CurrentValue["MouseOver"]],
+            Alignment->Center,
+            FrameMargins->0,
+            ImageSize->{Automatic, {25, Full}}],
+           Appearance->None,
+           BaselinePosition->Baseline,
+           
+           ButtonFunction:>OutputSizeLimit`ButtonFunction[
+            OutputSizeLimit`Defer, 2, 26613061194102776070, Infinity],
+           Enabled->True,
+           Evaluator->Automatic,
+           Method->"Queued"], 
+          ButtonBox[
+           PaneSelectorBox[{False->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeChangeLimit"], 
+                StandardForm],
+               ImageSizeCache->{70.89919354838709, {0., 7.}}],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControl",
+             StripOnInput->False], True->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeChangeLimit"], 
+                StandardForm]],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControlActive",
+             StripOnInput->False]}, Dynamic[
+             CurrentValue["MouseOver"]],
+            Alignment->Center,
+            FrameMargins->0,
+            ImageSize->{Automatic, {25, Full}}],
+           Appearance->None,
+           BaselinePosition->Baseline,
+           ButtonFunction:>FrontEndExecute[{
+              FrontEnd`SetOptions[
+              FrontEnd`$FrontEnd, 
+               FrontEnd`PreferencesSettings -> {"Page" -> "Advanced"}], 
+              FrontEnd`FrontEndToken["PreferencesDialog"]}],
+           Evaluator->None,
+           Method->"Preemptive"]}
+        },
+        AutoDelete->False,
+        FrameStyle->GrayLevel[0.85],
+        GridBoxDividers->{"Columns" -> {False, {True}}},
+        GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}},
+        GridBoxSpacings->{"Columns" -> {{2}}}]}
+     },
+     DefaultBaseStyle->"Column",
+     GridBoxAlignment->{"Columns" -> {{Left}}, "Rows" -> {{Baseline}}},
+     GridBoxDividers->{"Columns" -> {{False}}, "Rows" -> {{False}}},
+     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{1.}}},
+     GridBoxSpacings->{"Columns" -> {
+         Offset[0.27999999999999997`], {
+          Offset[0.5599999999999999]}, 
+         Offset[0.27999999999999997`]}, "Rows" -> {
+         Offset[0.2], 
+         Offset[1.2], {
+          Offset[0.4]}, 
+         Offset[0.2]}}],
+    BaseStyle->"OutputSizeLimit",
+    FrameMargins->{{12, 12}, {0, 15}},
+    FrameStyle->GrayLevel[0.85],
+    RoundingRadius->5,
+    StripOnInput->False],
+   Deploy,
+   DefaultBaseStyle->"Deploy"],
+  If[26613061194102776070 === $SessionID, 
+   Out[2], Message[
+     MessageName[Syntax, "noinfoker"]]; Missing["NotAvailable"]; 
+   Null]]], "Output",
+ CellChangeTimes->{3.81895142672199*^9, 3.819306454952812*^9, 
+  3.819314414733314*^9},
+ CellLabel->"Out[2]=",ExpressionUUID->"18d2c126-8216-4fcd-8678-63144f3117c8"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"miningDifficulty", " ", "=", " ", 
+  RowBox[{"Import", "[", 
+   RowBox[{
+   "\"\</home/daniel/pro/crypto/export-BlockDifficulty.csv\>\"", ",", 
+    "\"\<CSV\>\""}], "]"}]}]], "Input",
+ CellChangeTimes->{{3.818951888850128*^9, 3.818951931130946*^9}},
+ CellLabel->"In[3]:=",ExpressionUUID->"12daa134-bd1a-4b36-ae1c-e7df6c42e52a"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   FrameBox[GridBox[{
+      {
+       ItemBox[
+        TagBox[
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            
+            RowBox[{"\<\"Date(UTC)\"\>", ",", "\<\"UnixTimeStamp\"\>", 
+             ",", "\<\"Value\"\>"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"\<\"7/30/2015\"\>", ",", "1438214400", ",", "0.121`"}], 
+            "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"\<\"7/31/2015\"\>", ",", "1438300800", ",", "0.603`"}], 
+            "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"\<\"8/1/2015\"\>", ",", "1438387200", ",", "0.887`"}], 
+            "}"}], ",", 
+           TemplateBox[{"1980"},
+            "OutputSizeLimit`Skeleton"], ",", 
+           RowBox[{"{", 
+            RowBox[{"\<\"1/2/2021\"\>", ",", "1609545600", ",", "3851.062`"}],
+             "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"\<\"1/3/2021\"\>", ",", "1609632000", ",", "3872.312`"}],
+             "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"\<\"1/4/2021\"\>", ",", "1609718400", ",", "3861.593`"}],
+             "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"\<\"1/5/2021\"\>", ",", "1609804800", ",", "3864.795`"}],
+             "}"}]}], "}"}],
+         Short[#, 5]& ],
+        BaseStyle->{Deployed -> False},
+        StripOnInput->False]},
+      {GridBox[{
+         {
+          PaneBox[
+           TagBox[
+            TooltipBox[
+             StyleBox[
+              StyleBox[
+               DynamicBox[ToBoxes[
+                 FEPrivate`FrontEndResource[
+                 "FEStrings", "sizeBriefExplanation"], StandardForm],
+                ImageSizeCache->{52.46370967741935, {2., 7.}}],
+               StripOnInput->False,
+               DynamicUpdating->True,
+               LineSpacing->{1, 2},
+               LineIndent->0,
+               LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLText",
+              StripOnInput->False],
+             StyleBox[
+              DynamicBox[
+               ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeExplanation"], 
+                StandardForm]], DynamicUpdating -> True, LineIndent -> 0, 
+              LinebreakAdjustments -> {1., 100, 0, 0, 0}, 
+              LineSpacing -> {1, 2}, StripOnInput -> False]],
+            Annotation[#, 
+             Style[
+              Dynamic[
+               FEPrivate`FrontEndResource["FEStrings", "sizeExplanation"]], 
+              DynamicUpdating -> True, LineIndent -> 0, 
+              LinebreakAdjustments -> {1., 100, 0, 0, 0}, 
+              LineSpacing -> {1, 2}], "Tooltip"]& ],
+           Alignment->Center,
+           BaselinePosition->Baseline,
+           ImageSize->{Automatic, {25, Full}}], 
+          ButtonBox[
+           PaneSelectorBox[{False->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowLess"], 
+                StandardForm],
+               ImageSizeCache->{46.62096774193549, {0., 7.}}],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControl",
+             StripOnInput->False], True->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowLess"], 
+                StandardForm]],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControlActive",
+             StripOnInput->False]}, Dynamic[
+             CurrentValue["MouseOver"]],
+            Alignment->Center,
+            FrameMargins->0,
+            ImageSize->{Automatic, {25, Full}}],
+           Appearance->None,
+           BaselinePosition->Baseline,
+           
+           ButtonFunction:>OutputSizeLimit`ButtonFunction[
+            OutputSizeLimit`Defer, 3, 26613061194102776070, 5/2],
+           Enabled->True,
+           Evaluator->Automatic,
+           Method->"Queued"], 
+          ButtonBox[
+           PaneSelectorBox[{False->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowMore"], 
+                StandardForm],
+               ImageSizeCache->{52.475806451612904`, {0., 7.}}],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControl",
+             StripOnInput->False], True->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowMore"], 
+                StandardForm]],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControlActive",
+             StripOnInput->False]}, Dynamic[
+             CurrentValue["MouseOver"]],
+            Alignment->Center,
+            FrameMargins->0,
+            ImageSize->{Automatic, {25, Full}}],
+           Appearance->None,
+           BaselinePosition->Baseline,
+           
+           ButtonFunction:>OutputSizeLimit`ButtonFunction[
+            OutputSizeLimit`Defer, 3, 26613061194102776070, 5 2],
+           Enabled->True,
+           Evaluator->Automatic,
+           Method->"Queued"], 
+          ButtonBox[
+           PaneSelectorBox[{False->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowAll"], 
+                StandardForm],
+               ImageSizeCache->{39.375, {0., 7.}}],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControl",
+             StripOnInput->False], True->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeShowAll"], 
+                StandardForm]],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControlActive",
+             StripOnInput->False]}, Dynamic[
+             CurrentValue["MouseOver"]],
+            Alignment->Center,
+            FrameMargins->0,
+            ImageSize->{Automatic, {25, Full}}],
+           Appearance->None,
+           BaselinePosition->Baseline,
+           
+           ButtonFunction:>OutputSizeLimit`ButtonFunction[
+            OutputSizeLimit`Defer, 3, 26613061194102776070, Infinity],
+           Enabled->True,
+           Evaluator->Automatic,
+           Method->"Queued"], 
+          ButtonBox[
+           PaneSelectorBox[{False->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeChangeLimit"], 
+                StandardForm],
+               ImageSizeCache->{70.89919354838709, {0., 7.}}],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControl",
+             StripOnInput->False], True->
+            StyleBox[
+             StyleBox[
+              DynamicBox[ToBoxes[
+                FEPrivate`FrontEndResource["FEStrings", "sizeChangeLimit"], 
+                StandardForm]],
+              StripOnInput->False,
+              DynamicUpdating->True,
+              LineSpacing->{1, 2},
+              LineIndent->0,
+              LinebreakAdjustments->{1., 100, 0, 0, 0}], "OSLControlActive",
+             StripOnInput->False]}, Dynamic[
+             CurrentValue["MouseOver"]],
+            Alignment->Center,
+            FrameMargins->0,
+            ImageSize->{Automatic, {25, Full}}],
+           Appearance->None,
+           BaselinePosition->Baseline,
+           ButtonFunction:>FrontEndExecute[{
+              FrontEnd`SetOptions[
+              FrontEnd`$FrontEnd, 
+               FrontEnd`PreferencesSettings -> {"Page" -> "Advanced"}], 
+              FrontEnd`FrontEndToken["PreferencesDialog"]}],
+           Evaluator->None,
+           Method->"Preemptive"]}
+        },
+        AutoDelete->False,
+        FrameStyle->GrayLevel[0.85],
+        GridBoxDividers->{"Columns" -> {False, {True}}},
+        GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}},
+        GridBoxSpacings->{"Columns" -> {{2}}}]}
+     },
+     DefaultBaseStyle->"Column",
+     GridBoxAlignment->{"Columns" -> {{Left}}, "Rows" -> {{Baseline}}},
+     GridBoxDividers->{"Columns" -> {{False}}, "Rows" -> {{False}}},
+     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{1.}}},
+     GridBoxSpacings->{"Columns" -> {
+         Offset[0.27999999999999997`], {
+          Offset[0.5599999999999999]}, 
+         Offset[0.27999999999999997`]}, "Rows" -> {
+         Offset[0.2], 
+         Offset[1.2], {
+          Offset[0.4]}, 
+         Offset[0.2]}}],
+    BaseStyle->"OutputSizeLimit",
+    FrameMargins->{{12, 12}, {0, 15}},
+    FrameStyle->GrayLevel[0.85],
+    RoundingRadius->5,
+    StripOnInput->False],
+   Deploy,
+   DefaultBaseStyle->"Deploy"],
+  If[26613061194102776070 === $SessionID, 
+   Out[3], Message[
+     MessageName[Syntax, "noinfoker"]]; Missing["NotAvailable"]; 
+   Null]]], "Output",
+ CellChangeTimes->{3.818951934242577*^9, 3.81930648118048*^9, 
+  3.819314421187821*^9},
+ CellLabel->"Out[3]=",ExpressionUUID->"87797aa0-46d5-4245-b4cd-19b0e8395761"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"16654", "*", "24", "*", "3600"}]], "Input",
+ CellChangeTimes->{{3.819306719630969*^9, 3.8193067246159267`*^9}},
+ CellLabel->"In[10]:=",ExpressionUUID->"fae805fc-ef11-473e-aec3-bc9d062aefc1"],
+
+Cell[BoxData["1438905600"], "Output",
+ CellChangeTimes->{3.819306724996921*^9},
+ CellLabel->"Out[10]=",ExpressionUUID->"30f3275d-6cd7-4a93-b26d-11f9313cc040"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"minersLogs", "=", 
+  RowBox[{"Import", "[", 
+   RowBox[{
+   "\"\</home/daniel/pro/crypto/miners-scraper/out/pl-simple.json\>\"", ",", 
+    "\"\<RawJSON\>\""}], "]"}]}]], "Input",
+ CellChangeTimes->{{3.8193102203586407`*^9, 3.819310286284041*^9}, {
+   3.819310763865531*^9, 3.819310765380706*^9}, 3.8193112908949223`*^9},
+ CellLabel->"In[4]:=",ExpressionUUID->"3a905f2e-955b-48b7-8a79-5fcbc011b11d"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"name\"\>", "\[Rule]", "\<\"Antminer G2\"\>"}], ",", 
+     RowBox[{"\<\"manufacturer\"\>", "\[Rule]", "\<\"Bitmain\"\>"}], ",", 
+     RowBox[{"\<\"date\"\>", "\[Rule]", "17501"}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "3399"}], ",", 
+     RowBox[{"\<\"hashrate\"\>", "\[Rule]", "220000000"}], ",", 
+     RowBox[{"\<\"power\"\>", "\[Rule]", "1200"}]}], "\[RightAssociation]"}], 
+   ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"name\"\>", "\[Rule]", "\<\"B5 Plus\"\>"}], ",", 
+     RowBox[{"\<\"manufacturer\"\>", "\[Rule]", "\<\"PandaMiner\"\>"}], ",", 
+     RowBox[{"\<\"date\"\>", "\[Rule]", "17563"}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "2010"}], ",", 
+     RowBox[{"\<\"hashrate\"\>", "\[Rule]", "110000000"}], ",", 
+     RowBox[{"\<\"power\"\>", "\[Rule]", "800"}]}], "\[RightAssociation]"}], 
+   ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"name\"\>", "\[Rule]", "\<\"B7\"\>"}], ",", 
+     RowBox[{"\<\"manufacturer\"\>", "\[Rule]", "\<\"PandaMiner\"\>"}], ",", 
+     RowBox[{"\<\"date\"\>", "\[Rule]", "18475"}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "2550"}], ",", 
+     RowBox[{"\<\"hashrate\"\>", "\[Rule]", "230000000"}], ",", 
+     RowBox[{"\<\"power\"\>", "\[Rule]", "1150"}]}], "\[RightAssociation]"}], 
+   ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"name\"\>", "\[Rule]", "\<\"A10 - 485Mh/s\"\>"}], ",", 
+     RowBox[{"\<\"manufacturer\"\>", "\[Rule]", "\<\"Innosilicon\"\>"}], ",", 
+     
+     RowBox[{"\<\"date\"\>", "\[Rule]", "17775"}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "2500"}], ",", 
+     RowBox[{"\<\"hashrate\"\>", "\[Rule]", "485000000"}], ",", 
+     RowBox[{"\<\"power\"\>", "\[Rule]", "850"}]}], "\[RightAssociation]"}], 
+   ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"name\"\>", "\[Rule]", "\<\"A10 - 432Mh/s\"\>"}], ",", 
+     RowBox[{"\<\"manufacturer\"\>", "\[Rule]", "\<\"Innosilicon\"\>"}], ",", 
+     
+     RowBox[{"\<\"date\"\>", "\[Rule]", "17775"}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "2250"}], ",", 
+     RowBox[{"\<\"hashrate\"\>", "\[Rule]", "432000000"}], ",", 
+     RowBox[{"\<\"power\"\>", "\[Rule]", "740"}]}], "\[RightAssociation]"}], 
+   ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"name\"\>", "\[Rule]", "\<\"A10 - 365Mh/s\"\>"}], ",", 
+     RowBox[{"\<\"manufacturer\"\>", "\[Rule]", "\<\"Innosilicon\"\>"}], ",", 
+     
+     RowBox[{"\<\"date\"\>", "\[Rule]", "17775"}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "2000"}], ",", 
+     RowBox[{"\<\"hashrate\"\>", "\[Rule]", "365000000"}], ",", 
+     RowBox[{"\<\"power\"\>", "\[Rule]", "650"}]}], "\[RightAssociation]"}], 
+   ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"name\"\>", "\[Rule]", "\<\"A10 - 500Mh/s\"\>"}], ",", 
+     RowBox[{"\<\"manufacturer\"\>", "\[Rule]", "\<\"Innosilicon\"\>"}], ",", 
+     
+     RowBox[{"\<\"date\"\>", "\[Rule]", "18140"}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "2500"}], ",", 
+     RowBox[{"\<\"hashrate\"\>", "\[Rule]", "500000000"}], ",", 
+     RowBox[{"\<\"power\"\>", "\[Rule]", "750"}]}], "\[RightAssociation]"}]}],
+   "}"}]], "Output",
+ CellChangeTimes->{3.819310293226344*^9, 3.8193107662608213`*^9, 
+  3.8193112915411377`*^9, 3.8193144489908857`*^9},
+ CellLabel->"Out[4]=",ExpressionUUID->"59d0c615-5919-4f8d-94ce-e2134c2ea67f"]
+}, Open  ]],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"prizeFunction", "::", "usage"}], "=", 
+   "\"\<prizeFunction[day] returns prize using day from epoch.\nOctober 17, \
+2017: 5ETH \[RightArrow] 3ETH (Bizantium) [17456 days] \nFebruary 28, 2019: \
+3ETH \[RightArrow] 2ETH (Constantinopol) [17955 days]\nCurrent: 2ETH\n\>\""}],
+   ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"prizeFunction", "[", "day_", "]"}], ":=", "\[IndentingNewLine]", 
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"bizantium", "=", "17456"}], ",", " ", 
+       RowBox[{"constantinopol", "=", "17955"}]}], "}"}], ",", " ", 
+     RowBox[{"If", "[", 
+      RowBox[{
+       RowBox[{"day", "<", "bizantium"}], ",", "5", ",", 
+       RowBox[{"If", "[", 
+        RowBox[{
+         RowBox[{"day", "<", "constantinopol"}], ",", "3", ",", "2"}], 
+        "]"}]}], "]"}]}], "\[IndentingNewLine]", "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"electricityPriceFunction", "[", "day_", "]"}], ":=", 
+   "\[IndentingNewLine]", 
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", "year", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"year", " ", "=", " ", 
+       RowBox[{
+        RowBox[{"DateList", "[", 
+         RowBox[{"FromUnixTime", "[", 
+          RowBox[{"day", "*", "dayToSec"}], "]"}], "]"}], "[", 
+        RowBox[{"[", "1", "]"}], "]"}]}], ";", "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"electricityPrice", "[", 
+        RowBox[{"[", 
+         RowBox[{"year", " ", "-", " ", "2000"}], "]"}], "]"}], "[", 
+       RowBox[{"[", "2", "]"}], "]"}]}]}], "\[IndentingNewLine]", "]"}]}], 
+  ";"}]}], "Input",
+ CellChangeTimes->{{3.8193079222523203`*^9, 3.819307959614429*^9}, 
+   3.819307994538765*^9, {3.819308136866613*^9, 3.81930833468432*^9}, {
+   3.8193087057836323`*^9, 3.819308736057506*^9}, {3.819308935222322*^9, 
+   3.819309002030888*^9}, {3.819309191188714*^9, 3.819309192643532*^9}},
+ CellLabel->"In[5]:=",ExpressionUUID->"2f59b4e9-b090-4903-bf7a-e1caefc9c7ce"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"avaliableMiners", "[", "day_", "]"}], ":=", "\[IndentingNewLine]", 
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"Select", "[", 
+      RowBox[{"minersLogs", ",", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"#", "[", 
+          RowBox[{"[", "\"\<date\>\"", "]"}], "]"}], "<", "day"}], "&"}]}], 
+      "]"}]}], "\[IndentingNewLine]", "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.819308762427721*^9, 3.819308797570425*^9}, {
+   3.819308915242091*^9, 3.8193089228365803`*^9}, 3.819308954067317*^9, {
+   3.819310871991238*^9, 3.8193109054695663`*^9}, {3.819310981505718*^9, 
+   3.81931101597643*^9}, 3.8193113291716537`*^9},
+ CellLabel->"In[8]:=",ExpressionUUID->"320f443d-b824-466c-a088-17586804e4a7"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"startDay", "=", "16654"}], ";", 
+  RowBox[{"endDay", "=", "18638"}], ";", 
+  RowBox[{"endDay", "=", "16654"}], ";", 
+  RowBox[{"dayToSec", "=", 
+   RowBox[{"24", "*", "3600"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"account", "=", 
+   RowBox[{"{", "}"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"For", "[", 
+   RowBox[{
+    RowBox[{"day", "=", 
+     RowBox[{"startDay", "+", "840"}]}], ",", 
+    RowBox[{"day", " ", "<", " ", 
+     RowBox[{"endDay", "+", "850"}]}], ",", 
+    RowBox[{"day", "++"}], ",", "\[IndentingNewLine]", 
+    RowBox[{
+     RowBox[{"Module", "[", 
+      RowBox[{
+       RowBox[{"{", "}"}], ",", "\[IndentingNewLine]", 
+       RowBox[{
+        RowBox[{"date", " ", "=", " ", 
+         RowBox[{"FromUnixTime", "[", 
+          RowBox[{"day", "*", "dayToSec"}], "]"}]}], ";", 
+        "\[IndentingNewLine]", 
+        RowBox[{"price", "=", 
+         RowBox[{
+          RowBox[{"cryptoPrice", "[", 
+           RowBox[{"[", 
+            RowBox[{"startDay", "-", "day", "-", "1"}], "]"}], "]"}], "[", 
+          RowBox[{"[", "2", "]"}], "]"}]}], ";", "\[IndentingNewLine]", 
+        RowBox[{"diff", "=", 
+         RowBox[{
+          RowBox[{"miningDifficulty", "[", 
+           RowBox[{"[", 
+            RowBox[{"10", "+", "day", "-", "startDay"}], "]"}], "]"}], "[", 
+          RowBox[{"[", "3", "]"}], "]"}]}], ";", "\[IndentingNewLine]", 
+        RowBox[{"prize", "=", 
+         RowBox[{"prizeFunction", "[", "day", "]"}]}], ";", 
+        "\[IndentingNewLine]", 
+        RowBox[{"electricity", "=", 
+         RowBox[{"electricityPriceFunction", "[", "day", "]"}]}], ";", 
+        "\[IndentingNewLine]", 
+        RowBox[{"assoc", " ", "=", " ", 
+         RowBox[{"<|", "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{"\"\<date\>\"", "\[Rule]", "date"}], ",", 
+           "\[IndentingNewLine]", 
+           RowBox[{"\"\<price\>\"", "\[Rule]", "price"}], ",", 
+           "\[IndentingNewLine]", 
+           RowBox[{"\"\<diff\>\"", "\[Rule]", "diff"}], ",", 
+           "\[IndentingNewLine]", 
+           RowBox[{"\"\<prize\>\"", "->", "prize"}], ",", 
+           "\[IndentingNewLine]", 
+           RowBox[{"\"\<electricity\>\"", "->", "electricity"}], ",", 
+           "\[IndentingNewLine]", 
+           RowBox[{"\"\<avaliable_len\>\"", "->", 
+            RowBox[{"Length", "[", 
+             RowBox[{"avaliableMiners", "[", "day", "]"}], "]"}]}]}], 
+          "\[IndentingNewLine]", "|>"}]}], ";", "\[IndentingNewLine]", 
+        RowBox[{"IF", "[", 
+         RowBox[{
+          RowBox[{"day", " ", "===", " ", "startDay"}], ",", " ", 
+          RowBox[{"AppendTo", "[", 
+           RowBox[{"account", ",", 
+            RowBox[{"<|", 
+             RowBox[{
+              RowBox[{"\"\<USD\>\"", "\[Rule]", "1"}], ",", 
+              RowBox[{"\"\<ETH\>\"", "\[Rule]", "\"\<0\>\""}], ",", " ", 
+              RowBox[{"\"\<day\>\"", "\[Rule]", "startDay"}], ",", 
+              RowBox[{"\"\<strategy\>\"", "\[Rule]", "\"\<BUY_MINER\>\""}], 
+              ",", 
+              RowBox[{"\"\<miners\>\"", "\[Rule]", 
+               RowBox[{"{", "}"}]}]}], "|>"}]}], "]"}], ",", 
+          "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{"lac", "=", 
+            RowBox[{"Last", "[", "account", "]"}]}], ";", 
+           "\[IndentingNewLine]", 
+           RowBox[{"Print", "[", 
+            RowBox[{"\"\<lac\>\"", ",", " ", "lac"}], "]"}], ";", 
+           "\[IndentingNewLine]", 
+           RowBox[{"If", "[", 
+            RowBox[{
+             RowBox[{
+              RowBox[{
+               RowBox[{"Last", "[", "account", "]"}], "[", 
+               RowBox[{"[", "\"\<strategy\>\"", "]"}], "]"}], "===", 
+              "\"\<BUY_MINER\>\""}], ",", "\[IndentingNewLine]", 
+             "\[IndentingNewLine]", 
+             RowBox[{
+              RowBox[{"Print", "[", 
+               RowBox[{"\"\<STRATEGY\>\"", ",", " ", "\"\<BUY_MINER\>\""}], 
+               "]"}], ";", "\[IndentingNewLine]", 
+              RowBox[{"If", "[", 
+               RowBox[{
+                RowBox[{
+                 RowBox[{"assoc", "[", "\"\<avaliable_len\>\"", "]"}], ">", 
+                 "0"}], ",", "\[IndentingNewLine]", 
+                RowBox[{
+                 RowBox[{"Print", "[", "\"\<LENGTH\>\"", "]"}], ";", 
+                 RowBox[{"AppendTo", "[", 
+                  RowBox[{"account", ",", 
+                   RowBox[{"<|", 
+                    RowBox[{
+                    RowBox[{"\"\<USD\>\"", "\[Rule]", "0"}], ",", 
+                    RowBox[{"\"\<ETH\>\"", "\[Rule]", "\"\<0\>\""}], ",", " ", 
+                    RowBox[{"\"\<day\>\"", "\[Rule]", "startDay"}], ",", 
+                    RowBox[{"\"\<strategy\>\"", "\[Rule]", "\"\<MINE\>\""}], 
+                    ",", 
+                    RowBox[{"\"\<miners\>\"", "\[Rule]", 
+                    RowBox[{"{", 
+                    RowBox[{"Append", "[", 
+                    RowBox[{
+                    RowBox[{"First", "[", 
+                    RowBox[{"avaliableMiners", "[", "day", "]"}], "]"}], ",", 
+                    
+                    RowBox[{"\"\<value\>\"", "\[Rule]", 
+                    RowBox[{"1", "/", 
+                    RowBox[{
+                    RowBox[{"First", "[", 
+                    RowBox[{"avaliableMiners", "[", "day", "]"}], "]"}], "[", 
+                    
+                    RowBox[{"[", "\"\<price\>\"", "]"}], "]"}]}]}]}], "]"}], 
+                    "}"}]}]}], "|>"}]}], "]"}]}], ",", "\[IndentingNewLine]", 
+                
+                RowBox[{
+                 RowBox[{"Print", "[", "\"\<NO LENGTH\>\"", "]"}], ";", 
+                 "\[IndentingNewLine]", 
+                 RowBox[{"Print", "[", 
+                  RowBox[{"Length", "[", 
+                   RowBox[{"avaliableMiners", "[", "day", "]"}], "]"}], "]"}],
+                  ";", "\[IndentingNewLine]", 
+                 RowBox[{"AppendTo", "[", 
+                  RowBox[{"account", ",", 
+                   RowBox[{"<|", 
+                    RowBox[{
+                    RowBox[{"\"\<USD\>\"", "\[Rule]", "1"}], ",", 
+                    RowBox[{"\"\<ETH\>\"", "\[Rule]", "\"\<0\>\""}], ",", " ", 
+                    RowBox[{"\"\<day\>\"", "\[Rule]", "day"}], ",", 
+                    RowBox[{
+                    "\"\<strategy\>\"", "\[Rule]", "\"\<BUY_MINER\>\""}], ",", 
+                    RowBox[{"\"\<miners\>\"", "\[Rule]", 
+                    RowBox[{"{", "}"}]}]}], "|>"}]}], "]"}]}]}], 
+               "\[IndentingNewLine]", "]"}]}], ",", "\[IndentingNewLine]", 
+             RowBox[{"If", "[", 
+              RowBox[{
+               RowBox[{
+                RowBox[{
+                 RowBox[{"Last", "[", "account", "]"}], "[", 
+                 RowBox[{"[", "\"\<strategy\>\"", "]"}], "]"}], "===", 
+                "\"\<MINE\>\""}], ",", "\[IndentingNewLine]", 
+               RowBox[{
+                RowBox[{"Print", "[", "\"\<MINE\>\"", "]"}], ";", 
+                "\[IndentingNewLine]", 
+                RowBox[{"miner", " ", "=", " ", 
+                 RowBox[{
+                  RowBox[{"account", "//", 
+                   RowBox[{"Last", "[", 
+                    RowBox[{"[", "\"\<miners\>\"", "]"}], "]"}]}], "//", 
+                  "First"}]}], ";", "\[IndentingNewLine]", 
+                RowBox[{"electricityCost", " ", "=", " ", 
+                 RowBox[{
+                  RowBox[{"miner", "[", 
+                   RowBox[{"[", "\"\<power\>\"", "]"}], "]"}], "*", 
+                  RowBox[{"miner", "[", 
+                   RowBox[{"[", "\"\<value\>\"", "]"}], "]"}], "*", 
+                  RowBox[{"electricityPriceFunction", "[", "day", "]"}], "*", 
+                  
+                  RowBox[{
+                   RowBox[{"24", "/", "1000"}], "/", "3.7"}]}]}], ";", 
+                "\[IndentingNewLine]", 
+                RowBox[{"minedHashs", "=", 
+                 RowBox[{
+                  RowBox[{"miner", "[", 
+                   RowBox[{"[", "\"\<hashrate\>\"", "]"}], "]"}], "*", 
+                  "dayToSec"}]}], ";", "\[IndentingNewLine]", 
+                RowBox[{"minedPrize", " ", "=", " ", 
+                 RowBox[{"minedHashs", " ", "/", " ", 
+                  RowBox[{"(", 
+                   RowBox[{
+                    RowBox[{"assoc", "[", 
+                    RowBox[{"[", "\"\<diff\>\"", "]"}], "]"}], "*", 
+                    RowBox[{"10", "^", "12"}]}], ")"}]}]}], ";", 
+                "\[IndentingNewLine]", 
+                RowBox[{"prizeValue", " ", "=", " ", 
+                 RowBox[{"minedPrize", "*", 
+                  RowBox[{"assoc", "[", 
+                   RowBox[{"[", "\"\<prize\>\"", "]"}], "]"}]}]}], ";", 
+                "\[IndentingNewLine]", 
+                RowBox[{"soldETH", "=", 
+                 RowBox[{"prizeValue", "*", 
+                  RowBox[{"assoc", "[", "\"\<price\>\"", "]"}]}]}], ";", 
+                "\[IndentingNewLine]", 
+                RowBox[{"lastAcc", " ", "=", " ", 
+                 RowBox[{"account", "//", "Last"}]}], ";", 
+                "\[IndentingNewLine]", 
+                RowBox[{"AppendTo", "[", 
+                 RowBox[{"account", ",", 
+                  RowBox[{"Append", "[", 
+                   RowBox[{"lastAcc", ",", " ", 
+                    RowBox[{"\"\<USD\>\"", "\[Rule]", 
+                    RowBox[{
+                    RowBox[{"lastAcc", "[", 
+                    RowBox[{"[", "\"\<USD\>\"", "]"}], "]"}], "+", "soldETH", 
+                    "-", "electricityCost"}]}]}], "]"}]}], "]"}], ";"}]}], 
+              "\[IndentingNewLine]", "]"}]}], "\[IndentingNewLine]", 
+            "]"}]}]}], "\[IndentingNewLine]", "]"}], ";", 
+        "\[IndentingNewLine]", "\[IndentingNewLine]", 
+        RowBox[{"Print", "[", 
+         RowBox[{"assoc", ",", " ", 
+          RowBox[{"Last", "[", "account", "]"}]}], "]"}], ";"}]}], 
+      "\[IndentingNewLine]", "]"}], ";"}]}], "\[IndentingNewLine]", "]"}], 
+  ";"}]}], "Input",
+ CellChangeTimes->{{3.819306797401772*^9, 3.819306821802589*^9}, {
+   3.819306953356881*^9, 3.819306999370625*^9}, {3.819307077744485*^9, 
+   3.8193072717332373`*^9}, {3.8193073238179617`*^9, 3.819307348396647*^9}, {
+   3.819307497034808*^9, 3.8193075889329777`*^9}, {3.819307687369299*^9, 
+   3.819307727685586*^9}, 3.8193077600426407`*^9, {3.819308348034233*^9, 
+   3.8193084292032547`*^9}, {3.819308499019156*^9, 3.819308500593647*^9}, {
+   3.8193091355519857`*^9, 3.8193091813039494`*^9}, 3.8193093712708063`*^9, {
+   3.819309475230568*^9, 3.81930948113811*^9}, {3.819309515212755*^9, 
+   3.819309545312315*^9}, {3.8193117664723063`*^9, 3.819311902592757*^9}, {
+   3.81931193638297*^9, 3.8193120361803417`*^9}, {3.8193120809355288`*^9, 
+   3.8193121712826347`*^9}, {3.819312206985241*^9, 3.8193123320836973`*^9}, {
+   3.819312385872896*^9, 3.819312670078054*^9}, {3.819312718767581*^9, 
+   3.819312785307242*^9}, {3.81931285961804*^9, 3.8193128649278593`*^9}, {
+   3.819312957068425*^9, 3.81931295736301*^9}, {3.819312999262005*^9, 
+   3.819313067381371*^9}, {3.819313100969988*^9, 3.819313105334115*^9}, {
+   3.819313175359962*^9, 3.8193131774304323`*^9}, {3.819313295793603*^9, 
+   3.819313478912834*^9}, {3.819313516157835*^9, 3.819313582221139*^9}, {
+   3.8193136149947166`*^9, 3.819313616345046*^9}, {3.8193136594678173`*^9, 
+   3.8193136919902487`*^9}, {3.819313748100287*^9, 3.8193137523361683`*^9}, {
+   3.8193137948211393`*^9, 3.819313812076168*^9}, {3.819313857831978*^9, 
+   3.819313900167527*^9}, 3.819314391214362*^9, {3.819314518138575*^9, 
+   3.8193145461854687`*^9}, {3.8193146600636797`*^9, 3.8193147054465218`*^9}, 
+   3.819314743184424*^9, {3.819314797018732*^9, 3.81931483193325*^9}, {
+   3.819314996264174*^9, 3.81931500374255*^9}, {3.819315035888685*^9, 
+   3.819315043699504*^9}, {3.819315105885818*^9, 3.819315120134164*^9}},
+ CellLabel->"In[41]:=",ExpressionUUID->"73dd41ed-ed56-47a9-9181-eabfa81e0fe1"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"lac\"\>", "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm["lac", 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 16654, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121469212*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"09525b50-4520-4c76-81ed-2c3b31944111"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"STRATEGY\"\>", "\[InvisibleSpace]", "\<\"BUY_MINER\"\>"}],
+  SequenceForm["STRATEGY", "BUY_MINER"],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.81931512147583*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"31bacff8-9d3f-413f-9ef3-d076c78a5a61"],
+
+Cell[BoxData["\<\"NO LENGTH\"\>"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121482643*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"6c879646-7dab-483e-820c-58d9150403d9"],
+
+Cell[BoxData["0"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121487752*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"9bb6633d-7253-4b08-b550-a2dd6b94a424"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"date\"\>", "\[Rule]", 
+      TemplateBox[{
+        RowBox[{"\"Fri 24 Nov 2017 01:00:00\"", 
+          StyleBox[
+           RowBox[{"\"GMT+\"", "\[InvisibleSpace]", 
+             StyleBox["1", NumberMarks -> False, StripOnInput -> False]}], 
+           FontColor -> GrayLevel[0.5]]}], 
+        RowBox[{"DateObject", "[", 
+          RowBox[{
+            RowBox[{"{", 
+              
+              RowBox[{"2017", ",", "11", ",", "24", ",", "1", ",", "0", ",", 
+                "0.`"}], "}"}], ",", "\"Instant\"", ",", "\"Gregorian\"", ",",
+             "1.`"}], "]"}]},
+       "DateObject",
+       Editable->False]}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "470.43`"}], ",", 
+     RowBox[{"\<\"diff\"\>", "\[Rule]", "1549.351`"}], ",", 
+     RowBox[{"\<\"prize\"\>", "\[Rule]", "3"}], ",", 
+     RowBox[{"\<\"electricity\"\>", "\[Rule]", "0.55`"}], ",", 
+     RowBox[{"\<\"avaliable_len\"\>", "\[Rule]", "0"}]}], 
+    "\[RightAssociation]"}], "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17494"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm[
+   Association[
+   "date" -> DateObject[{2017, 11, 24, 1, 0, 0.}, "Instant", "Gregorian", 1.],
+     "price" -> 470.43, "diff" -> 1549.351, "prize" -> 3, "electricity" -> 
+    0.55, "avaliable_len" -> 0], 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 17494, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121492708*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"f2909cc9-f043-424f-87b7-bc76d7274f24"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"lac\"\>", "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm["lac", 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 16654, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.8193151214986677`*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"89420122-6362-484f-b9bf-3f89a5f945f5"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"STRATEGY\"\>", "\[InvisibleSpace]", "\<\"BUY_MINER\"\>"}],
+  SequenceForm["STRATEGY", "BUY_MINER"],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121503141*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"b11427f6-acc1-41f4-a7fc-ad5850f13f69"],
+
+Cell[BoxData["\<\"NO LENGTH\"\>"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.8193151215072117`*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"1b47d1a5-9b3e-41fa-a4c6-20653292e8f3"],
+
+Cell[BoxData["0"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121511231*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"ece66f86-2bc2-4466-b722-7138ecce3b48"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"date\"\>", "\[Rule]", 
+      TemplateBox[{
+        RowBox[{"\"Sat 25 Nov 2017 01:00:00\"", 
+          StyleBox[
+           RowBox[{"\"GMT+\"", "\[InvisibleSpace]", 
+             StyleBox["1", NumberMarks -> False, StripOnInput -> False]}], 
+           FontColor -> GrayLevel[0.5]]}], 
+        RowBox[{"DateObject", "[", 
+          RowBox[{
+            RowBox[{"{", 
+              
+              RowBox[{"2017", ",", "11", ",", "25", ",", "1", ",", "0", ",", 
+                "0.`"}], "}"}], ",", "\"Instant\"", ",", "\"Gregorian\"", ",",
+             "1.`"}], "]"}]},
+       "DateObject",
+       Editable->False]}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "464.61`"}], ",", 
+     RowBox[{"\<\"diff\"\>", "\[Rule]", "1562.073`"}], ",", 
+     RowBox[{"\<\"prize\"\>", "\[Rule]", "3"}], ",", 
+     RowBox[{"\<\"electricity\"\>", "\[Rule]", "0.55`"}], ",", 
+     RowBox[{"\<\"avaliable_len\"\>", "\[Rule]", "0"}]}], 
+    "\[RightAssociation]"}], "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17495"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm[
+   Association[
+   "date" -> DateObject[{2017, 11, 25, 1, 0, 0.}, "Instant", "Gregorian", 1.],
+     "price" -> 464.61, "diff" -> 1562.073, "prize" -> 3, "electricity" -> 
+    0.55, "avaliable_len" -> 0], 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 17495, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121515615*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"ff788799-3ab6-483f-a44e-b6b3f1c9f618"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"lac\"\>", "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm["lac", 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 16654, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121520845*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"1b913bfd-2d7e-4bcc-b795-974ba2253980"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"STRATEGY\"\>", "\[InvisibleSpace]", "\<\"BUY_MINER\"\>"}],
+  SequenceForm["STRATEGY", "BUY_MINER"],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121524911*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"3446b0af-5267-430f-b946-07af3e474120"],
+
+Cell[BoxData["\<\"NO LENGTH\"\>"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121528727*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"a19e3e94-71ef-49d7-9bde-4a5aa323a8e3"],
+
+Cell[BoxData["0"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121532625*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"06818bc8-72a7-4692-b9dc-3d447e3736e2"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"date\"\>", "\[Rule]", 
+      TemplateBox[{
+        RowBox[{"\"Sun 26 Nov 2017 01:00:00\"", 
+          StyleBox[
+           RowBox[{"\"GMT+\"", "\[InvisibleSpace]", 
+             StyleBox["1", NumberMarks -> False, StripOnInput -> False]}], 
+           FontColor -> GrayLevel[0.5]]}], 
+        RowBox[{"DateObject", "[", 
+          RowBox[{
+            RowBox[{"{", 
+              
+              RowBox[{"2017", ",", "11", ",", "26", ",", "1", ",", "0", ",", 
+                "0.`"}], "}"}], ",", "\"Instant\"", ",", "\"Gregorian\"", ",",
+             "1.`"}], "]"}]},
+       "DateObject",
+       Editable->False]}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "470.54`"}], ",", 
+     RowBox[{"\<\"diff\"\>", "\[Rule]", "1553.38`"}], ",", 
+     RowBox[{"\<\"prize\"\>", "\[Rule]", "3"}], ",", 
+     RowBox[{"\<\"electricity\"\>", "\[Rule]", "0.55`"}], ",", 
+     RowBox[{"\<\"avaliable_len\"\>", "\[Rule]", "0"}]}], 
+    "\[RightAssociation]"}], "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17496"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm[
+   Association[
+   "date" -> DateObject[{2017, 11, 26, 1, 0, 0.}, "Instant", "Gregorian", 1.],
+     "price" -> 470.54, "diff" -> 1553.38, "prize" -> 3, "electricity" -> 
+    0.55, "avaliable_len" -> 0], 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 17496, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121536908*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"4e1c9490-ef37-4e46-a241-2901a61466d3"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"lac\"\>", "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm["lac", 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 16654, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121541945*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"b90186f9-d4a4-4d74-ad1e-f75028de7445"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"STRATEGY\"\>", "\[InvisibleSpace]", "\<\"BUY_MINER\"\>"}],
+  SequenceForm["STRATEGY", "BUY_MINER"],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121545998*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"4ff0c7c7-4597-4a80-82ab-43f326a7797e"],
+
+Cell[BoxData["\<\"NO LENGTH\"\>"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121549857*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"7b7d7321-8130-4031-822e-98adb26ab481"],
+
+Cell[BoxData["0"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121553656*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"9e19f4d9-9ebe-418d-acc1-1e8d151fc03a"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"date\"\>", "\[Rule]", 
+      TemplateBox[{
+        RowBox[{"\"Mon 27 Nov 2017 01:00:00\"", 
+          StyleBox[
+           RowBox[{"\"GMT+\"", "\[InvisibleSpace]", 
+             StyleBox["1", NumberMarks -> False, StripOnInput -> False]}], 
+           FontColor -> GrayLevel[0.5]]}], 
+        RowBox[{"DateObject", "[", 
+          RowBox[{
+            RowBox[{"{", 
+              
+              RowBox[{"2017", ",", "11", ",", "27", ",", "1", ",", "0", ",", 
+                "0.`"}], "}"}], ",", "\"Instant\"", ",", "\"Gregorian\"", ",",
+             "1.`"}], "]"}]},
+       "DateObject",
+       Editable->False]}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "475.24`"}], ",", 
+     RowBox[{"\<\"diff\"\>", "\[Rule]", "1537.205`"}], ",", 
+     RowBox[{"\<\"prize\"\>", "\[Rule]", "3"}], ",", 
+     RowBox[{"\<\"electricity\"\>", "\[Rule]", "0.55`"}], ",", 
+     RowBox[{"\<\"avaliable_len\"\>", "\[Rule]", "0"}]}], 
+    "\[RightAssociation]"}], "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17497"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm[
+   Association[
+   "date" -> DateObject[{2017, 11, 27, 1, 0, 0.}, "Instant", "Gregorian", 1.],
+     "price" -> 475.24, "diff" -> 1537.205, "prize" -> 3, "electricity" -> 
+    0.55, "avaliable_len" -> 0], 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 17497, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.81931512155789*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"d927f7cc-4b19-4358-9eeb-79678ab72b2f"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"lac\"\>", "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm["lac", 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 16654, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121563099*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"4015d886-45ce-4403-bc60-3c02df03287c"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"STRATEGY\"\>", "\[InvisibleSpace]", "\<\"BUY_MINER\"\>"}],
+  SequenceForm["STRATEGY", "BUY_MINER"],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121567175*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"1cd3d012-3183-4e29-bfe4-adfe73b20aca"],
+
+Cell[BoxData["\<\"NO LENGTH\"\>"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121571007*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"00c7a6f3-264f-4b71-85b9-7bae89660abc"],
+
+Cell[BoxData["0"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121574712*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"effb866a-5eca-4b04-8d96-dead4c2dade1"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"date\"\>", "\[Rule]", 
+      TemplateBox[{
+        RowBox[{"\"Tue 28 Nov 2017 01:00:00\"", 
+          StyleBox[
+           RowBox[{"\"GMT+\"", "\[InvisibleSpace]", 
+             StyleBox["1", NumberMarks -> False, StripOnInput -> False]}], 
+           FontColor -> GrayLevel[0.5]]}], 
+        RowBox[{"DateObject", "[", 
+          RowBox[{
+            RowBox[{"{", 
+              
+              RowBox[{"2017", ",", "11", ",", "28", ",", "1", ",", "0", ",", 
+                "0.`"}], "}"}], ",", "\"Instant\"", ",", "\"Gregorian\"", ",",
+             "1.`"}], "]"}]},
+       "DateObject",
+       Editable->False]}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "466.27`"}], ",", 
+     RowBox[{"\<\"diff\"\>", "\[Rule]", "1508.043`"}], ",", 
+     RowBox[{"\<\"prize\"\>", "\[Rule]", "3"}], ",", 
+     RowBox[{"\<\"electricity\"\>", "\[Rule]", "0.55`"}], ",", 
+     RowBox[{"\<\"avaliable_len\"\>", "\[Rule]", "0"}]}], 
+    "\[RightAssociation]"}], "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17498"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm[
+   Association[
+   "date" -> DateObject[{2017, 11, 28, 1, 0, 0.}, "Instant", "Gregorian", 1.],
+     "price" -> 466.27, "diff" -> 1508.043, "prize" -> 3, "electricity" -> 
+    0.55, "avaliable_len" -> 0], 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 17498, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121578993*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"a7b3f035-0f79-4718-b76e-530b6c518233"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"lac\"\>", "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm["lac", 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 16654, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121583973*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"5b15bd69-097b-4b73-aebc-420377500cc6"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"STRATEGY\"\>", "\[InvisibleSpace]", "\<\"BUY_MINER\"\>"}],
+  SequenceForm["STRATEGY", "BUY_MINER"],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121587881*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"5ceb9fc5-c2da-4d18-ae91-579c00070187"],
+
+Cell[BoxData["\<\"NO LENGTH\"\>"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121591433*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"7a1ff497-594b-465c-8d8a-6a06d9d825b9"],
+
+Cell[BoxData["0"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121595068*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"799145d4-2d04-44b7-9c4b-b72a834dccf6"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"date\"\>", "\[Rule]", 
+      TemplateBox[{
+        RowBox[{"\"Wed 29 Nov 2017 01:00:00\"", 
+          StyleBox[
+           RowBox[{"\"GMT+\"", "\[InvisibleSpace]", 
+             StyleBox["1", NumberMarks -> False, StripOnInput -> False]}], 
+           FontColor -> GrayLevel[0.5]]}], 
+        RowBox[{"DateObject", "[", 
+          RowBox[{
+            RowBox[{"{", 
+              
+              RowBox[{"2017", ",", "11", ",", "29", ",", "1", ",", "0", ",", 
+                "0.`"}], "}"}], ",", "\"Instant\"", ",", "\"Gregorian\"", ",",
+             "1.`"}], "]"}]},
+       "DateObject",
+       Editable->False]}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "427.42`"}], ",", 
+     RowBox[{"\<\"diff\"\>", "\[Rule]", "1520.78`"}], ",", 
+     RowBox[{"\<\"prize\"\>", "\[Rule]", "3"}], ",", 
+     RowBox[{"\<\"electricity\"\>", "\[Rule]", "0.55`"}], ",", 
+     RowBox[{"\<\"avaliable_len\"\>", "\[Rule]", "0"}]}], 
+    "\[RightAssociation]"}], "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17499"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm[
+   Association[
+   "date" -> DateObject[{2017, 11, 29, 1, 0, 0.}, "Instant", "Gregorian", 1.],
+     "price" -> 427.42, "diff" -> 1520.78, "prize" -> 3, "electricity" -> 
+    0.55, "avaliable_len" -> 0], 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 17499, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121599247*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"865380df-6574-4ad0-af24-d27d294182d1"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"lac\"\>", "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm["lac", 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 16654, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121604267*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"f7d2b841-d2b2-45fa-9eec-98e26003ec87"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"STRATEGY\"\>", "\[InvisibleSpace]", "\<\"BUY_MINER\"\>"}],
+  SequenceForm["STRATEGY", "BUY_MINER"],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121607935*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"9dbe2d80-d8ab-4761-919c-2f40b9786e1b"],
+
+Cell[BoxData["\<\"NO LENGTH\"\>"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.8193151216115026`*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"e3dbc887-f6a5-481d-bcfd-a7532f985288"],
+
+Cell[BoxData["0"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121614945*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"6411e813-d973-404b-9d24-3db1bdca3999"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"date\"\>", "\[Rule]", 
+      TemplateBox[{
+        RowBox[{"\"Thu 30 Nov 2017 01:00:00\"", 
+          StyleBox[
+           RowBox[{"\"GMT+\"", "\[InvisibleSpace]", 
+             StyleBox["1", NumberMarks -> False, StripOnInput -> False]}], 
+           FontColor -> GrayLevel[0.5]]}], 
+        RowBox[{"DateObject", "[", 
+          RowBox[{
+            RowBox[{"{", 
+              
+              RowBox[{"2017", ",", "11", ",", "30", ",", "1", ",", "0", ",", 
+                "0.`"}], "}"}], ",", "\"Instant\"", ",", "\"Gregorian\"", ",",
+             "1.`"}], "]"}]},
+       "DateObject",
+       Editable->False]}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "434.85`"}], ",", 
+     RowBox[{"\<\"diff\"\>", "\[Rule]", "1542.746`"}], ",", 
+     RowBox[{"\<\"prize\"\>", "\[Rule]", "3"}], ",", 
+     RowBox[{"\<\"electricity\"\>", "\[Rule]", "0.55`"}], ",", 
+     RowBox[{"\<\"avaliable_len\"\>", "\[Rule]", "0"}]}], 
+    "\[RightAssociation]"}], "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17500"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm[
+   Association[
+   "date" -> DateObject[{2017, 11, 30, 1, 0, 0.}, "Instant", "Gregorian", 1.],
+     "price" -> 434.85, "diff" -> 1542.746, "prize" -> 3, "electricity" -> 
+    0.55, "avaliable_len" -> 0], 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 17500, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.81931512161908*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"f125636b-c304-4456-a4b9-1561f0e55b65"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"lac\"\>", "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm["lac", 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 16654, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121624098*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"5cbf3140-5ef4-4bb5-a28e-df66f29d0a4a"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"STRATEGY\"\>", "\[InvisibleSpace]", "\<\"BUY_MINER\"\>"}],
+  SequenceForm["STRATEGY", "BUY_MINER"],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121628071*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"be17e3d2-d0f4-4536-b586-03c790613d43"],
+
+Cell[BoxData["\<\"NO LENGTH\"\>"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121631645*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"596b1878-babe-47cf-8802-95daca7fb0a5"],
+
+Cell[BoxData["0"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121635257*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"bfab04a4-e507-41ae-a2b3-a7e72fcea44a"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"date\"\>", "\[Rule]", 
+      TemplateBox[{
+        RowBox[{"\"Fri 1 Dec 2017 01:00:00\"", 
+          StyleBox[
+           RowBox[{"\"GMT+\"", "\[InvisibleSpace]", 
+             StyleBox["1", NumberMarks -> False, StripOnInput -> False]}], 
+           FontColor -> GrayLevel[0.5]]}], 
+        RowBox[{"DateObject", "[", 
+          RowBox[{
+            RowBox[{"{", 
+              
+              RowBox[{"2017", ",", "12", ",", "1", ",", "1", ",", "0", ",", 
+                "0.`"}], "}"}], ",", "\"Instant\"", ",", "\"Gregorian\"", ",",
+             "1.`"}], "]"}]},
+       "DateObject",
+       Editable->False]}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "461.58`"}], ",", 
+     RowBox[{"\<\"diff\"\>", "\[Rule]", "1546.95`"}], ",", 
+     RowBox[{"\<\"prize\"\>", "\[Rule]", "3"}], ",", 
+     RowBox[{"\<\"electricity\"\>", "\[Rule]", "0.55`"}], ",", 
+     RowBox[{"\<\"avaliable_len\"\>", "\[Rule]", "0"}]}], 
+    "\[RightAssociation]"}], "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17501"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm[
+   Association[
+   "date" -> DateObject[{2017, 12, 1, 1, 0, 0.}, "Instant", "Gregorian", 1.], 
+    "price" -> 461.58, "diff" -> 1546.95, "prize" -> 3, "electricity" -> 0.55,
+     "avaliable_len" -> 0], 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 17501, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121639387*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"9dd0679e-67a5-45a2-9abc-3430ca4f5375"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"lac\"\>", "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm["lac", 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 16654, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.8193151216443863`*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"18a16d1c-ec14-42db-b6dc-912a230b3673"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"STRATEGY\"\>", "\[InvisibleSpace]", "\<\"BUY_MINER\"\>"}],
+  SequenceForm["STRATEGY", "BUY_MINER"],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121648172*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"bbca1bae-01c8-4f85-8d83-1a74522055dc"],
+
+Cell[BoxData["\<\"LENGTH\"\>"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121653296*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"e2056147-5cc4-47c3-9ce1-8c17e0df0a3e"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"date\"\>", "\[Rule]", 
+      TemplateBox[{
+        RowBox[{"\"Sat 2 Dec 2017 01:00:00\"", 
+          StyleBox[
+           RowBox[{"\"GMT+\"", "\[InvisibleSpace]", 
+             StyleBox["1", NumberMarks -> False, StripOnInput -> False]}], 
+           FontColor -> GrayLevel[0.5]]}], 
+        RowBox[{"DateObject", "[", 
+          RowBox[{
+            RowBox[{"{", 
+              
+              RowBox[{"2017", ",", "12", ",", "2", ",", "1", ",", "0", ",", 
+                "0.`"}], "}"}], ",", "\"Instant\"", ",", "\"Gregorian\"", ",",
+             "1.`"}], "]"}]},
+       "DateObject",
+       Editable->False]}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "457.96`"}], ",", 
+     RowBox[{"\<\"diff\"\>", "\[Rule]", "1570.293`"}], ",", 
+     RowBox[{"\<\"prize\"\>", "\[Rule]", "3"}], ",", 
+     RowBox[{"\<\"electricity\"\>", "\[Rule]", "0.55`"}], ",", 
+     RowBox[{"\<\"avaliable_len\"\>", "\[Rule]", "1"}]}], 
+    "\[RightAssociation]"}], "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "0"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"MINE\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\[LeftAssociation]", 
+        RowBox[{
+         RowBox[{"\<\"name\"\>", "\[Rule]", "\<\"Antminer G2\"\>"}], ",", 
+         RowBox[{"\<\"manufacturer\"\>", "\[Rule]", "\<\"Bitmain\"\>"}], ",", 
+         
+         RowBox[{"\<\"date\"\>", "\[Rule]", "17501"}], ",", 
+         RowBox[{"\<\"price\"\>", "\[Rule]", "3399"}], ",", 
+         RowBox[{"\<\"hashrate\"\>", "\[Rule]", "220000000"}], ",", 
+         RowBox[{"\<\"power\"\>", "\[Rule]", "1200"}], ",", 
+         RowBox[{"\<\"value\"\>", "\[Rule]", 
+          FractionBox["1", "3399"]}]}], "\[RightAssociation]"}], "}"}]}]}], 
+    "\[RightAssociation]"}]}],
+  SequenceForm[
+   Association[
+   "date" -> DateObject[{2017, 12, 2, 1, 0, 0.}, "Instant", "Gregorian", 1.], 
+    "price" -> 457.96, "diff" -> 1570.293, "prize" -> 3, "electricity" -> 
+    0.55, "avaliable_len" -> 1], 
+   Association[
+   "USD" -> 0, "ETH" -> "0", "day" -> 16654, "strategy" -> "MINE", "miners" -> {
+      Association[
+      "name" -> "Antminer G2", "manufacturer" -> "Bitmain", "date" -> 17501, 
+       "price" -> 3399, "hashrate" -> 220000000, "power" -> 1200, "value" -> 
+       Rational[1, 3399]]}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121658826*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"b3cd3c15-a03b-4ce9-a2ec-22e7e4348e41"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"lac\"\>", "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}],
+  SequenceForm["lac", 
+   Association[
+   "USD" -> 1, "ETH" -> "0", "day" -> 16654, "strategy" -> "BUY_MINER", 
+    "miners" -> {}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121664563*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"73fed738-163a-4ae6-83e6-6bd9fc700175"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{"\<\"STRATEGY\"\>", "\[InvisibleSpace]", "\<\"BUY_MINER\"\>"}],
+  SequenceForm["STRATEGY", "BUY_MINER"],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121668378*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"957f645f-058a-4fde-886e-7d91f9f2d63a"],
+
+Cell[BoxData["\<\"LENGTH\"\>"], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.819315121672113*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"af562420-1050-4996-8ee6-c0e2abb0352f"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"date\"\>", "\[Rule]", 
+      TemplateBox[{
+        RowBox[{"\"Sun 3 Dec 2017 01:00:00\"", 
+          StyleBox[
+           RowBox[{"\"GMT+\"", "\[InvisibleSpace]", 
+             StyleBox["1", NumberMarks -> False, StripOnInput -> False]}], 
+           FontColor -> GrayLevel[0.5]]}], 
+        RowBox[{"DateObject", "[", 
+          RowBox[{
+            RowBox[{"{", 
+              
+              RowBox[{"2017", ",", "12", ",", "3", ",", "1", ",", "0", ",", 
+                "0.`"}], "}"}], ",", "\"Instant\"", ",", "\"Gregorian\"", ",",
+             "1.`"}], "]"}]},
+       "DateObject",
+       Editable->False]}], ",", 
+     RowBox[{"\<\"price\"\>", "\[Rule]", "462.81`"}], ",", 
+     RowBox[{"\<\"diff\"\>", "\[Rule]", "1509.751`"}], ",", 
+     RowBox[{"\<\"prize\"\>", "\[Rule]", "3"}], ",", 
+     RowBox[{"\<\"electricity\"\>", "\[Rule]", "0.55`"}], ",", 
+     RowBox[{"\<\"avaliable_len\"\>", "\[Rule]", "1"}]}], 
+    "\[RightAssociation]"}], "\[InvisibleSpace]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "0"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"MINE\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\[LeftAssociation]", 
+        RowBox[{
+         RowBox[{"\<\"name\"\>", "\[Rule]", "\<\"Antminer G2\"\>"}], ",", 
+         RowBox[{"\<\"manufacturer\"\>", "\[Rule]", "\<\"Bitmain\"\>"}], ",", 
+         
+         RowBox[{"\<\"date\"\>", "\[Rule]", "17501"}], ",", 
+         RowBox[{"\<\"price\"\>", "\[Rule]", "3399"}], ",", 
+         RowBox[{"\<\"hashrate\"\>", "\[Rule]", "220000000"}], ",", 
+         RowBox[{"\<\"power\"\>", "\[Rule]", "1200"}], ",", 
+         RowBox[{"\<\"value\"\>", "\[Rule]", 
+          FractionBox["1", "3399"]}]}], "\[RightAssociation]"}], "}"}]}]}], 
+    "\[RightAssociation]"}]}],
+  SequenceForm[
+   Association[
+   "date" -> DateObject[{2017, 12, 3, 1, 0, 0.}, "Instant", "Gregorian", 1.], 
+    "price" -> 462.81, "diff" -> 1509.751, "prize" -> 3, "electricity" -> 
+    0.55, "avaliable_len" -> 1], 
+   Association[
+   "USD" -> 0, "ETH" -> "0", "day" -> 16654, "strategy" -> "MINE", "miners" -> {
+      Association[
+      "name" -> "Antminer G2", "manufacturer" -> "Bitmain", "date" -> 17501, 
+       "price" -> 3399, "hashrate" -> 220000000, "power" -> 1200, "value" -> 
+       Rational[1, 3399]]}]],
+  Editable->False]], "Print",
+ CellChangeTimes->{3.819314744512855*^9, 3.819314833022065*^9, 
+  3.819315004559394*^9, 3.819315046387486*^9, 3.8193151216767807`*^9},
+ CellLabel->
+  "During evaluation of \
+In[41]:=",ExpressionUUID->"254c8bb6-c937-4775-b8c8-557b356c7aa6"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Append", "[", 
+  RowBox[{"account", ",", 
+   RowBox[{"<|", 
+    RowBox[{
+     RowBox[{"\"\<USD\>\"", "\[Rule]", "1"}], ",", 
+     RowBox[{"\"\<ETH\>\"", "\[Rule]", "\"\<0\>\""}], ",", " ", 
+     RowBox[{"\"\<day\>\"", "\[Rule]", "startDay"}], ",", 
+     RowBox[{"\"\<strategy\>\"", "\[Rule]", "\"\<BUY_MINER\>\""}], ",", 
+     RowBox[{"\"\<miners\>\"", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "|>"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.819314575761454*^9, 3.819314583503817*^9}},
+ CellLabel->"In[15]:=",ExpressionUUID->"a3641914-c954-440a-ac18-ebfd5b336a19"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]}], "}"}]], "Output",
+ CellChangeTimes->{3.819314584353162*^9},
+ CellLabel->"Out[15]=",ExpressionUUID->"db3f3902-e356-41e8-9110-1b877fcedfa1"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["account"], "Input",
+ CellChangeTimes->{{3.819314596737341*^9, 3.8193146053675737`*^9}, {
+  3.819315182545742*^9, 3.819315194554845*^9}},
+ CellLabel->"In[45]:=",ExpressionUUID->"e0750dea-39ae-456e-8fd2-6f40b48a59f3"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17494"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17495"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17496"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17497"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17498"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17499"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17500"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "17501"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "0"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"MINE\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\[LeftAssociation]", 
+        RowBox[{
+         RowBox[{"\<\"name\"\>", "\[Rule]", "\<\"Antminer G2\"\>"}], ",", 
+         RowBox[{"\<\"manufacturer\"\>", "\[Rule]", "\<\"Bitmain\"\>"}], ",", 
+         
+         RowBox[{"\<\"date\"\>", "\[Rule]", "17501"}], ",", 
+         RowBox[{"\<\"price\"\>", "\[Rule]", "3399"}], ",", 
+         RowBox[{"\<\"hashrate\"\>", "\[Rule]", "220000000"}], ",", 
+         RowBox[{"\<\"power\"\>", "\[Rule]", "1200"}], ",", 
+         RowBox[{"\<\"value\"\>", "\[Rule]", 
+          FractionBox["1", "3399"]}]}], "\[RightAssociation]"}], "}"}]}]}], 
+    "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "1"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"BUY_MINER\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}], ",", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"\<\"USD\"\>", "\[Rule]", "0"}], ",", 
+     RowBox[{"\<\"ETH\"\>", "\[Rule]", "\<\"0\"\>"}], ",", 
+     RowBox[{"\<\"day\"\>", "\[Rule]", "16654"}], ",", 
+     RowBox[{"\<\"strategy\"\>", "\[Rule]", "\<\"MINE\"\>"}], ",", 
+     RowBox[{"\<\"miners\"\>", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\[LeftAssociation]", 
+        RowBox[{
+         RowBox[{"\<\"name\"\>", "\[Rule]", "\<\"Antminer G2\"\>"}], ",", 
+         RowBox[{"\<\"manufacturer\"\>", "\[Rule]", "\<\"Bitmain\"\>"}], ",", 
+         
+         RowBox[{"\<\"date\"\>", "\[Rule]", "17501"}], ",", 
+         RowBox[{"\<\"price\"\>", "\[Rule]", "3399"}], ",", 
+         RowBox[{"\<\"hashrate\"\>", "\[Rule]", "220000000"}], ",", 
+         RowBox[{"\<\"power\"\>", "\[Rule]", "1200"}], ",", 
+         RowBox[{"\<\"value\"\>", "\[Rule]", 
+          FractionBox["1", "3399"]}]}], "\[RightAssociation]"}], "}"}]}]}], 
+    "\[RightAssociation]"}]}], "}"}]], "Output",
+ CellChangeTimes->{{3.819314597933131*^9, 3.819314605838332*^9}, {
+  3.819315184725649*^9, 3.819315195133788*^9}},
+ CellLabel->"Out[45]=",ExpressionUUID->"8b104cad-5a50-4447-9882-9e9a59da148e"]
+}, Open  ]]
+},
+WindowSize->{713.0322580645161, 865.5483870967741},
+WindowMargins->{{-737.8064516129031, Automatic}, {
+  Automatic, 25.043478260869566`}},
+WindowStatusArea->"",
+FrontEndVersion->"12.2 for Linux x86 (64-bit) (December 12, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"cf84e74b-cfc2-430a-bd18-80e0e43b967b"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 2347, 50, 477, "Input",ExpressionUUID->"ea084c3c-0412-463d-ac7f-3647f46874ed"],
+Cell[CellGroupData[{
+Cell[2930, 74, 410, 8, 70, "Input",ExpressionUUID->"1efa1762-5f4a-437c-9c9b-dc4e2ec91194"],
+Cell[3343, 84, 9663, 248, 160, "Output",ExpressionUUID->"18d2c126-8216-4fcd-8678-63144f3117c8"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[13043, 337, 351, 7, 50, "Input",ExpressionUUID->"12daa134-bd1a-4b36-ae1c-e7df6c42e52a"],
+Cell[13397, 346, 9908, 254, 160, "Output",ExpressionUUID->"87797aa0-46d5-4245-b4cd-19b0e8395761"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[23342, 605, 214, 3, 29, "Input",ExpressionUUID->"fae805fc-ef11-473e-aec3-bc9d062aefc1"],
+Cell[23559, 610, 158, 2, 33, "Output",ExpressionUUID->"30f3275d-6cd7-4a93-b26d-11f9313cc040"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[23754, 617, 422, 8, 50, "Input",ExpressionUUID->"3a905f2e-955b-48b7-8a79-5fcbc011b11d"],
+Cell[24179, 627, 3503, 72, 278, "Output",ExpressionUUID->"59d0c615-5919-4f8d-94ce-e2134c2ea67f"]
+}, Open  ]],
+Cell[27697, 702, 2059, 49, 294, "Input",ExpressionUUID->"2f59b4e9-b090-4903-bf7a-e1caefc9c7ce"],
+Cell[29759, 753, 816, 18, 91, "Input",ExpressionUUID->"320f443d-b824-466c-a088-17586804e4a7"],
+Cell[CellGroupData[{
+Cell[30600, 775, 11861, 241, 1127, "Input",ExpressionUUID->"73dd41ed-ed56-47a9-9181-eabfa81e0fe1"],
+Cell[CellGroupData[{
+Cell[42486, 1020, 870, 20, 24, "Print",ExpressionUUID->"09525b50-4520-4c76-81ed-2c3b31944111"],
+Cell[43359, 1042, 415, 9, 23, "Print",ExpressionUUID->"31bacff8-9d3f-413f-9ef3-d076c78a5a61"],
+Cell[43777, 1053, 281, 5, 23, "Print",ExpressionUUID->"6c879646-7dab-483e-820c-58d9150403d9"],
+Cell[44061, 1060, 265, 5, 23, "Print",ExpressionUUID->"9bb6633d-7253-4b08-b550-a2dd6b94a424"],
+Cell[44329, 1067, 2068, 48, 82, "Print",ExpressionUUID->"f2909cc9-f043-424f-87b7-bc76d7274f24"],
+Cell[46400, 1117, 872, 20, 24, "Print",ExpressionUUID->"89420122-6362-484f-b9bf-3f89a5f945f5"],
+Cell[47275, 1139, 416, 9, 23, "Print",ExpressionUUID->"b11427f6-acc1-41f4-a7fc-ad5850f13f69"],
+Cell[47694, 1150, 283, 5, 23, "Print",ExpressionUUID->"1b47d1a5-9b3e-41fa-a4c6-20653292e8f3"],
+Cell[47980, 1157, 265, 5, 23, "Print",ExpressionUUID->"ece66f86-2bc2-4466-b722-7138ecce3b48"],
+Cell[48248, 1164, 2068, 48, 82, "Print",ExpressionUUID->"ff788799-3ab6-483f-a44e-b6b3f1c9f618"],
+Cell[50319, 1214, 870, 20, 24, "Print",ExpressionUUID->"1b913bfd-2d7e-4bcc-b795-974ba2253980"],
+Cell[51192, 1236, 416, 9, 23, "Print",ExpressionUUID->"3446b0af-5267-430f-b946-07af3e474120"],
+Cell[51611, 1247, 281, 5, 23, "Print",ExpressionUUID->"a19e3e94-71ef-49d7-9bde-4a5aa323a8e3"],
+Cell[51895, 1254, 265, 5, 23, "Print",ExpressionUUID->"06818bc8-72a7-4692-b9dc-3d447e3736e2"],
+Cell[52163, 1261, 2066, 48, 82, "Print",ExpressionUUID->"4e1c9490-ef37-4e46-a241-2901a61466d3"],
+Cell[54232, 1311, 870, 20, 24, "Print",ExpressionUUID->"b90186f9-d4a4-4d74-ad1e-f75028de7445"],
+Cell[55105, 1333, 416, 9, 23, "Print",ExpressionUUID->"4ff0c7c7-4597-4a80-82ab-43f326a7797e"],
+Cell[55524, 1344, 281, 5, 23, "Print",ExpressionUUID->"7b7d7321-8130-4031-822e-98adb26ab481"],
+Cell[55808, 1351, 265, 5, 23, "Print",ExpressionUUID->"9e19f4d9-9ebe-418d-acc1-1e8d151fc03a"],
+Cell[56076, 1358, 2067, 48, 82, "Print",ExpressionUUID->"d927f7cc-4b19-4358-9eeb-79678ab72b2f"],
+Cell[58146, 1408, 870, 20, 24, "Print",ExpressionUUID->"4015d886-45ce-4403-bc60-3c02df03287c"],
+Cell[59019, 1430, 416, 9, 23, "Print",ExpressionUUID->"1cd3d012-3183-4e29-bfe4-adfe73b20aca"],
+Cell[59438, 1441, 281, 5, 23, "Print",ExpressionUUID->"00c7a6f3-264f-4b71-85b9-7bae89660abc"],
+Cell[59722, 1448, 265, 5, 23, "Print",ExpressionUUID->"effb866a-5eca-4b04-8d96-dead4c2dade1"],
+Cell[59990, 1455, 2068, 48, 82, "Print",ExpressionUUID->"a7b3f035-0f79-4718-b76e-530b6c518233"],
+Cell[62061, 1505, 870, 20, 24, "Print",ExpressionUUID->"5b15bd69-097b-4b73-aebc-420377500cc6"],
+Cell[62934, 1527, 416, 9, 23, "Print",ExpressionUUID->"5ceb9fc5-c2da-4d18-ae91-579c00070187"],
+Cell[63353, 1538, 281, 5, 23, "Print",ExpressionUUID->"7a1ff497-594b-465c-8d8a-6a06d9d825b9"],
+Cell[63637, 1545, 265, 5, 23, "Print",ExpressionUUID->"799145d4-2d04-44b7-9c4b-b72a834dccf6"],
+Cell[63905, 1552, 2066, 48, 82, "Print",ExpressionUUID->"865380df-6574-4ad0-af24-d27d294182d1"],
+Cell[65974, 1602, 870, 20, 24, "Print",ExpressionUUID->"f7d2b841-d2b2-45fa-9eec-98e26003ec87"],
+Cell[66847, 1624, 416, 9, 23, "Print",ExpressionUUID->"9dbe2d80-d8ab-4761-919c-2f40b9786e1b"],
+Cell[67266, 1635, 283, 5, 23, "Print",ExpressionUUID->"e3dbc887-f6a5-481d-bcfd-a7532f985288"],
+Cell[67552, 1642, 265, 5, 23, "Print",ExpressionUUID->"6411e813-d973-404b-9d24-3db1bdca3999"],
+Cell[67820, 1649, 2067, 48, 82, "Print",ExpressionUUID->"f125636b-c304-4456-a4b9-1561f0e55b65"],
+Cell[69890, 1699, 870, 20, 24, "Print",ExpressionUUID->"5cbf3140-5ef4-4bb5-a28e-df66f29d0a4a"],
+Cell[70763, 1721, 416, 9, 23, "Print",ExpressionUUID->"be17e3d2-d0f4-4536-b586-03c790613d43"],
+Cell[71182, 1732, 281, 5, 23, "Print",ExpressionUUID->"596b1878-babe-47cf-8802-95daca7fb0a5"],
+Cell[71466, 1739, 265, 5, 23, "Print",ExpressionUUID->"bfab04a4-e507-41ae-a2b3-a7e72fcea44a"],
+Cell[71734, 1746, 2063, 48, 82, "Print",ExpressionUUID->"9dd0679e-67a5-45a2-9abc-3430ca4f5375"],
+Cell[73800, 1796, 872, 20, 24, "Print",ExpressionUUID->"18a16d1c-ec14-42db-b6dc-912a230b3673"],
+Cell[74675, 1818, 416, 9, 23, "Print",ExpressionUUID->"bbca1bae-01c8-4f85-8d83-1a74522055dc"],
+Cell[75094, 1829, 278, 5, 23, "Print",ExpressionUUID->"e2056147-5cc4-47c3-9ce1-8c17e0df0a3e"],
+Cell[75375, 1836, 2839, 63, 123, "Print",ExpressionUUID->"b3cd3c15-a03b-4ce9-a2ec-22e7e4348e41"],
+Cell[78217, 1901, 870, 20, 24, "Print",ExpressionUUID->"73fed738-163a-4ae6-83e6-6bd9fc700175"],
+Cell[79090, 1923, 416, 9, 23, "Print",ExpressionUUID->"957f645f-058a-4fde-886e-7d91f9f2d63a"],
+Cell[79509, 1934, 278, 5, 23, "Print",ExpressionUUID->"af562420-1050-4996-8ee6-c0e2abb0352f"],
+Cell[79790, 1941, 2841, 63, 123, "Print",ExpressionUUID->"254c8bb6-c937-4775-b8c8-557b356c7aa6"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[82680, 2010, 590, 12, 50, "Input",ExpressionUUID->"a3641914-c954-440a-ac18-ebfd5b336a19"],
+Cell[83273, 2024, 4486, 92, 237, "Output",ExpressionUUID->"db3f3902-e356-41e8-9110-1b877fcedfa1"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[87796, 2121, 229, 3, 29, "Input",ExpressionUUID->"e0750dea-39ae-456e-8fd2-6f40b48a59f3"],
+Cell[88028, 2126, 9253, 189, 617, "Output",ExpressionUUID->"8b104cad-5a50-4447-9882-9e9a59da148e"]
+}, Open  ]]
+}
+]
+*)
+

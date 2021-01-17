@@ -1,0 +1,1802 @@
+[
+  {
+    "link": "https://asic-dex.com/innosilicon-a10-500mhs",
+    "name": "A10 (500Mh/s)",
+    "manufacturer": "Innosilicon",
+    "release_date": "09/2019",
+    "noise": "75 dB",
+    "hashrate": "500Mh/s",
+    "power_consumption": "750W",
+    "algo": "Ethash"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a10-485mhs",
+    "name": "A10 (485Mh/s)",
+    "manufacturer": "Innosilicon",
+    "release_date": "09/2018",
+    "noise": "75 dB",
+    "hashrate": "485Mh/s",
+    "power_consumption": "850W",
+    "algo": "Ethash"
+  },
+  {
+    "link": "https://asic-dex.com/asicminer-zeon-turbo",
+    "name": "Zeon Turbo",
+    "manufacturer": "ASICminer",
+    "release_date": "07/2019",
+    "noise": "47 dB",
+    "hashrate": "400Ksol/s",
+    "power_consumption": "2500W",
+    "algo": "Equihash"
+  },
+  {
+    "link": "https://asic-dex.com/obelisk-sc1-immersion",
+    "name": "SC1 Immersion",
+    "manufacturer": "Obelisk",
+    "release_date": "03/2019",
+    "noise": "30 dB",
+    "hashrate": "2.2Th/s",
+    "power_consumption": "1600W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a10-432mhs",
+    "name": "A10 (432Mh/s)",
+    "manufacturer": "Innosilicon",
+    "release_date": "09/2018",
+    "noise": "75 dB",
+    "hashrate": "432Mh/s",
+    "power_consumption": "740W",
+    "algo": "Ethash"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a10-365mhs",
+    "name": "A10 (365Mh/s)",
+    "manufacturer": "Innosilicon",
+    "release_date": "09/2018",
+    "noise": "75 dB",
+    "hashrate": "365Mh/s",
+    "power_consumption": "650W",
+    "algo": "Ethash"
+  },
+  {
+    "link": "https://asic-dex.com/obelisk-sc1-dual",
+    "name": "SC1 Dual",
+    "manufacturer": "Obelisk",
+    "release_date": "03/2019",
+    "noise": "75 dB",
+    "hashrate": "1.1Th/s",
+    "power_consumption": "900W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/pandaminer-b3-mute",
+    "name": "B3 Mute",
+    "manufacturer": "PandaMiner",
+    "release_date": "09/2018",
+    "noise": "60 dB",
+    "hashrate": "230Mh/s",
+    "power_consumption": "1150W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/pandaminer-b3-pro-8g",
+    "name": "B3 Pro 8G",
+    "manufacturer": "PandaMiner",
+    "release_date": "06/2018",
+    "noise": "70 dB",
+    "hashrate": "230Mh/s",
+    "power_consumption": "1250W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/pandaminer-b3-pro",
+    "name": "B3 Pro",
+    "manufacturer": "PandaMiner",
+    "release_date": "04/2018",
+    "noise": "70 dB",
+    "hashrate": "230Mh/s",
+    "power_consumption": "1250W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-g2",
+    "name": "Antminer G2",
+    "manufacturer": "Bitmain",
+    "release_date": "12/2017",
+    "noise": "72 dB",
+    "hashrate": "220Mh/s",
+    "power_consumption": "1200W",
+    "algo": "Ethash"
+  },
+  {
+    "link": "https://asic-dex.com/asicminer-zeon-180k",
+    "name": "Zeon 180K",
+    "manufacturer": "ASICminer",
+    "release_date": "09/2018",
+    "noise": "47 dB",
+    "hashrate": "180Ksol/s",
+    "power_consumption": "2200W",
+    "algo": "Equihash"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-e3-190mhs",
+    "name": "Antminer E3 (190Mh/s)",
+    "manufacturer": "Bitmain ",
+    "release_date": "07/2018",
+    "noise": "76 dB",
+    "hashrate": "190Mh/s",
+    "power_consumption": "760W",
+    "algo": "Ethash"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-e3-180mhs",
+    "name": "Antminer E3 (180Mh/s)",
+    "manufacturer": "Bitmain ",
+    "release_date": "07/2018",
+    "noise": "75 dB",
+    "hashrate": "180Mh/s",
+    "power_consumption": "800W",
+    "algo": "Ethash"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s17-1-73ths",
+    "name": "Antminer S17+ (73Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "10/2019",
+    "noise": "75 dB",
+    "hashrate": "73Th/s",
+    "power_consumption": "2920W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/asicminer-8-nano-pro",
+    "name": "8 Nano Pro",
+    "manufacturer": "ASICminer",
+    "release_date": "05/2018",
+    "noise": "48 dB",
+    "hashrate": "80Th/s",
+    "power_consumption": "4200W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a9-2-zmaster",
+    "name": "A9++ ZMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "05/2019",
+    "noise": "75 dB",
+    "hashrate": "140Ksol/s",
+    "power_consumption": "1550W",
+    "algo": "Equihash"
+  },
+  {
+    "link": "https://asic-dex.com/microbt-whatsminer-m20s",
+    "name": "Whatsminer M20S",
+    "manufacturer": "MicroBT",
+    "release_date": "08/2019",
+    "noise": "75 dB",
+    "hashrate": "72Th/s",
+    "power_consumption": "3360W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-z11",
+    "name": "Antminer Z11",
+    "manufacturer": "Bitmain",
+    "release_date": "04/2019",
+    "noise": "70 dB",
+    "hashrate": "135Ksol/s",
+    "power_consumption": "1418W",
+    "algo": "Equihash"
+  },
+  {
+    "link": "https://asic-dex.com/strongu-stu-u1-2",
+    "name": "STU-U1++",
+    "manufacturer": "StrongU",
+    "release_date": "07/2019",
+    "noise": "76 dB",
+    "hashrate": "52Th/s",
+    "power_consumption": "2200W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/strongu-stu-u6",
+    "name": "STU-U6",
+    "manufacturer": "StrongU",
+    "release_date": "11/2019",
+    "noise": "76 dB",
+    "hashrate": "660Gh/s",
+    "power_consumption": "1300W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s17e",
+    "name": "Antminer S17e",
+    "manufacturer": "Bitmain",
+    "release_date": "11/2019",
+    "noise": "82 dB",
+    "hashrate": "64Th/s",
+    "power_consumption": "2880W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/microbt-whatsminer-d1",
+    "name": "Whatsminer D1",
+    "manufacturer": "MicroBT",
+    "release_date": "11/2018",
+    "noise": "75 dB",
+    "hashrate": "48Th/s",
+    "power_consumption": "2200W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-t17-1-64ths",
+    "name": "Antminer T17+ (64Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "10/2019",
+    "noise": "75 dB",
+    "hashrate": "64Th/s",
+    "power_consumption": "3200W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/asicminer-8-nano-s",
+    "name": "8 Nano S",
+    "manufacturer": "ASICminer",
+    "release_date": "07/2019",
+    "noise": "47 dB",
+    "hashrate": "58Th/s",
+    "power_consumption": "2500W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a9-1-zmaster",
+    "name": "A9+ ZMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "01/2019",
+    "noise": "75 dB",
+    "hashrate": "120Ksol/s",
+    "power_consumption": "1550W",
+    "algo": "Equihash"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s17-pro-56ths",
+    "name": "Antminer S17 Pro (56Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "04/2019",
+    "noise": "82 dB",
+    "hashrate": "56Th/s",
+    "power_consumption": "2520W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/obelisk-sc1-slim",
+    "name": "SC1 Slim",
+    "manufacturer": "Obelisk",
+    "release_date": "01/2019",
+    "noise": "75 dB",
+    "hashrate": "550Gh/s",
+    "power_consumption": "450W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-t3-1-52t",
+    "name": "T3+ 52T",
+    "manufacturer": "Innosilicon",
+    "release_date": "05/2019",
+    "noise": "75 dB",
+    "hashrate": "52Th/s",
+    "power_consumption": "2200W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s17-pro-50ths",
+    "name": "Antminer S17 Pro (50Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "04/2019",
+    "noise": "82 dB",
+    "hashrate": "50Th/s",
+    "power_consumption": "1975W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/obelisk-sc1",
+    "name": "SC1",
+    "manufacturer": "Obelisk",
+    "release_date": "06/2018",
+    "noise": "65 dB",
+    "hashrate": "550Gh/s",
+    "power_consumption": "500W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s17-53ths",
+    "name": "Antminer S17 (53Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "04/2019",
+    "noise": "82 dB",
+    "hashrate": "53Th/s",
+    "power_consumption": "2385W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-t3-1-57t",
+    "name": "T3+ 57T",
+    "manufacturer": "Innosilicon",
+    "release_date": "10/2019",
+    "noise": "75 dB",
+    "hashrate": "57Th/s",
+    "power_consumption": "3300W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/ebang-ebit-e12-1",
+    "name": "Ebit E12+",
+    "manufacturer": "Ebang",
+    "release_date": "09/2019",
+    "noise": "75 dB",
+    "hashrate": "50Th/s",
+    "power_consumption": "2500W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-g32-1800",
+    "name": "G32-1800",
+    "manufacturer": "Innosilicon",
+    "release_date": "08/2019",
+    "noise": "76 dB",
+    "hashrate": "328GPS",
+    "power_consumption": "1800W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-t17e",
+    "name": "Antminer T17e",
+    "manufacturer": "Bitmain",
+    "release_date": "11/2019",
+    "noise": "82 dB",
+    "hashrate": "53Th/s",
+    "power_consumption": "2915W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/strongu-stu-u8",
+    "name": "STU-U8",
+    "manufacturer": "StrongU",
+    "release_date": "07/2019",
+    "noise": "76 dB",
+    "hashrate": "46Th/s",
+    "power_consumption": "2100W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/pandaminer-b5-plus",
+    "name": "B5 Plus",
+    "manufacturer": "PandaMiner",
+    "release_date": "02/2018",
+    "noise": "65 dB",
+    "hashrate": "110Mh/s",
+    "power_consumption": "800W",
+    "algo": "Ethash"
+  },
+  {
+    "link": "https://asic-dex.com/microbt-whatsminer-m21s",
+    "name": "Whatsminer M21S",
+    "manufacturer": "MicroBT",
+    "release_date": "06/2019",
+    "noise": "75 dB",
+    "hashrate": "56Th/s",
+    "power_consumption": "3360W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/ebang-ebit-e11-2",
+    "name": "Ebit E11++",
+    "manufacturer": "Ebang",
+    "release_date": "10/2018",
+    "noise": "75 dB",
+    "hashrate": "44Th/s",
+    "power_consumption": "1980W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitfury-tardis",
+    "name": "Tardis",
+    "manufacturer": "Bitfury",
+    "release_date": "11/2018",
+    "noise": "80 dB",
+    "hashrate": "80Th/s",
+    "power_consumption": "6300W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/asicminer-8-nano-44th",
+    "name": "8 Nano 44Th",
+    "manufacturer": "ASICminer",
+    "release_date": "10/2018",
+    "noise": "47 dB",
+    "hashrate": "44Th/s",
+    "power_consumption": "2100W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/microbt-whatsminer-m10s",
+    "name": "Whatsminer M10S",
+    "manufacturer": "MicroBT",
+    "release_date": "09/2018",
+    "noise": "75 dB",
+    "hashrate": "55Th/s",
+    "power_consumption": "3500W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-t3-43t",
+    "name": "T3 43T",
+    "manufacturer": "Innosilicon",
+    "release_date": "01/2019",
+    "noise": "75 dB",
+    "hashrate": "43Th/s",
+    "power_consumption": "2100W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-dr5-34ths",
+    "name": "Antminer DR5 (34Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "12/2018",
+    "noise": "76 dB",
+    "hashrate": "34Th/s",
+    "power_consumption": "1800W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-t3-50t",
+    "name": "T3 50T",
+    "manufacturer": "Innosilicon",
+    "release_date": "07/2019",
+    "noise": "75 dB",
+    "hashrate": "50Th/s",
+    "power_consumption": "3100W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/ebang-ebit-e12",
+    "name": "Ebit E12",
+    "manufacturer": "Ebang",
+    "release_date": "09/2019",
+    "noise": "75 dB",
+    "hashrate": "44Th/s",
+    "power_consumption": "2500W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/canaan-avalonminer-1066",
+    "name": "AvalonMiner 1066",
+    "manufacturer": "Canaan",
+    "release_date": "11/2019",
+    "noise": "75 dB",
+    "hashrate": "50Th/s",
+    "power_consumption": "3250W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-t17-40ths",
+    "name": "Antminer T17 (40Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "05/2019",
+    "noise": "82 dB",
+    "hashrate": "40Th/s",
+    "power_consumption": "2200W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-t3-39t",
+    "name": "T3 39T",
+    "manufacturer": "Innosilicon",
+    "release_date": "03/2019",
+    "noise": "75 dB",
+    "hashrate": "39Th/s",
+    "power_consumption": "2150W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/ebang-ebit-e11-1",
+    "name": "Ebit E11+",
+    "manufacturer": "Ebang",
+    "release_date": "10/2018",
+    "noise": "75 dB",
+    "hashrate": "37Th/s",
+    "power_consumption": "2035W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/canaan-avalonminer-1047",
+    "name": "AvalonMiner 1047",
+    "manufacturer": "Canaan",
+    "release_date": "11/2019",
+    "noise": "75 dB",
+    "hashrate": "37Th/s",
+    "power_consumption": "2380W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a6-1-ltcmaster",
+    "name": "A6+ LTCMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "03/2019",
+    "noise": "82 dB",
+    "hashrate": "2.2Gh/s",
+    "power_consumption": "2100W",
+    "algo": "Scrypt"
+  },
+  {
+    "link": "https://asic-dex.com/microbt-whatsminer-m21",
+    "name": "Whatsminer M21",
+    "manufacturer": "MicroBT",
+    "release_date": "08/2019",
+    "noise": "75 dB",
+    "hashrate": "31Th/s",
+    "power_consumption": "1860W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a9-zmaster",
+    "name": "A9 ZMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "06/2018",
+    "noise": "70 dB",
+    "hashrate": "50Ksol/s",
+    "power_consumption": "620W",
+    "algo": "Equihash"
+  },
+  {
+    "link": "https://asic-dex.com/microbt-whatsminer-m10",
+    "name": "Whatsminer M10",
+    "manufacturer": "MicroBT",
+    "release_date": "09/2018",
+    "noise": "75 dB",
+    "hashrate": "33Th/s",
+    "power_consumption": "2145W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s15-28ths",
+    "name": "Antminer S15 (28Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "12/2018",
+    "noise": "76 dB",
+    "hashrate": "28Th/s",
+    "power_consumption": "1596W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/ebang-ebit-e11",
+    "name": "Ebit E11",
+    "manufacturer": "Ebang",
+    "release_date": "10/2018",
+    "noise": "75 dB",
+    "hashrate": "30Th/s",
+    "power_consumption": "1950W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-t2-turbo-1-32t",
+    "name": "T2 Turbo+ 32T",
+    "manufacturer": "Innosilicon",
+    "release_date": "09/2018",
+    "noise": "72 dB",
+    "hashrate": "32Th/s",
+    "power_consumption": "2200W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/holic-h28",
+    "name": "H28",
+    "manufacturer": "Holic",
+    "release_date": "12/2018",
+    "noise": "70 dB",
+    "hashrate": "28Th/s",
+    "power_consumption": "2100W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-t15-23ths",
+    "name": "Antminer T15 (23Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "12/2018",
+    "noise": "76 dB",
+    "hashrate": "23Th/s",
+    "power_consumption": "1541W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-g32-500",
+    "name": "G32-500",
+    "manufacturer": "Innosilicon",
+    "release_date": "08/2019",
+    "noise": "75 dB",
+    "hashrate": "100GPS",
+    "power_consumption": "520W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-z9",
+    "name": "Antminer Z9",
+    "manufacturer": "Bitmain",
+    "release_date": "09/2018",
+    "noise": "75 dB",
+    "hashrate": "42Ksol/s",
+    "power_consumption": "970W",
+    "algo": "Equihash"
+  },
+  {
+    "link": "https://asic-dex.com/holic-h22",
+    "name": "H22",
+    "manufacturer": "Holic",
+    "release_date": "12/2018",
+    "noise": "70 dB",
+    "hashrate": "22Th/s",
+    "power_consumption": "1600W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/baikal-bk-g28",
+    "name": "BK-G28",
+    "manufacturer": "Baikal",
+    "release_date": "10/2018",
+    "noise": "70 dB",
+    "hashrate": "28Gh/s",
+    "power_consumption": "850W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/fusionsilicon-x7-miner",
+    "name": "X7 Miner",
+    "manufacturer": "FusionSilicon",
+    "release_date": "03/2019",
+    "noise": "72 dB",
+    "hashrate": "262Gh/s",
+    "power_consumption": "1420W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/fusionsilicon-x7-1-miner",
+    "name": "X7+ Miner",
+    "manufacturer": "FusionSilicon",
+    "release_date": "03/2019",
+    "noise": "72 dB",
+    "hashrate": "320Gh/s",
+    "power_consumption": "2000W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-t2-turbo-25t",
+    "name": "T2 Turbo 25T",
+    "manufacturer": "Innosilicon",
+    "release_date": "10/2018",
+    "noise": "75 dB",
+    "hashrate": "25Th/s",
+    "power_consumption": "2050W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s11-20.5ths",
+    "name": "Antminer S11 (20.5Th/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "11/2018",
+    "noise": "76 dB",
+    "hashrate": "20.5Th/s",
+    "power_consumption": "1530W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/gmo-miner-b2",
+    "name": "B2",
+    "manufacturer": "GMO-miner",
+    "release_date": "10/2018",
+    "noise": "70 dB",
+    "hashrate": "24Th/s",
+    "power_consumption": "1950W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-t2-turbo",
+    "name": "T2 Turbo",
+    "manufacturer": "Innosilicon",
+    "release_date": "08/2018",
+    "noise": "72 dB",
+    "hashrate": "24Th/s",
+    "power_consumption": "1980W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitfily-snow-panther-b1-1",
+    "name": "Snow Panther B1+",
+    "manufacturer": "Bitfily",
+    "release_date": "08/2018",
+    "noise": "75 dB",
+    "hashrate": "24.5Th/s",
+    "power_consumption": "2100W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a6-ltcmaster",
+    "name": "A6 LTCMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "01/2018",
+    "noise": "82 dB",
+    "hashrate": "1.23Gh/s",
+    "power_consumption": "1500W",
+    "algo": "Scrypt"
+  },
+  {
+    "link": "https://asic-dex.com/bitfily-snow-panther-b3",
+    "name": "Snow Panther B3",
+    "manufacturer": "Bitfily",
+    "release_date": "08/2019",
+    "noise": "75 dB",
+    "hashrate": "24Th/s",
+    "power_consumption": "2100W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-b7-96khs",
+    "name": "Antminer B7 (96Kh/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "03/2019",
+    "noise": "65 dB",
+    "hashrate": "96Kh/s",
+    "power_consumption": "528W",
+    "algo": "Tensority"
+  },
+  {
+    "link": "https://asic-dex.com/canaan-avalonminer-921",
+    "name": "AvalonMiner 921",
+    "manufacturer": "Canaan",
+    "release_date": "09/2018",
+    "noise": "70 dB",
+    "hashrate": "20Th/s",
+    "power_consumption": "1700W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s9-se-16ths",
+    "name": "Antminer S9 SE (16Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "07/2019",
+    "noise": "76 dB",
+    "hashrate": "16Th/s",
+    "power_consumption": "1280W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitfily-snow-panther-b1",
+    "name": "Snow Panther B1",
+    "manufacturer": "Bitfily",
+    "release_date": "07/2018",
+    "noise": "75 dB",
+    "hashrate": "16Th/s",
+    "power_consumption": "1380W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/spondoolies-spx36",
+    "name": "SPx36",
+    "manufacturer": "Spondoolies",
+    "release_date": "09/2018",
+    "noise": "75 dB",
+    "hashrate": "540Gh/s",
+    "power_consumption": "4400W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/fusionsilicon-x6-miner",
+    "name": "X6 Miner",
+    "manufacturer": "FusionSilicon",
+    "release_date": "08/2018",
+    "noise": "72 dB",
+    "hashrate": "860Mh/s",
+    "power_consumption": "1079W",
+    "algo": "Scrypt"
+  },
+  {
+    "link": "https://asic-dex.com/aladdin-miner-16ths-bitcoin",
+    "name": "16Th/s Bitcoin",
+    "manufacturer": "Aladdin-Miner",
+    "release_date": "07/2018",
+    "noise": "76 dB",
+    "hashrate": "16Th/s",
+    "power_consumption": "1400W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/ebang-ebit-e10",
+    "name": "Ebit E10",
+    "manufacturer": "Ebang",
+    "release_date": "02/2018",
+    "noise": "75 dB",
+    "hashrate": "18Th/s",
+    "power_consumption": "1650W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/gmo-miner-b3",
+    "name": "B3",
+    "manufacturer": "GMO-miner",
+    "release_date": "11/2018",
+    "noise": "75 dB",
+    "hashrate": "33Th/s",
+    "power_consumption": "3417W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-t2-terminator",
+    "name": "T2 Terminator",
+    "manufacturer": "Innosilicon",
+    "release_date": "05/2018",
+    "noise": "72 dB",
+    "hashrate": "17.2Th/s",
+    "power_consumption": "1570W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/halong-mining-dragonmint-t1",
+    "name": "DragonMint T1",
+    "manufacturer": "Halong-Mining",
+    "release_date": "04/2018",
+    "noise": "70 dB",
+    "hashrate": "16Th/s",
+    "power_consumption": "1480W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s9-hydro-18ths",
+    "name": "Antminer S9 Hydro (18Th/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "08/2018",
+    "noise": "45 dB",
+    "hashrate": "18Th/s",
+    "power_consumption": "1728W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a4-1-ltcmaster",
+    "name": "A4+ LTCMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "11/2017",
+    "noise": "80 dB",
+    "hashrate": "620Mh/s",
+    "power_consumption": "750W",
+    "algo": "Scrypt"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s9j-14.5ths",
+    "name": "Antminer S9j (14.5Th/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "08/2018",
+    "noise": "76 dB",
+    "hashrate": "14.5Th/s",
+    "power_consumption": "1350W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitfily-snow-panther-a1",
+    "name": "Snow Panther A1",
+    "manufacturer": "Bitfily",
+    "release_date": "01/2017",
+    "noise": "82 dB",
+    "hashrate": "49Th/s",
+    "power_consumption": "5400W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s9i-14ths",
+    "name": "Antminer S9i (14Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "05/2018",
+    "noise": "76 dB",
+    "hashrate": "14Th/s",
+    "power_consumption": "1320W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/canaan-avalonminer-841",
+    "name": "AvalonMiner 841",
+    "manufacturer": "Canaan",
+    "release_date": "04/2018",
+    "noise": "65 dB",
+    "hashrate": "13.6Th/s",
+    "power_consumption": "1290W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s9i-13.5ths",
+    "name": "Antminer S9i (13.5Th/s)",
+    "manufacturer": "Bitmain ",
+    "release_date": "05/2018",
+    "noise": "76 dB",
+    "hashrate": "13.5Th/s",
+    "power_consumption": "1310W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s9-14ths",
+    "name": "Antminer S9 (14Th/s)",
+    "manufacturer": "Bitmain ",
+    "release_date": "11/2017",
+    "noise": "85 dB",
+    "hashrate": "14Th/s",
+    "power_consumption": "1372W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s9-13.5ths",
+    "name": "Antminer S9 (13.5Th/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "09/2017",
+    "noise": "85 dB",
+    "hashrate": "13.5Th/s",
+    "power_consumption": "1323W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s9-12.5ths",
+    "name": "Antminer S9 (12.5Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "02/2017",
+    "noise": "85 dB",
+    "hashrate": "12.5Th/s",
+    "power_consumption": "1225W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s9i-13ths",
+    "name": "Antminer S9i (13Th/s)",
+    "manufacturer": "Bitmain ",
+    "release_date": "05/2018",
+    "noise": "76 dB",
+    "hashrate": "13Th/s",
+    "power_consumption": "1290W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s9-13ths",
+    "name": "Antminer S9 (13Th/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "07/2017",
+    "noise": "85 dB",
+    "hashrate": "13Th/s",
+    "power_consumption": "1300W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s9-11.5ths",
+    "name": "Antminer S9 (11.5Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "06/2016",
+    "noise": "85 dB",
+    "hashrate": "11.5Th/s",
+    "power_consumption": "1127W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-g32-mini",
+    "name": "G32-Mini",
+    "manufacturer": "Innosilicon",
+    "release_date": "08/2019",
+    "noise": "65 dB",
+    "hashrate": "21.5GPS",
+    "power_consumption": "140W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/baikal-bk-x",
+    "name": "BK-X",
+    "manufacturer": "Baikal",
+    "release_date": "11/2017",
+    "noise": "65 dB",
+    "hashrate": "10Gh/s",
+    "power_consumption": "390W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-z9-mini",
+    "name": "Antminer Z9 Mini",
+    "manufacturer": "Bitmain",
+    "release_date": "06/2018",
+    "noise": "65 dB",
+    "hashrate": "10Ksol/s",
+    "power_consumption": "300W",
+    "algo": "Equihash"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-r4",
+    "name": "Antminer R4",
+    "manufacturer": "Bitmain",
+    "release_date": "02/2017",
+    "noise": "52 dB",
+    "hashrate": "8.7Th/s",
+    "power_consumption": "845W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-l3-1-600mhs",
+    "name": "Antminer L3+ (600Mh/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "10/2017",
+    "noise": "75 dB",
+    "hashrate": "600Mh/s",
+    "power_consumption": "910W",
+    "algo": "Scrypt"
+  },
+  {
+    "link": "https://asic-dex.com/ebang-ebit-e9i",
+    "name": "Ebit E9i",
+    "manufacturer": "Ebang",
+    "release_date": "07/2018",
+    "noise": "74 dB",
+    "hashrate": "13.5Th/s",
+    "power_consumption": "1420W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/canaan-avalonminer-821",
+    "name": "AvalonMiner 821",
+    "manufacturer": "Canaan",
+    "release_date": "02/2018",
+    "noise": "65 dB",
+    "hashrate": "11.5Th/s",
+    "power_consumption": "1200W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-l3-2-580mhs",
+    "name": "Antminer L3++ (580Mh/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "05/2018",
+    "noise": "76 dB",
+    "hashrate": "16Th/s",
+    "power_consumption": "1760W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/ebang-ebit-e9.3",
+    "name": "Ebit E9.3",
+    "manufacturer": "Ebang",
+    "release_date": "05/2018",
+    "noise": "72 dB",
+    "hashrate": "16Th/s",
+    "power_consumption": "1760W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-l3-1-504mhs",
+    "name": "Antminer L3+ (504Mh/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "06/2017",
+    "noise": "70 dB",
+    "hashrate": "504Mh/s",
+    "power_consumption": "800W",
+    "algo": "Scrypt"
+  },
+  {
+    "link": "https://asic-dex.com/ebang-ebit-e9.2",
+    "name": "Ebit E9.2",
+    "manufacturer": "Ebang",
+    "release_date": "05/2018",
+    "noise": "70 dB",
+    "hashrate": "12Th/s",
+    "power_consumption": "1320W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bw-l21",
+    "name": "L21",
+    "manufacturer": "BW",
+    "release_date": "01/2018",
+    "noise": "75 dB",
+    "hashrate": "550Mh/s",
+    "power_consumption": "950W",
+    "algo": "Scrypt"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-l3-2-596mhs",
+    "name": "Antminer L3++ (596Mh/s)",
+    "manufacturer": "Bitmain ",
+    "release_date": "05/2018",
+    "noise": "70 dB",
+    "hashrate": "596Mh/s",
+    "power_consumption": "1050W",
+    "algo": "Scrypt"
+  },
+  {
+    "link": "https://asic-dex.com/pantech-sx6",
+    "name": "SX6",
+    "manufacturer": "Pantech",
+    "release_date": "09/2017",
+    "noise": "72 dB",
+    "hashrate": "8.5Th/s",
+    "power_consumption": "1000W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/baikal-miner-cube",
+    "name": "Miner Cube",
+    "manufacturer": "Baikal",
+    "release_date": "04/2017",
+    "noise": "45 dB",
+    "hashrate": "300Mh/s",
+    "power_consumption": "87W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/baikal-mini-miner",
+    "name": "Mini Miner",
+    "manufacturer": "Baikal",
+    "release_date": "09/2016",
+    "noise": "45 dB",
+    "hashrate": "150Mh/s",
+    "power_consumption": "46W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/baikal-giant-a900",
+    "name": "Giant A900",
+    "manufacturer": "Baikal",
+    "release_date": "10/2016",
+    "noise": "65 dB",
+    "hashrate": "900Mh/s",
+    "power_consumption": "255W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/baikal-quadruple-mini-miner",
+    "name": "Quadruple Mini Miner",
+    "manufacturer": "Baikal",
+    "release_date": "08/2016",
+    "noise": "50 dB",
+    "hashrate": "600Mh/s",
+    "power_consumption": "184W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/baikal-bk-n",
+    "name": "BK-N",
+    "manufacturer": "Baikal",
+    "release_date": "03/2018",
+    "noise": "60 dB",
+    "hashrate": "20Kh/s",
+    "power_consumption": "60W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/baikal-giant-1-a2000",
+    "name": "Giant+ A2000",
+    "manufacturer": "Baikal",
+    "release_date": "08/2017",
+    "noise": "65 dB",
+    "hashrate": "1.6Gh/s",
+    "power_consumption": "430W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/strongu-stu-u1",
+    "name": "STU-U1",
+    "manufacturer": "StrongU",
+    "release_date": "10/2018",
+    "noise": "76 dB",
+    "hashrate": "11Th/s",
+    "power_consumption": "1600W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/strongu-stu-u1-1",
+    "name": "STU-U1+",
+    "manufacturer": "StrongU",
+    "release_date": "10/2018",
+    "noise": "76 dB",
+    "hashrate": "12.8Th/s",
+    "power_consumption": "1850W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-t9-11.5ths",
+    "name": "Antminer T9 (11.5Th/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "04/2017",
+    "noise": "68 dB",
+    "hashrate": "11.5Th/s",
+    "power_consumption": "1450W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/dayun-zig-m1",
+    "name": "Zig M1",
+    "manufacturer": "Dayun",
+    "release_date": "11/2018",
+    "noise": "55 dB",
+    "hashrate": "192Mh/s",
+    "power_consumption": "25W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-t9-12.5ths",
+    "name": "Antminer T9 (12.5Th/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "08/2017",
+    "noise": "68 dB",
+    "hashrate": "12.5Th/s",
+    "power_consumption": "1576W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/baikal-bk-n-1",
+    "name": "BK-N+",
+    "manufacturer": "Baikal",
+    "release_date": "03/2018",
+    "noise": "60 dB",
+    "hashrate": "40Kh/s",
+    "power_consumption": "120W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/ffminer-decred-d18",
+    "name": "Decred D18",
+    "manufacturer": "FFMiner",
+    "release_date": "06/2018",
+    "noise": "55 dB",
+    "hashrate": "340Gh/s",
+    "power_consumption": "180W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a8c-cryptomaster",
+    "name": "A8C CryptoMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "05/2018",
+    "noise": "70 dB",
+    "hashrate": "80Kh/s",
+    "power_consumption": "175W",
+    "algo": "CryptoNight"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-t9-1-10.5ths",
+    "name": "Antminer T9+ (10.5Th/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "01/2018",
+    "noise": "76 dB",
+    "hashrate": "10.5Th/s",
+    "power_consumption": "1432W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/baikal-bk-n70",
+    "name": "BK-N70",
+    "manufacturer": "Baikal",
+    "release_date": "05/2018",
+    "noise": "62 dB",
+    "hashrate": "70Kh/s",
+    "power_consumption": "220W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/ebang-ebit-e9-1",
+    "name": "Ebit E9+",
+    "manufacturer": "Ebang",
+    "release_date": "01/2018",
+    "noise": "75 dB",
+    "hashrate": "9Th/s",
+    "power_consumption": "1300W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/ffminer-ds19",
+    "name": "DS19",
+    "manufacturer": "FFMiner",
+    "release_date": "08/2018",
+    "noise": "67 dB",
+    "hashrate": "3.1Th/s",
+    "power_consumption": "680W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/canaan-avalonminer-741",
+    "name": "AvalonMiner 741",
+    "manufacturer": "Canaan",
+    "release_date": "04/2017",
+    "noise": "65 dB",
+    "hashrate": "7.3Th/s",
+    "power_consumption": "1150W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s3",
+    "name": "Antminer S3",
+    "manufacturer": "Bitmain",
+    "release_date": "07/2014",
+    "noise": "60 dB",
+    "hashrate": "478Gh/s",
+    "power_consumption": "366W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-dr3",
+    "name": "Antminer DR3",
+    "manufacturer": "Bitmain",
+    "release_date": "09/2018",
+    "noise": "76 dB",
+    "hashrate": "7.8Th/s",
+    "power_consumption": "1410W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/obelisk-dcr1",
+    "name": "DCR1",
+    "manufacturer": "Obelisk",
+    "release_date": "06/2018",
+    "noise": "65 dB",
+    "hashrate": "1.2Th/s",
+    "power_consumption": "500W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/pinidea-dr-3",
+    "name": "DR-3",
+    "manufacturer": "PinIdea",
+    "release_date": "04/2017",
+    "noise": "50 dB",
+    "hashrate": "600Mh/s",
+    "power_consumption": "345W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-b3-780hs",
+    "name": "Antminer B3 (780H/s)",
+    "manufacturer": "Bitmain ",
+    "release_date": "05/2018",
+    "noise": "72 dB",
+    "hashrate": "780H/s",
+    "power_consumption": "360W",
+    "algo": "Tensority"
+  },
+  {
+    "link": "https://asic-dex.com/pinidea-rr-210",
+    "name": "RR-210",
+    "manufacturer": "PinIdea",
+    "release_date": "04/2018",
+    "noise": "55 dB",
+    "hashrate": "30Kh/s",
+    "power_consumption": "350W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a8-cryptomaster",
+    "name": "A8 CryptoMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "04/2018",
+    "noise": "70 dB",
+    "hashrate": "160Kh/s",
+    "power_consumption": "350W",
+    "algo": "CryptoNight"
+  },
+  {
+    "link": "https://asic-dex.com/pinidea-rr-200",
+    "name": "RR-200",
+    "manufacturer": "PinIdea",
+    "release_date": "04/2018",
+    "noise": "55 dB",
+    "hashrate": "27Kh/s",
+    "power_consumption": "350W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-b3-1khs",
+    "name": "Antminer B3 (1Kh/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "05/2018",
+    "noise": "72 dB",
+    "hashrate": "1Kh/s",
+    "power_consumption": "380W",
+    "algo": "Tensority"
+  },
+  {
+    "link": "https://asic-dex.com/baikal-bk-b",
+    "name": "BK-B",
+    "manufacturer": "Baikal",
+    "release_date": "01/2018",
+    "noise": "65 dB",
+    "hashrate": "160Gh/s",
+    "power_consumption": "410W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/fusionsilicon-x1-miner",
+    "name": "X1 Miner",
+    "manufacturer": "FusionSilicon",
+    "release_date": "01/2019",
+    "noise": "72 dB",
+    "hashrate": "12.96Gh/s",
+    "power_consumption": "1110W",
+    "algo": "Lyra2REv2"
+  },
+  {
+    "link": "https://asic-dex.com/baikal-bk-d",
+    "name": "BK-D",
+    "manufacturer": "Baikal",
+    "release_date": "06/2018",
+    "noise": "65 dB",
+    "hashrate": "320Gh/s",
+    "power_consumption": "500W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s5",
+    "name": "Antminer S5",
+    "manufacturer": "Bitmain",
+    "release_date": "12/2014",
+    "noise": "60 dB",
+    "hashrate": "1.155Th/s",
+    "power_consumption": "590W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a5-dashmaster",
+    "name": "A5 DashMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "10/2017",
+    "noise": "75 dB",
+    "hashrate": "32.5Gh/s",
+    "power_consumption": "750W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-x3-220khs",
+    "name": "Antminer X3 (220Kh/s)",
+    "manufacturer": "Bitmain ",
+    "release_date": "05/2018",
+    "noise": "76 dB",
+    "hashrate": "220Kh/s",
+    "power_consumption": "465W",
+    "algo": "CryptoNight"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a8-1-cryptomaster",
+    "name": "A8+ CryptoMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "04/2018",
+    "noise": "70 dB",
+    "hashrate": "240Kh/s",
+    "power_consumption": "480W",
+    "algo": "CryptoNight"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-d5-119ghs",
+    "name": "Antminer D5 (119Gh/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "11/2018",
+    "noise": "76 dB",
+    "hashrate": "119Gh/s",
+    "power_consumption": "1566W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a4-dominator",
+    "name": "A4 Dominator",
+    "manufacturer": "Innosilicon",
+    "release_date": "07/2017",
+    "noise": "75 dB",
+    "hashrate": "280Mh/s",
+    "power_consumption": "1050W",
+    "algo": "Scrypt"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-v9-4ths",
+    "name": "Antminer V9 (4Th/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "03/2018",
+    "noise": "76 dB",
+    "hashrate": "4Th/s",
+    "power_consumption": "1027W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/microbt-whatsminer-m3x",
+    "name": "Whatsminer M3X",
+    "manufacturer": "MicroBT",
+    "release_date": "03/2018",
+    "noise": "78 dB",
+    "hashrate": "12.5Th/s",
+    "power_consumption": "2050W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/microbt-whatsminer-m3",
+    "name": "Whatsminer M3",
+    "manufacturer": "MicroBT",
+    "release_date": "01/2018",
+    "noise": "78 dB",
+    "hashrate": "12Th/s",
+    "power_consumption": "2000W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/halong-mining-dragonmint-b29",
+    "name": "DragonMint B29",
+    "manufacturer": "Halong-Mining",
+    "release_date": "04/2018",
+    "noise": "70 dB",
+    "hashrate": "2.1Th/s",
+    "power_consumption": "900W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/ibelink-dm22g",
+    "name": "DM22G",
+    "manufacturer": "iBeLink",
+    "release_date": "09/2017",
+    "noise": "81 dB",
+    "hashrate": "22Gh/s",
+    "power_consumption": "810W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/baikal-bk-n240",
+    "name": "BK-N240",
+    "manufacturer": "Baikal",
+    "release_date": "05/2018",
+    "noise": "62 dB",
+    "hashrate": "240Kh/s",
+    "power_consumption": "650W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-d9-decredmaster",
+    "name": "D9 DecredMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "04/2018",
+    "noise": "70 dB",
+    "hashrate": "2.4Th/s",
+    "power_consumption": "1000W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/bitfury-b8",
+    "name": "B8",
+    "manufacturer": "Bitfury",
+    "release_date": "12/2017",
+    "noise": "85 dB",
+    "hashrate": "49Th/s",
+    "power_consumption": "6400W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s7-ln",
+    "name": "Antminer S7-LN",
+    "manufacturer": "Bitmain",
+    "release_date": "06/2016",
+    "noise": "48 dB",
+    "hashrate": "2.7Th/s",
+    "power_consumption": "697W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/pinidea-dr-100-pro",
+    "name": "DR-100 Pro",
+    "manufacturer": "PinIdea",
+    "release_date": "11/2017",
+    "noise": "55 dB",
+    "hashrate": "21Gh/s",
+    "power_consumption": "900W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/ibelink-dm11g",
+    "name": "DM11G",
+    "manufacturer": "iBeLink",
+    "release_date": "07/2017",
+    "noise": "81 dB",
+    "hashrate": "10.8Gh/s",
+    "power_consumption": "810W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/pinidea-dr-100",
+    "name": "DR-100",
+    "manufacturer": "PinIdea",
+    "release_date": "08/2017",
+    "noise": "55 dB",
+    "hashrate": "19Gh/s",
+    "power_consumption": "900W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-s7",
+    "name": "Antminer S7",
+    "manufacturer": "Bitmain",
+    "release_date": "09/2015",
+    "noise": "62 dB",
+    "hashrate": "4.73Th/s",
+    "power_consumption": "1293W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/dayun-zig-z1-pro",
+    "name": "Zig Z1 Pro",
+    "manufacturer": "Dayun",
+    "release_date": "06/2019",
+    "noise": "72 dB",
+    "hashrate": "13Gh/s",
+    "power_consumption": "1500W",
+    "algo": "Lyra2REv2"
+  },
+  {
+    "link": "https://asic-dex.com/dayun-zig-z1-1",
+    "name": "Zig Z1+",
+    "manufacturer": "Dayun",
+    "release_date": "10/2018",
+    "noise": "70 dB",
+    "hashrate": "7.25Gh/s",
+    "power_consumption": "1200W",
+    "algo": "Lyra2REv2"
+  },
+  {
+    "link": "https://asic-dex.com/dayun-zig-z1",
+    "name": "Zig Z1",
+    "manufacturer": "Dayun",
+    "release_date": "09/2018",
+    "noise": "70 dB",
+    "hashrate": "6.8Gh/s",
+    "power_consumption": "1200W",
+    "algo": "Lyra2REv2"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-d9-1-decredmaster",
+    "name": "D9+ DecredMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "08/2018",
+    "noise": "70 dB",
+    "hashrate": "2.8Th/s",
+    "power_consumption": "1230W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-a5-1-dashmaster",
+    "name": "A5+ DashMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "03/2018",
+    "noise": "75 dB",
+    "hashrate": "65Gh/s",
+    "power_consumption": "1500W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/pantech-wx6",
+    "name": "WX6",
+    "manufacturer": "Pantech",
+    "release_date": "01/2018",
+    "noise": "72 dB",
+    "hashrate": "34Th/s",
+    "power_consumption": "5000W",
+    "algo": "SHA-256"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-d3-15ghs",
+    "name": "Antminer D3 (15Gh/s )",
+    "manufacturer": "Bitmain",
+    "release_date": "09/2017",
+    "noise": "75 dB",
+    "hashrate": "15Gh/s",
+    "power_consumption": "1200W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-d3-17.5ghs",
+    "name": "Antminer D3 (17.5Gh/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "10/2017",
+    "noise": "75 dB",
+    "hashrate": "17.5Gh/s",
+    "power_consumption": "1280W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/ibelink-dsm7t",
+    "name": "DSM7T",
+    "manufacturer": "iBeLink",
+    "release_date": "08/2018",
+    "noise": "76 dB",
+    "hashrate": "7Th/s",
+    "power_consumption": "2100W",
+    "algo": ""
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-d3-19.3ghs",
+    "name": "Antminer D3 (19.3Gh/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "10/2017",
+    "noise": "75 dB",
+    "hashrate": "19.3Gh/s",
+    "power_consumption": "1350W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/bitfily-snow-panther-d1",
+    "name": "Snow Panther D1",
+    "manufacturer": "Bitfily",
+    "release_date": "07/2018",
+    "noise": "75 dB",
+    "hashrate": "6Th/s",
+    "power_consumption": "2100W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/ibelink-dsm6t",
+    "name": "DSM6T",
+    "manufacturer": "iBeLink",
+    "release_date": "06/2018",
+    "noise": "78 dB",
+    "hashrate": "6Th/s",
+    "power_consumption": "2100W",
+    "algo": "Blake256R14"
+  },
+  {
+    "link": "https://asic-dex.com/bitmain-antminer-a3-815ghs",
+    "name": "Antminer A3 (815Gh/s)",
+    "manufacturer": "Bitmain",
+    "release_date": "01/2018",
+    "noise": "76 dB",
+    "hashrate": "815Gh/s",
+    "power_consumption": "1275W",
+    "algo": "Blake2B"
+  },
+  {
+    "link": "https://asic-dex.com/innosilicon-s11-siamaster",
+    "name": "S11 SiaMaster",
+    "manufacturer": "Innosilicon",
+    "release_date": "04/2018",
+    "noise": "70 dB",
+    "hashrate": "4.3Th/s",
+    "power_consumption": "1380W",
+    "algo": "Blake2B"
+  },
+  {
+    "link": "https://asic-dex.com/halong-mining-dragonmint-b52",
+    "name": "DragonMint B52",
+    "manufacturer": "Halong-Mining",
+    "release_date": "04/2018",
+    "noise": "70 dB",
+    "hashrate": "3.83Th/s",
+    "power_consumption": "1380W",
+    "algo": "Blake2B"
+  },
+  {
+    "link": "https://asic-dex.com/ibelink-dm56g",
+    "name": "DM56G",
+    "manufacturer": "iBeLink",
+    "release_date": "05/2018",
+    "noise": "72 dB",
+    "hashrate": "56Gh/s",
+    "power_consumption": "2100W",
+    "algo": "X11"
+  },
+  {
+    "link": "https://asic-dex.com/strongu-stu-u2",
+    "name": "STU-U2",
+    "manufacturer": "StrongU",
+    "release_date": "10/2018",
+    "noise": "76 dB",
+    "hashrate": "7Th/s",
+    "power_consumption": "1600W",
+    "algo": "Blake2B"
+  },
+  {
+    "link": "https://asic-dex.com/dayun-zig-d1",
+    "name": "Zig D1",
+    "manufacturer": "Dayun",
+    "release_date": "11/2018",
+    "noise": "55 dB",
+    "hashrate": "48Gh/s",
+    "power_consumption": "2200W",
+    "algo": "X11"
+  }
+]

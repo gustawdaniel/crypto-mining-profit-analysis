@@ -1,0 +1,4290 @@
+[
+  {
+    "image": "https://www.cryptocompare.com/media/1383573/geforce-gtx-1080ti.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "nVidia Geforce GTX 1080 TI ZCash Mining GPU",
+    "link": "https://www.cryptocompare.com/mining/nvidia/nvidia-geforce-gtx-1080-ti-zcash-mining/",
+    "price": "$ 700.00",
+    "hashrate": "680.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650316/s17-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-s17-pro-sha-256-53ths/",
+    "price": "$ 1,911.04",
+    "hashrate": "53,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/351093/gx37asp_143397_800x800.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon Rx 480 GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-rx-480-ethash-25-mhs/",
+    "price": "$ 649.00",
+    "hashrate": "25.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650316/s17-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/antminer-s17-pro-sha-256-56ths/",
+    "price": "$ 2,199.99",
+    "hashrate": "56,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521078/fusionsilicon-x1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FusionSilicon X1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/fusionsilicon-x1-lyra2rev2-1296-ghs/",
+    "price": "$ 1,670.00",
+    "hashrate": "12,960.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350898/antminer-s9-bitcoin-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "S9i SHA256 (14.5TH/s) ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s9i-sha256-145ths/",
+    "price": "$ 414.00",
+    "hashrate": "14,500,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350671/radeon-r9-390x-tri-x-ethereum-mining.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon R9 290x Tri-X GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-r9-290x-tri-x-ethash-22-mhs/",
+    "price": "$ 400.00",
+    "hashrate": "22.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835702/innosilicon-a8plus-cryptomaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A8+ CryptoMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/innosilicon-a8plus-cryptomaster-plus-psu-cryptonight-240ksolss/",
+    "price": "$ 2,100.00",
+    "hashrate": "240.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350748/sapphire-radeon-380x.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon R9 380 GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-r9-380-ethash-20-mhs/",
+    "price": "$ 240.00",
+    "hashrate": "17.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835753/innosilicon-a10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A10 ETHMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/innosilicon-a10-ethmaster-plus-psu-ethash-485mhs/",
+    "price": "$ 5,650.00",
+    "hashrate": "485.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650316/s17-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-s17-sha-256-56ths/",
+    "price": "$ 1,781.48",
+    "hashrate": "56,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-l3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3+ (504MH/s) ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-l3plus-scrypt-504mhs/",
+    "price": "$ 209.00",
+    "hashrate": "504.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913580/asic-miner-market-baikal-giant-x10-dgb-coin-miner-2batch.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal Giant X10 ASIC",
+    "link": "https://www.cryptocompare.com/mining/asic-miner-market/baikal-giant-x10-x11-10ghs/",
+    "price": "$ 399.00",
+    "hashrate": "10.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/351093/gx37asp_143397_800x800.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon Rx 480 GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-rx-480-equilash-220-hs/",
+    "price": "$ 199.00",
+    "hashrate": "220.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350677/nvidia-geforce-gtx-970-ethereum-mining-calculator.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "nVidia GeForce GTX 970 Ethereum Mining GPU",
+    "link": "https://www.cryptocompare.com/mining/nvidia/nvidia-geforce-gtx-970-ethereum-mining/",
+    "price": "$ 520.00",
+    "hashrate": "15,900.0 KH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835723/pangolin-whatsminer-m10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M10 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/microbt-whatsminer-m10-plus-psu-sha256-33ths/",
+    "price": "$ 1,480.00",
+    "hashrate": "33,000,000,000,000.0 H/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1384035/msi-gtx-1050.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "nVidia GeForce GTX 1050 Ti Gaming X 4G Zcash Mining GPU",
+    "link": "https://www.cryptocompare.com/mining/nvidia/nvidia-geforce-gtx-1050-ti-gaming-x-4g-zcash-mining/",
+    "price": "$ 175.00",
+    "hashrate": "175.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309748/fusionsilicon-x7-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FusionSilicon X7 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/fusionsilicon-x7-x11-262ghs/",
+    "price": "$ 1,815.00",
+    "hashrate": "262.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478509/ant-e3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer E3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-e3-plus-psu-ethash-190mhs/",
+    "price": "$ 750.00",
+    "hashrate": "190.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/351409/rx-470.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon RX 470 GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-rx-470-ethash-24-mhs/",
+    "price": "$ 352.99",
+    "hashrate": "24.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/351899/sapphire_7950oc_4.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon HD 7950 GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-hd-7950-equilash-180-hs/",
+    "price": "$ 150.00",
+    "hashrate": "180.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/16746655/nvidia-geforce-gtx-1070-ti-founders-edition.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "nVidia GeForce GTX 1070 Ti Founders Edition Ethereum Mining GPU",
+    "link": "https://www.cryptocompare.com/mining/nvidia/nvidia-geforce-gtx-1070-ti-founders-edition/",
+    "price": "$ 449.00",
+    "hashrate": "31.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34836024/ebang-e11plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebang E11++ ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/ebang-e11plusplus-with-psu-sha256-44ths/",
+    "price": "$ 2,494.00",
+    "hashrate": "44,000,000,000,000.0 H/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309710/obelisk-sc1-immersion.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Obelisk SC1 Immersion ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/obelisk-sc1-immersion-plus-psu-blake2b-22ths/",
+    "price": "$ 6,550.00",
+    "hashrate": "2,200.0 GH/s",
+    "coin": " SC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650317/copie-de-s17-50-th-1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s17-plus-psu-sha-256-53ths/",
+    "price": "$ 2,430.00",
+    "hashrate": "53,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309745/innosilicion-a9plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9+ ZMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/innosilicon-a9plus-zmaster-equilash-120-ksols/",
+    "price": "$ 5,020.00",
+    "hashrate": "120.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309711/obelisk-sc1-dual.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Obelisk SC1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/obelisk-sc1-plus-blake2b-psu-550ghs/",
+    "price": "$ 4,000.00",
+    "hashrate": "550,000,000,000.0 H/s",
+    "coin": " SC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309710/obelisk-sc1-immersion.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Obelisk SC1 Immersion ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/obelisk-sc1-immersion-blake2b-22ths/",
+    "price": "$ 3,980.99",
+    "hashrate": "2,200.0 GH/s",
+    "coin": " SC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478480/antminer-z9-mini.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 Mini ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-z9-mini-plus-psu-equilash-10ksols/",
+    "price": "$ 695.00",
+    "hashrate": "10.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521203/antminer-z11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z11 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-z11-equilash-135ksolss/",
+    "price": "$ 2,137.78",
+    "hashrate": "135.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521203/antminer-z11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z11 ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/antminer-z11-equilash-135ksolss/",
+    "price": "$ 1,680.99",
+    "hashrate": "135.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/352239/eth_rig_168.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ethereum Mining Rig 170MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/mineshop/ethereum-mining-rig-170mhs/",
+    "price": "$ 1,521.00",
+    "hashrate": "170.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650370/strong-stu-u6.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "StrongU STU-U6 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/strongu-stu-u6-x11-440ghs/",
+    "price": "$ 1,220.00",
+    "hashrate": "440.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382169/antminerr4.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer R4 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-r4-sha256-87ths/",
+    "price": "$ 1,000.00",
+    "hashrate": "8,700.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521203/antminer-z11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z11 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-z11-equilash-135ksolss/",
+    "price": "$ 2,040.00",
+    "hashrate": "135.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350678/radeon-r9-295x2-ethereum-minining.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon R9 295x2 GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-r9-295x2-ethash-50mhs/",
+    "price": "$ 650.00",
+    "hashrate": "46.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835783/3-x-b1-miner-pack.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "3 x B1 Rig Rig",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/3-x-b1-rig-ethash-720mhs/",
+    "price": "$ 8,600.00",
+    "hashrate": "723.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835695/antminer-dr3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer DR3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-dr3-plus-psu-blake256-78ths/",
+    "price": "$ 880.00",
+    "hashrate": "7,800.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835674/zigz1plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/dayun-zig-z1plus-with-psu-lyra2rev2-725ghs/",
+    "price": "$ 1,125.00",
+    "hashrate": "7,250.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350673/radeon-r9-fury-x-ethereum-minining.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon R9 Fury X GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-r9-fury-x-ethash-235-mhs/",
+    "price": "$ 680.00",
+    "hashrate": "23,500.0 KH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655915/antminer-s9i.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9i ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s9i-plus-psu-sha-256-14ths/",
+    "price": "$ 610.00",
+    "hashrate": "14,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309711/obelisk-sc1-dual.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Obelisk SC1 Dual ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/obelisk-sc1-dual-plus-psu-blake2b-11ths/",
+    "price": "$ 4,300.00",
+    "hashrate": "1,100,000,000,000.0 H/s",
+    "coin": " SC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478500/antminer-s9j.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9j ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-s9j-sha-256-145ths/",
+    "price": "$ 605.00",
+    "hashrate": "14,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835696/antminer-s9-hydro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 Hydro ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-s9-hydro-plus-psu-sha-256-18ths/",
+    "price": "$ 1,178.00",
+    "hashrate": "18,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650489/strong-stu-u8-1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "StrongU STU-U8 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/strongu-stu-u8-sha256-46ths/",
+    "price": "$ 1,620.00",
+    "hashrate": "46,000,000,000,000.0 H/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521233/innosilicon-t3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/innosilicon-t3-sha256-43ths/",
+    "price": "$ 2,190.00",
+    "hashrate": "43,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835895/microbt-whatsminer-d1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT WHATSMINER D1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/microbt-whatsminer-d1-plus-psu-blake256-44ths/",
+    "price": "$ 1,890.00",
+    "hashrate": "44,000,000,000,000.0 H/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650324/copie-de-s17-50-th.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s17-plus-psu-sha-256-56ths/",
+    "price": "$ 72.82 M",
+    "hashrate": "56,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650641/microbt-m21.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M21 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/microbt-whatsminer-m21-sha256-31ths/",
+    "price": "$ 790.00",
+    "hashrate": "31,000,000,000,000.0 H/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/19531/antminerc1.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "AntMiner C1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-c1-sha256-1008ths/",
+    "price": "$ 999.00",
+    "hashrate": "1,008.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478478/innosilicon-a9-zmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9 ZMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/innosilicon-a9-zmaster-plus-psu-equilash-50ksols/",
+    "price": "$ 2,000.00",
+    "hashrate": "50.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835710/baikal-bk-d.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal D ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/baikal-d-plus-psu-blake256-280ghs/",
+    "price": "$ 990.00",
+    "hashrate": "280.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309749/spondoolies-spx36.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Spondoolies SPx36 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/spondoolies-spx36-x11-540ghs/",
+    "price": "$ 3,700.00",
+    "hashrate": "540.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521218/a9plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9++ ZMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/innosilicon-a9plusplus-zmaster-with-psu-equilash-140-ksols/",
+    "price": "$ 2,900.00",
+    "hashrate": "140.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34477965/antminer-z9-408k.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-z9-equilash-42-ksolss/",
+    "price": "$ 1,396.00",
+    "hashrate": "42.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521203/antminer-z11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z11 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-z11-equilash-135ksolss/",
+    "price": "$ 1,836.00",
+    "hashrate": "135.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521367/fusionsilicon-x7.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FusionSilicon X7+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/fusionsilicon-x7plus-x11-330-ghs/",
+    "price": "$ 3,090.00",
+    "hashrate": "330.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/352240/eth_rig_188.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ethereum Mining Rig 180MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/mineshop/ethereum-mining-rig-180mhs/",
+    "price": "$ 2,154.00",
+    "hashrate": "180.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350748/sapphire-radeon-380x.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon R9 380x GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-r9-380x-ethash-20-mhs/",
+    "price": "$ 300.00",
+    "hashrate": "18.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350679/radeon-hd-7870-ethereum-mining.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon HD 7870 GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-hd-7870-ethash-10200-khs/",
+    "price": "$ 140.00",
+    "hashrate": "10,200.0 KH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835753/innosilicon-a10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A10 ETHMaster + PSU 485MH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/innosilicon-a10-ethmaster-plus-psu-485mhs/",
+    "price": "$ 5,649.00",
+    "hashrate": "485.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521114/antminer-b7.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer B7 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-b7-plus-psu-tensority-96khs/",
+    "price": "$ 1,263.23",
+    "hashrate": "96.0 KH/s",
+    "coin": " BTM"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835753/innosilicon-a10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A10 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/innosilicon-a10-ethash-500mhs/",
+    "price": "$ 4,359.00",
+    "hashrate": "500.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935261/antminer-z15.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z15 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-z15-equilash-420ksols/",
+    "price": "$ 2,630.10",
+    "hashrate": "420.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309649/bitmain-s11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S11 ASIC",
+    "link": "https://www.cryptocompare.com/mining/ecos-cloud-mining/antminer-s11-sha-256-195ths/",
+    "price": "$ 1,168.00",
+    "hashrate": "19,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350898/antminer-s9-bitcoin-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "S9 Antminer ASIC",
+    "link": "https://www.cryptocompare.com/mining/coinminer/antminer-s9-sha-256-140ths/",
+    "price": "$ 6,700.00",
+    "hashrate": "14,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/27010768/untitled-1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Whatsminer M3 BTC 11.5TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/pangolin-miner/whatsminer-m3-btc-115ths/",
+    "price": "$ 1,350.00",
+    "hashrate": "11,750.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655916/antminer-l3plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-l3plus-scrypt-504mhs/",
+    "price": "$ 475.00",
+    "hashrate": "504.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835712/baikal-bk-b.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-B ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/baikal-bk-b-multi-algo/",
+    "price": "$ 1,130.00",
+    "hashrate": "160.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650455/asicminer-zeon.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "ASICminer Zeon ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/asicminer-zeon-equihash-180ksols/",
+    "price": "$ 17.20 k",
+    "hashrate": "180.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935212/todek-toddminer-c1-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "TODEK TODDMINER C1 PRO ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/todek-toddminer-c1-pro-eaglesong-3ths/",
+    "price": "$ 4,469.89",
+    "hashrate": "3,000.0 GH/s",
+    "coin": " CKB"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650327/s17-50-th.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s17-pro-plus-psu-sha-256-50ths/",
+    "price": "$ 1,840.00",
+    "hashrate": "50,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-t9.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T9+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-t9plus-with-psu-sha-256-105ths/",
+    "price": "$ 330.00",
+    "hashrate": "10,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835708/baikal-bk-n240.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-N240 + PSU XMO 480KH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/baikal-bk-n240-plus-psu-xmo-480khs/",
+    "price": "$ 583.00",
+    "hashrate": "480.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650339/s17.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s17-pro-plus-psu-sha-256-53ths/",
+    "price": "$ 1,910.00",
+    "hashrate": "53,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521114/antminer-b7.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer B7 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-b7-tensority-96khs/",
+    "price": "$ 1,050.00",
+    "hashrate": "96.0 KH/s",
+    "coin": " BTM"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650640/whatsminer-m20s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M20S ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/microbt-whatsminer-m20s-sha256-65ths/",
+    "price": "$ 2,120.00",
+    "hashrate": "65,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650445/strongu-stu-u1plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "StrongU STU-U1++ ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/strongu-stu-u1plusplus-blake256r14-52ths/",
+    "price": "$ 1,145.00",
+    "hashrate": "52,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835894/strongu-stu-u1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "StrongU STU-U1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/strongu-stu-u1-plus-psu-blake256-11ths/",
+    "price": "$ 1,395.00",
+    "hashrate": "11,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34836003/bk-g28.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-G28 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/baikal-bk-g28-plus-psu-x11-28ghs/",
+    "price": "$ 640.00",
+    "hashrate": "28,000,000,000.0 H/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650596/strong-stu-u2.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Strong STU-U2 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/strong-stu-u2-blake2b-7ths/",
+    "price": "$ 550.00",
+    "hashrate": "7,000.0 GH/s",
+    "coin": " NANO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309649/bitmain-s11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S11 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s11-20ths/",
+    "price": "$ 950.00",
+    "hashrate": "20,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/351898/asus-radeon-r9-280x-directcu-ii-top.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon R9 280x GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-r9-280x-directcuii-equilash-25-solsec/",
+    "price": "$ 286.76",
+    "hashrate": "200.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382996/antrouter-r1.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "R1 AntRouter Chip",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antrouter-r1-sha256-55ghs/",
+    "price": "$ 48.00",
+    "hashrate": "5,500.0 MH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478461/equ1.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebit Miner E9i ASIC",
+    "link": "https://www.cryptocompare.com/mining/ebang-communication/ebit-miner-e9i-sha256-135ths/",
+    "price": "$ 745.00",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478464/e92.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "E9.2 BTC Mining Equipment 12 TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/ebang-communication/ebit-miner-e92-sha256-12-ths/",
+    "price": "$ 750.00",
+    "hashrate": "12,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655918/innosilicon-d9-decredmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon D9 DecredMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/innosilicon-d9-decredmaster-plus-psu-blake256-24ths/",
+    "price": "$ 1,700.00",
+    "hashrate": "2,400.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835784/b1n-miner-8-gpu-nvidia.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "B1N Rig Rig",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/b1n-rig-equihash-3760hs/",
+    "price": "$ 4,500.00",
+    "hashrate": "3,760.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383994/asus-rog-strix-radeon-rx-570-o4g.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Asus ROG Strix Radeon RX 570 O4G ETH 22 MH/s GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/asus-rog-strix-radeon-rx-570-o4g-ethash-22-mhs/",
+    "price": "$ 159.00",
+    "hashrate": "22.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780756/thorium-6580-gpu-mining-rig.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Thorium 6580 GPU ETH Mining Rig 160MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/bitmart/thorium-6580-gpu-eth-mining-rig-160mhs/",
+    "price": "$ 2,016.00",
+    "hashrate": "160.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1384037/pandaminer-b5-plus.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "PandaMiner B3 Pro ETH 230 MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/pandaminer/pandaminer-b3-pro-ethash-230-mhs/",
+    "price": "$ 800.00",
+    "hashrate": "230.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835696/antminer-s9-hydro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 Hydro ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/antminer-s9-hydro-plus-psu-sha-256-18ths/",
+    "price": "$ 1,200.00",
+    "hashrate": "18,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835674/zigz1plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/dayun-zig-z1plus-lyra2rev2-725ghs/",
+    "price": "$ 777.37",
+    "hashrate": "7,250.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35264138/obelisk-sc1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "OBELISK SC1 + PSU SC 550GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/obelisk-sc1-plus-psu-sc-550ghs/",
+    "price": "$ 4,249.65",
+    "hashrate": "550.0 GH/s",
+    "coin": " SC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35264140/bitmain-antminer-s15.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S15 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-s15-plus-psu-sha-256-28ths/",
+    "price": "$ 1,943.43",
+    "hashrate": "28,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835895/microbt-whatsminer-d1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer D1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/microbt-whatsminer-d1-plus-psu-blake256-48ths/",
+    "price": "$ 1,101.27",
+    "hashrate": "48,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835713/baikal-bk-nplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal GIANT N+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/baikal-giant-nplus-with-psu-cryptonight-80khs/",
+    "price": "$ 388.68",
+    "hashrate": "80.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35264139/bitmain-antminer-t15.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "BITMAIN ANTMINER T15 + PSU BTC 23TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-t15-plus-psu-sha256-23ths/",
+    "price": "$ 1,036.49",
+    "hashrate": "23,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835953/microbt-whatsminer-dcr.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer DCR ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/microbt-whatsminer-dcr-plus-psu-blake256-44ths/",
+    "price": "$ 1,101.27",
+    "hashrate": "44,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478500/antminer-s9j.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9j ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-s9j-plus-psu-sha-256-145ths/",
+    "price": "$ 647.80",
+    "hashrate": "14,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521229/fusionsilicon-x1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FusionSilicon X1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/fusionsilicon-x1-lyra2rev2-1296-ghs/",
+    "price": "$ 2,119.26",
+    "hashrate": "12,960.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521166/innosilicon-t2-turbo.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T2 Turbo ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-t2-turbo-plus-psu-sha-256-25ths/",
+    "price": "$ 583.02",
+    "hashrate": "24,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309650/dr5.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer DR5 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-dr5-blake256r14-34ths/",
+    "price": "$ 1,915.00",
+    "hashrate": "34,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309710/obelisk-sc1-immersion.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Obelisk SC1 Immersion ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/obelisk-sc1-immersion-plus-psu-blake2b-22ths/",
+    "price": "$ 6,517.43",
+    "hashrate": "2,200.0 GH/s",
+    "coin": " SC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309711/obelisk-sc1-dual.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Obelisk SC1 Dual ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/obelisk-sc1-dual-plus-psu-blake2b-11ths/",
+    "price": "$ 4,493.71",
+    "hashrate": "1,100.0 GH/s",
+    "coin": " SC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650462/fusionsilicon-x1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FusionSilicon X1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/fusionsilicon-x1-lyra2rev2-1296-ghs/",
+    "price": "$ 2,120.99",
+    "hashrate": "12,960.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309714/obelisk-sc1-slim.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Obelisk SC1 SLIM ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/obelisk-sc1-slim-plus-psu-blake2b-550ghs/",
+    "price": "$ 3,205.05",
+    "hashrate": "550.0 GH/s",
+    "coin": " SC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650447/strongu-stu-u8.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "StrongU STU-U8 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/strongu-stu-u8-sha-256-46ths/",
+    "price": "$ 1,810.00",
+    "hashrate": "46,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309647/antminer-s15.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S15 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s15-sha256-28ths/",
+    "price": "$ 1,020.00",
+    "hashrate": "28,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309649/bitmain-s11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S11 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s11-sha256-195ths/",
+    "price": "$ 499.00",
+    "hashrate": "19,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650448/innosilicon-terminator-r3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon Terminator R3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-terminator-r3-39t-sha-256-39ths/",
+    "price": "$ 1,813.87",
+    "hashrate": "39,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650445/strongu-stu-u1plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "StrongU STU-U1++ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/strongu-stu-u1plusplus-blake256r14-52ths/",
+    "price": "$ 1,166.05",
+    "hashrate": "52,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835703/innosilicon-t2-turbo.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T2 Turbo ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/innosilicon-t2-turbo-sha-256-24ths/",
+    "price": "$ 1,504.80",
+    "hashrate": "24,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650447/strongu-stu-u8.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "StrongU STU-U6 ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/strongu-stu-u6-x11-660ghs/",
+    "price": "$ 1,599.99",
+    "hashrate": "660.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001734/antminer-x3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer X3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/antminer-x3-cryptonight-220khs/",
+    "price": "$ 340.00",
+    "hashrate": "220.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36798701/bitmain-antminer-s19-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Bitmain Antminer S19 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/bitmain-antminer-s19-sha256-95ths/",
+    "price": "$ 2,750.00",
+    "hashrate": "95,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639956/avalonminer-1066.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Canaan Avalon 1166 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/canaan-avalon-1166-sha256-68ths/",
+    "price": "$ 2,517.00",
+    "hashrate": "68,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835753/innosilicon-a10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "INNOSILICON A10 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-a10-eth-miner-500mhs/",
+    "price": "$ 2,915.15",
+    "hashrate": "500.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935086/bitmain-antminer-s19.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S19 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s19-sha256-95ths/",
+    "price": "$ 1,785.00",
+    "hashrate": "95,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935086/bitmain-antminer-s19.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S19 PRO ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s19-pro-sha256-110ths/",
+    "price": "$ 2,407.00",
+    "hashrate": "110,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305494/innosilicon-a10-pro-eth-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "A10 Pro Ethash (500MH/s) ASIC",
+    "link": "https://www.cryptocompare.com/mining/innosilicon/innosilicon-a10-pro-ethash-500mhs/",
+    "price": "$ 4,388.00",
+    "hashrate": "500.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935086/bitmain-antminer-s19.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Bitmain Antminer S19 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/bitmain-antminer-s19-sha256-95ths/",
+    "price": "$ 2,363.85",
+    "hashrate": "95,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650640/whatsminer-m20s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M20S ASIC",
+    "link": "https://www.cryptocompare.com/mining/whats-miner/microbt-whatsminer-m20s-sha256-68ths/",
+    "price": "$ 1,340.00",
+    "hashrate": "68,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935175/bitmain-antminer-s19-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Bitmain Antminer S19 PRO ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/bitmain-antminer-s19-pro-sha256-110ths/",
+    "price": "$ 2,985.92",
+    "hashrate": "110,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305508/goldshell-hs3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Goldshell HS3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/goldshell-hs3-blake2b-plus-sha3-2ths/",
+    "price": "$ 5,160.00",
+    "hashrate": "2,000.0 GH/s",
+    "coin": " HNS"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650896/coinmine.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Coinmine One ASIC",
+    "link": "https://www.cryptocompare.com/mining/coinmine/coinmine-one/",
+    "price": "$ 699.00",
+    "hashrate": "30,200.0 KH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651505/avalonminer-1047.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 1047 ASIC",
+    "link": "https://www.cryptocompare.com/mining/ecos-cloud-mining/avalonminer-1047-sha-256-37ths/",
+    "price": "$ 1,382.00",
+    "hashrate": "37,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/351409/rx-470.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon RX 470 GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-rx-470-equilash-220-hs/",
+    "price": "$ 600.00",
+    "hashrate": "220.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382720/baikal_dashminer2.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal Quadruple 600MH/s Dash Miner ASIC",
+    "link": "https://www.cryptocompare.com/mining/mineshop/baikal-quadruple-600mhs-dash-miner/",
+    "price": "$ 1,395.35",
+    "hashrate": "600.0 MH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/16746610/nvidia-gigabyte-geforce-gtx-1070-g1-8gb.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "nVidia GigaByte GeForce GTX 1070 Ti 8G Zcash Mining GPU",
+    "link": "https://www.cryptocompare.com/mining/nvidia/nvidia-gigabyte-geforce-gtx-1070-ti-8g-zcash-mining/",
+    "price": "$ 449.00",
+    "hashrate": "520.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-l3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3++ LTC Mining Equipment 580 MH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/ironvault/antminer-l3plusplus-ltc-mining-equipment-580-mhs/",
+    "price": "$ 120.00",
+    "hashrate": "504.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478478/innosilicon-a9-zmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9 ZMaster + PSU ZEC 50Ksol/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/innosilicon-a9-zmaster-plus-psu-zec-50ksols/",
+    "price": "$ 3,149.00",
+    "hashrate": "50.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478480/antminer-z9-mini.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 Mini ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-z9-mini-plus-psu-equilash-10ksols/",
+    "price": "$ 81.00",
+    "hashrate": "10.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835721/ibelink-dsm7t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "iBeLink DSM7T ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/ibelink-dsm7t-plus-psu-dcr-7ths/",
+    "price": "$ 1,569.00",
+    "hashrate": "7,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478478/innosilicon-a9-zmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9 ZMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-a9-zmaster-plus-psu-equilash-50ksols/",
+    "price": "$ 744.97",
+    "hashrate": "50.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835952/innosilicon-terminator-t2.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon Terminator T2 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-terminator-t2-plus-psu-blake-256-172ths/",
+    "price": "$ 1,166.05",
+    "hashrate": "17,200.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478480/antminer-z9-mini.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 Mini ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-z9-mini-equilash-10ksols/",
+    "price": "$ 1,413.00",
+    "hashrate": "10.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478478/innosilicon-a9-zmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9 ZMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/innosilicon-a9-zmaster-equilash-60ksols/",
+    "price": "$ 2,907.00",
+    "hashrate": "60.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478342/spondoolies-spx36.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Spondoolies SPx36 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/spondoolies-spx36-x11-540ghs/",
+    "price": "$ 4,793.86",
+    "hashrate": "540.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521218/a9plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9++ ZMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros/innosilicon-a9plusplus-zmaster-equilash-140-ksols/",
+    "price": "$ 2,999.00",
+    "hashrate": "140.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521218/a9plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9++ ZMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-a9plusplus-zmaster-equilash-140-ksols/",
+    "price": "$ 3,368.63",
+    "hashrate": "140.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521218/a9plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9++ ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/innosilicon-a9plusplus-zmaster-equilash-140-ksols/",
+    "price": "$ 1,845.99",
+    "hashrate": "140.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521203/antminer-z11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z11 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-z11-equihash-135ksols/",
+    "price": "$ 1,608.00",
+    "hashrate": "135.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382719/baikal_dashminer.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal mini 150MH/s Dash Miner ASIC",
+    "link": "https://www.cryptocompare.com/mining/mineshop/baikal-mini-150mhs-dash-miner/",
+    "price": "$ 375.48",
+    "hashrate": "150.0 MH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/352241/zec_rig_1165.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Monero Mining Rig 5000H/s Rig",
+    "link": "https://www.cryptocompare.com/mining/mineshop/monero-mining-rig-5000hs/",
+    "price": "$ 1,414.00",
+    "hashrate": "5.0 KH/s",
+    "coin": " XMR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350674/radeon-r9-hd-7990-ethereum-minining.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon R9 HD 7990 GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-r9-hd-7990-ethash-36-mhs/",
+    "price": "$ 680.00",
+    "hashrate": "36.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835765/copie_de_5xs1_miner_new_1024x1024.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "5 x B1 Rig Rig",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/5-x-b1-rig-ethash-241mhs/",
+    "price": "$ 14.31 k",
+    "hashrate": "1,205,000,000.0 H/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383993/51wtidygjll.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Asus ROG Strix RX 580-O8G GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/asus-rog-strix-rx-580-o8g-ethash-24-mhs/",
+    "price": "$ 439.95",
+    "hashrate": "24.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309714/obelisk-sc1-slim.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Obelisk SC1 SLIM ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/obelisk-sc1-slim-plus-psu-blake2b-550ghs/",
+    "price": "$ 3,000.00",
+    "hashrate": "550.0 GH/s",
+    "coin": " SC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350672/radeon-r9-nano-tri-x-ethereum-minining.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon R9 Nano GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-r9-nano-ethash-23-mhs/",
+    "price": "$ 880.00",
+    "hashrate": "23.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20703/bitmain-s7-miner.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "AntMiner S7 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s7-sha256-486ths/",
+    "price": "$ 100.00",
+    "hashrate": "4,730.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650892/dayun-zig-z1-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros/dayun-zig-z1-pro-lyra2rev2-13-ghs/",
+    "price": "$ 1,249.00",
+    "hashrate": "13.0 GH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780735/baikal-giant-x10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "BAIKAL BK-X ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros-india/baikal-bk-x-x11-10-ghs/",
+    "price": "$ 1,225.00",
+    "hashrate": "10.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309746/bitmain-antminer-l3plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3++ ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-l3plusplus-with-psu-scrypt-596-mhs/",
+    "price": "$ 265.00",
+    "hashrate": "596.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913586/pinidea-dr2-asic-miner.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/asic-miner-market/antminer-s9-sha-256-135ths/",
+    "price": "$ 1,500.00",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650447/strongu-stu-u8.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "StrongU STU-U6 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/strongu-stu-u6-x11-660ghs/",
+    "price": "$ 1,117.46",
+    "hashrate": "660.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/19531/antminerc1.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S4+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s4plus-sha256-257ths/",
+    "price": "$ 1,000.00",
+    "hashrate": "2,570.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/352220/r9390x.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Radeon R9 390x GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/radeon-r9-390x-equilash-280-hs/",
+    "price": "$ 400.00",
+    "hashrate": "280.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/16746593/nvidia-msi-mining-p106-6g.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "nVidia MSI P106-100 6GB Zcash Mining GPU",
+    "link": "https://www.cryptocompare.com/mining/nvidia/nvidia-msi-p106-100-6gb-zcash-mining/",
+    "price": "$ 240.00",
+    "hashrate": "290.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478509/ant-e3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer E3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coinminer/antminer-e3-ethash-190-mhs/",
+    "price": "$ 399.00",
+    "hashrate": "190.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478554/dayun-z1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1 XVG 6.8GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros/dayun-zig-z1-xvg-68ghs/",
+    "price": "$ 1,299.00",
+    "hashrate": "6,800.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835708/baikal-bk-n240.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-N240 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/baikal-bk-n240-plus-psu-cryptonight-480khs/",
+    "price": "$ 2,141.53",
+    "hashrate": "480.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651662/antminert17.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s17-sha256-53ths/",
+    "price": "$ 2,322.00",
+    "hashrate": "53,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651516/innosilicon-t3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T3+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/ecos-cloud-mining/innosilicon-t3plus-sha-256-57ths/",
+    "price": "$ 3,348.00",
+    "hashrate": "57,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780716/antminer-s9-135ths.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s9-sha-256-135ths/",
+    "price": "$ 510.00",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20533/antminer-u3.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer U3 USB",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-u3-sha256-63ghs/",
+    "price": "$ 110.00",
+    "hashrate": "63.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/19531/antminerc1.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "AntMiner S5 Batch 6 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s5-sha256-1155ths/",
+    "price": "$ 400.00",
+    "hashrate": "1,155.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382721/baikal-giant-a900-miner.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal Giant-A900 Dash Miner 900 MH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/mineshop/baikal-giant-a900-dash-miner-900-mhs/",
+    "price": "$ 2,682.86",
+    "hashrate": "600.0 MH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913595/e9-bitcoin-miner-asic-miner-market.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebit E9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/asic-miner-market/ebit-e9-sha-256-65ths/",
+    "price": "$ 980.00",
+    "hashrate": "6,300.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655918/innosilicon-d9-decredmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon D9 DecredMaster 2.1 TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/miningcave/innosilicon-d9-decredmaster-21-ths/",
+    "price": "$ 9,949.00",
+    "hashrate": "2,100.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34477965/antminer-z9-408k.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 40.8 Ksols/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/blokforge/antminer-z9-408-ksolss/",
+    "price": "$ 3,599.00",
+    "hashrate": "40,800.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478342/spondoolies-spx36.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "SPx36 DASH 540 GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/spondoolies/spx36-dash-540-ghs/",
+    "price": "$ 7,000.00",
+    "hashrate": "540.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478463/equi2.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "E9.3 BTC Mining Equipment 16 TH/S ASIC",
+    "link": "https://www.cryptocompare.com/mining/ebang-communication/ebit-miner-e93-sha256-16-ths/",
+    "price": "$ 950.00",
+    "hashrate": "16,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34477965/antminer-z9-408k.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 + PSU 42 Ksols/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/antminer-z9-plus-psu-42-ksolss/",
+    "price": "$ 1,300.00",
+    "hashrate": "42.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835785/b1-miner-rig.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "B1 Rig Rig",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/b1-rig-ethash-241mhs/",
+    "price": "$ 1,900.00",
+    "hashrate": "241.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-t9.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T9+ (10.5TH/s) with PSU ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-t9plus-sha256-105ths/",
+    "price": "$ 430.00",
+    "hashrate": "10,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655918/innosilicon-d9-decredmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9 ZMaster 50 Ksols/s + PSU & Cable ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-store-5111/innosilicon-a9-zmaster-50-ksolss-plus-psu-cable/",
+    "price": "$ 3,834.00",
+    "hashrate": "50.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780721/ebit-miner-e9-plus-9t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebit E9 Plus ASIC",
+    "link": "https://www.cryptocompare.com/mining/coinminer/ebit-e9-plus-sha-256-9ths/",
+    "price": "$ 3,425.00",
+    "hashrate": "9.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913578/asic-miner-market-ant-mine-l3-plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/asic-miner-market/antminer-l3plus-scrypt-580mhs/",
+    "price": "$ 50.00",
+    "hashrate": "580.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/16746597/nvidia-asus-geforce-gtx1060-6gb.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "nVidia Asus GeForce GTX 1060 6GB Zcash Mining GPU",
+    "link": "https://www.cryptocompare.com/mining/nvidia/nvidia-asus-geforce-gtx-1060-6gb-dual-fan-zcash-mining/",
+    "price": "$ 299.99",
+    "hashrate": "300.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835721/ibelink-dsm7t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "iBeLink DSM7T ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/ibelink-dsm7t-plus-psu-dcr-7ths/",
+    "price": "$ 750.00",
+    "hashrate": "7,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913593/asic-miner-market-am200-ethereum.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AM200 Rig",
+    "link": "https://www.cryptocompare.com/mining/asic-miner-market/am200-ethash-230mhs/",
+    "price": "$ 2,699.00",
+    "hashrate": "230.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835707/innosilicon-a4plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A4+ LTCMaster 620MH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/innosilicon-a4plus-ltcmaster-620mhs/",
+    "price": "$ 1,140.00",
+    "hashrate": "620.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651684/s17plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s17plus-sha-256-73ths/",
+    "price": "$ 2,580.00",
+    "hashrate": "73,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-l3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "L3+ Antminer ASIC",
+    "link": "https://www.cryptocompare.com/mining/coinminer/antminer-l3plus-scrypt-504mhs/",
+    "price": "$ 3,350.00",
+    "hashrate": "504.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913584/asic-miner-market-innosilicon-a5-dash-miner-x11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A5 ASIC",
+    "link": "https://www.cryptocompare.com/mining/asic-miner-market/innosilicon-a5-x11-302ghs/",
+    "price": "$ 2,999.00",
+    "hashrate": "30,200.0 MH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-l3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "L3+ Antminer ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros-india/antminer-l3plus-scrypt-504mhs/",
+    "price": "$ 2,800.00",
+    "hashrate": "504.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001938/antminer-e3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer E3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-e3-ethash-190mhs/",
+    "price": "$ 1,262.00",
+    "hashrate": "190.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350676/nvidia-geforce-gtx-750-ti-ethereum-minining.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "nVidia GeForce GTX 750 Ti Ethereum Mining GPU",
+    "link": "https://www.cryptocompare.com/mining/nvidia/nvidia-geforce-gtx-750-ti-ethereum-mining/",
+    "price": "$ 140.00",
+    "hashrate": "6.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30002331/antminer-z9-mini.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 mini ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-z9-mini-equihash-10ksols/",
+    "price": "$ 850.00",
+    "hashrate": "10.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383985/antminer-d3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "D3 Antminer ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros-india/antminer-d3-x11-15ghs/",
+    "price": "$ 1,500.00",
+    "hashrate": "15.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383985/antminer-d3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "D3 Antminer ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-d3-x11-175ghs/",
+    "price": "$ 176.00",
+    "hashrate": "17,500.0 MH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001696/antminer-v9.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer V9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-v9-sha256-4ths/",
+    "price": "$ 120.00",
+    "hashrate": "4,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383966/ambition.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "ETH Mining Rig Ambition 1070 Rig",
+    "link": "https://www.cryptocompare.com/mining/quantech/eth-mining-rig-ambition-240mhs/",
+    "price": "$ 37.90 k",
+    "hashrate": "240.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913583/asic-miner-market-bitmain-d3-miner-19.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Bitmain D3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/asic-miner-market/bitmain-d3-x11-193ghs/",
+    "price": "$ 1,350.00",
+    "hashrate": "19,300.0 MH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780761/zodiac-6-1060-gpu-mining-rig.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Zodiac 6-1060 GPU Mining Rig ZEC 1686H/s Rig",
+    "link": "https://www.cryptocompare.com/mining/bitmart/zodiac-6-1060-gpu-mining-rig-zec-1686hs/",
+    "price": "$ 3,139.00",
+    "hashrate": "1,686.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383985/antminer-d3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "D3 Antminer ASIC",
+    "link": "https://www.cryptocompare.com/mining/coinminer/antminer-d3-x11-15ghs/",
+    "price": "$ 3,900.00",
+    "hashrate": "15.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001977/antminer-x3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer X3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-x3-cryptonight-220khs/",
+    "price": "$ 1,255.00",
+    "hashrate": "220.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/15887418/dragonmint-16t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "DragonMint T1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/halong-mining/dragonmint-t1-sha-256-16ths/",
+    "price": "$ 2,729.00",
+    "hashrate": "16,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478509/ant-e3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer E3 + PSU 190MH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/antminer-e3-plus-psu-190mhs/",
+    "price": "$ 700.00",
+    "hashrate": "190.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835674/zigz1plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1+ XVG 7.2GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros/dayun-zig-z1plus-xvg-72ghs/",
+    "price": "$ 3,689.00",
+    "hashrate": "7,200.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1384037/pandaminer-b5-plus.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "PandaMiner B3 Plus ETH 220MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/bitmart/pandaminer-b3-plus-eth-220mhs/",
+    "price": "$ 1,651.00",
+    "hashrate": "215.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835674/zigz1plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/dayun-zig-z1plus-with-psu-lyra2rev2-725ghs/",
+    "price": "$ 4,075.50",
+    "hashrate": "7,250.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913581/asic-miner-market-a200-ethereum-zcash-xmr-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "A200 Rig",
+    "link": "https://www.cryptocompare.com/mining/asic-miner-market/a200-ethash-200mhs/",
+    "price": "$ 2,750.00",
+    "hashrate": "200.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780756/thorium-6580-gpu-mining-rig.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Thorium 6570 GPU ETH Mining Rig 144MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/bitmart/thorium-6570-gpu-eth-mining-rig-144mhs/",
+    "price": "$ 2,016.00",
+    "hashrate": "144.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/27010576/imperium-ethereum-mining-rig.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Imperium ETH Mining Rig 230MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/miningstore/imperium-eth-mining-rig-230mhs/",
+    "price": "$ 3,577.00",
+    "hashrate": "230.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350826/r7370.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Strix Radeon R7 370 GPU",
+    "link": "https://www.cryptocompare.com/mining/amd/strix-radeon-r7-370-ethash-15-mhs/",
+    "price": "$ 170.00",
+    "hashrate": "12.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/352238/eth_rig_125.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ethereum Mining Rig 125MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/mining-dudes/ethereum-mining-rig-125mhs/",
+    "price": "$ 2,143.54",
+    "hashrate": "125.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/352238/eth_rig_125.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ethereum Mining Rig 125MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/mineshop/ethereum-mining-rig-125mhs/",
+    "price": "$ 2,261.73",
+    "hashrate": "125.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655916/antminer-l3plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3++ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coinminer/antminer-l3plusplus-scrypt-580mhs/",
+    "price": "$ 132.00",
+    "hashrate": "580.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1384037/pandaminer-b5-plus.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "PandaMiner B5 Plus ETH 110MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/bitmart/pandaminer-b5-plus-eth-110mhs/",
+    "price": "$ 2,916.00",
+    "hashrate": "110.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383963/elite.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "ETH Mining Rig Elite Rig",
+    "link": "https://www.cryptocompare.com/mining/quantech/eth-mining-rig-elite-180mhs/",
+    "price": "$ 30.00 k",
+    "hashrate": "180.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383966/ambition.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "ETH Mining Rig Ambition 580 Rig",
+    "link": "https://www.cryptocompare.com/mining/quantech/eth-mining-rig-ambition-220mhs/",
+    "price": "$ 33.50 k",
+    "hashrate": "220.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383962/classic.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "ETH Mining Rig Classic Rig",
+    "link": "https://www.cryptocompare.com/mining/quantech/eth-mining-rig-classic-165mhs/",
+    "price": "$ 29.60 k",
+    "hashrate": "165.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383965/pro.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "ETH Mining Rig Pro Rig",
+    "link": "https://www.cryptocompare.com/mining/quantech/eth-mining-rig-pro-170mhs/",
+    "price": "$ 34.50 k",
+    "hashrate": "170.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383964/lite.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "ETH Mining Rig Lite Rig",
+    "link": "https://www.cryptocompare.com/mining/quantech/eth-mining-rig-lite-130mhs/",
+    "price": "$ 28.30 k",
+    "hashrate": "130.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350898/antminer-s9-bitcoin-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9i BTC 14 TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/gigawatt/antminer-s9i-btc-14-ths/",
+    "price": "$ 1,260.00",
+    "hashrate": "14,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-l3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3++ LTC 580 MH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/gigawatt/antminer-l3plusplus-ltc-580-mhs/",
+    "price": "$ 939.00",
+    "hashrate": "580.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478474/pandaminer-b3-mute.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "PandaMiner B3 Mute ETH 230MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/pandaminer/pandaminer-b3-mute-ethash-230mhs/",
+    "price": "$ 950.00",
+    "hashrate": "230.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30002314/shark-extreme.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Shark Extreme ETH 240MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/sharkmining/shark-extreme-eth-720mhs/",
+    "price": "$ 9,820.00",
+    "hashrate": "720.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/33752305/pack-of-3-rigs-with-6-gpus-5111-shop.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "3 Rig Pack With 6 GPU's ETH 558MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/mining-store-5111/3-rig-pack-with-6-gpus-eth-558mhs/",
+    "price": "$ 7,570.00",
+    "hashrate": "558.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30002307/shark-mini.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Shark Mini ETH 120MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/sharkmining/shark-mini-eth-120mhs/",
+    "price": "$ 2,290.00",
+    "hashrate": "122.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30002315/shark-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Shark Pro ETH 180MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/sharkmining/shark-pro-eth-180mhs/",
+    "price": "$ 3,490.00",
+    "hashrate": "181.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655916/antminer-l3plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AntMiner L3++ 580MH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/miningcave/antminer-l3plusplus-580mhs/",
+    "price": "$ 131.14",
+    "hashrate": "580.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478500/antminer-s9j.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9j ASIC",
+    "link": "https://www.cryptocompare.com/mining/coinminer/antminer-s9j-plus-psu-sha-256-145-ths/",
+    "price": "$ 252.00",
+    "hashrate": "14,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655915/antminer-s9i.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AntMiner S9i 14.5TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/miningcave/antminer-s9i-145ths/",
+    "price": "$ 394.18",
+    "hashrate": "14,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34477957/avalon.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Avalon 841 BTC 13.6TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/blokforge/avalon-841-btc-136ths/",
+    "price": "$ 249.00",
+    "hashrate": "13,600.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350898/antminer-s9-bitcoin-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9I ASIC",
+    "link": "https://www.cryptocompare.com/mining/blokforge/antminer-s9i-14-ths/",
+    "price": "$ 399.00",
+    "hashrate": "14,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350898/antminer-s9-bitcoin-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9I 13.5 TH/S ASIC",
+    "link": "https://www.cryptocompare.com/mining/blokforge/antminer-s9i-135-ths/",
+    "price": "$ 449.00",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001977/antminer-x3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer X3 + PSU XMO 220KH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/antminer-x3-plus-psu-xmo-220khs/",
+    "price": "$ 1,482.00",
+    "hashrate": "220.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835703/innosilicon-t2-turbo.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T2 Turbo + PSU BTC 24TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/innosilicon-t2-turbo-plus-psu-btc-24ths/",
+    "price": "$ 1,311.00",
+    "hashrate": "24,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478500/antminer-s9j.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9j + PSU 14.5TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/antminer-s9j-plus-psu-145ths/",
+    "price": "$ 513.00",
+    "hashrate": "14,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835702/innosilicon-a8plus-cryptomaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A8+ CryptoMaster + PSU XMO 240Ksols/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/innosilicon-a8plus-cryptomaster-plus-psu-xmo-240ksolss/",
+    "price": "$ 1,641.00",
+    "hashrate": "240.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835708/baikal-bk-n240.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-N240 + PSU XMO 480KH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/baikal-bk-n240-plus-psu-xmo-480khs/",
+    "price": "$ 1,938.00",
+    "hashrate": "480.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835711/baikal-bk-n70.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-N70 + PSU XMO 140KH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/baikal-bk-n70-plus-psu-xmo-140khs/",
+    "price": "$ 889.20",
+    "hashrate": "140.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835713/baikal-bk-nplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-N+ with PSU XMO 80KH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/baikal-bk-nplus-with-psu-xmo-80khs/",
+    "price": "$ 741.00",
+    "hashrate": "80.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780757/pandaminer-b3-plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "PandaMiner B3 Pro (8G) + PSU ETH 230MH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/pandaminer-b3-pro-8g-plus-psu-ethash-230mhs/",
+    "price": "$ 2,109.00",
+    "hashrate": "230.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835674/zigz1plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1+ with PSU & Cable XVG 7.2 GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-store-5111/dayun-zig-z1plus-with-psu-cable-xvg-72-ghs/",
+    "price": "$ 5,269.00",
+    "hashrate": "7,200.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835674/zigz1plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/dayun-zig-z1-with-psu-lyra2rev2-68ghs/",
+    "price": "$ 4,953.30",
+    "hashrate": "6,200.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835723/pangolin-whatsminer-m10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Pangolin Whatsminer M10 + PSU BTC 33TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/pangolin-whatsminer-m10-plus-psu-btc-33ths/",
+    "price": "$ 1,596.00",
+    "hashrate": "33,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913586/pinidea-dr2-asic-miner.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "PinIdea RR-200 + PSU XMO 55KH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/pinidea-rr-200-plus-psu-xmo-55khs/",
+    "price": "$ 2,679.00",
+    "hashrate": "55.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001734/antminer-x3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer X3 + PSU XMO 220KH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/antminer-x3-plus-psu-xmo-220khs/",
+    "price": "$ 2,299.00",
+    "hashrate": "220.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34477729/antminer-s9i-core.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9i + PSU 14TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/antminer-s9i-plus-psu-14ths/",
+    "price": "$ 1,059.00",
+    "hashrate": "14,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835708/baikal-bk-n240.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-N240 + PSU XMO 480KH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/baikal-bk-n240-plus-psu-xmo-480khs/",
+    "price": "$ 1,799.00",
+    "hashrate": "480.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835711/baikal-bk-n70.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-N70 + PSU XMO 140KH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/baikal-bk-n70-plus-psu-xmo-140khs/",
+    "price": "$ 899.00",
+    "hashrate": "140.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835713/baikal-bk-nplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-N+ with PSU XMO 80KH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/baikal-bk-nplus-with-psu-xmo-80khs/",
+    "price": "$ 699.00",
+    "hashrate": "80.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835702/innosilicon-a8plus-cryptomaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A8+ CryptoMaster + PSU XMO 240Ksols/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/innosilicon-a8plus-cryptomaster-plus-psu-xmo-240ksolss/",
+    "price": "$ 2,190.00",
+    "hashrate": "240.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835723/pangolin-whatsminer-m10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Pangolin Whatsminer M10 + PSU BTC 33TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/pangolin-whatsminer-m10-plus-psu-btc-33ths/",
+    "price": "$ 1,487.00",
+    "hashrate": "33,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835723/pangolin-whatsminer-m10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M10 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/microbt-whatsminer-m10-plus-psu-sha-256-33ths/",
+    "price": "$ 1,554.74",
+    "hashrate": "33,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835893/t2-turbo-32t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T2 Turbo + PSU BTC 32TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/innosilicon-t2-turbo-plus-psu-btc-32ths/",
+    "price": "$ 2,199.00",
+    "hashrate": "32,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835895/microbt-whatsminer-d1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MICROBT WHATSMINER D1 + PSU DCR 44TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/microbt-whatsminer-d1-plus-psu-dcr-44ths/",
+    "price": "$ 4,199.00",
+    "hashrate": "44,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835711/baikal-bk-n70.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-N70 + PSU XMO 140KH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/baikal-bk-n70-plus-psu-xmo-140khs/",
+    "price": "$ 647.80",
+    "hashrate": "140.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651678/bitfury-tardis.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Bitfury Tardis Rig",
+    "link": "https://www.cryptocompare.com/mining/bitfury/bitfury-tardis-sha256-80ths/",
+    "price": "$ 3,770.00",
+    "hashrate": "80,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835703/innosilicon-t2-turbo.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T2 Turbo ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-t2-turbo-plus-psu-sha-256-24ths/",
+    "price": "$ 1,635.00",
+    "hashrate": "24,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780721/ebit-miner-e9-plus-9t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebit E9+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/ebit-e9plus-with-psu-sha-256-14ths/",
+    "price": "$ 840.86",
+    "hashrate": "14,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835702/innosilicon-a8plus-cryptomaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A8+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-a8plus-cryptomaster-plus-psu-cryptonight-240ksolss/",
+    "price": "$ 2,008.21",
+    "hashrate": "240.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478509/ant-e3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer E3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-e3-ethash-190mhs/",
+    "price": "$ 966.00",
+    "hashrate": "190.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835674/zigz1plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/dayun-zig-z1plus-lyra2rev2-725ghs/",
+    "price": "$ 3,596.70",
+    "hashrate": "7,250.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35264139/bitmain-antminer-t15.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T15 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-t15-sha256-23ths/",
+    "price": "$ 1,187.00",
+    "hashrate": "23,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521228/avalon-921.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Avalon 921 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/avalon-921-sha256-20ths/",
+    "price": "$ 695.40",
+    "hashrate": "20,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309650/dr5.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer DR5 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-dr5-blake256r14-34ths/",
+    "price": "$ 1,282.00",
+    "hashrate": "35,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521114/antminer-b7.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer B7 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-b7-tensority-96khs/",
+    "price": "$ 2,012.00",
+    "hashrate": "96.0 KH/s",
+    "coin": " BTM"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478500/antminer-s9j.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9j ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s9j-sha256-145ths/",
+    "price": "$ 392.00",
+    "hashrate": "14,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309650/dr5.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer DR5 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-dr5-blake256r14-34ths/",
+    "price": "$ 1,749.09",
+    "hashrate": "34,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835696/antminer-s9-hydro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 Hydro ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-s9-hydro-sha-256-18ths/",
+    "price": "$ 1,757.00",
+    "hashrate": "18,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309647/antminer-s15.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S15 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-s15-sha-256-28ths/",
+    "price": "$ 69.87 M",
+    "hashrate": "28,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001977/antminer-x3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer X3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-x3-cryptonight-220khs/",
+    "price": "$ 1,988.00",
+    "hashrate": "220.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383988/avalon741-1080-1.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Avalon 841 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/avalon-841-sha256-136ths/",
+    "price": "$ 570.00",
+    "hashrate": "13,600.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835713/baikal-bk-nplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-N ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/baikal-bk-nplus-psu-cryptonight-80khs/",
+    "price": "$ 570.87",
+    "hashrate": "80.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835711/baikal-bk-n70.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-N70 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/baikal-bk-n70-plus-psu-cryptonight-140khs/",
+    "price": "$ 948.40",
+    "hashrate": "140.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309711/obelisk-sc1-dual.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "OBELISK SC1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/obelisk-sc1-plus-psu-blake2b-550ghs/",
+    "price": "$ 4,195.28",
+    "hashrate": "550.0 GH/s",
+    "coin": " SC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780757/pandaminer-b3-plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "PandaMiner B3 Pro (4G) ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/pandaminer-b3-pro-4g-ethash-230-mhs/",
+    "price": "$ 2,223.00",
+    "hashrate": "230.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1384037/pandaminer-b5-plus.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "PandaMiner B3 Pro (8G) ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/pandaminer-b3-pro-8g-eth-230mhs/",
+    "price": "$ 2,337.00",
+    "hashrate": "230.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650454/ebang-e11plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebang E11++ ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/ebang-e11plusplus-sha256-44ths/",
+    "price": "$ 2,100.99",
+    "hashrate": "44,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521231/whatsminer-m10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M10 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/microbt-whatsminer-m10-plus-psu-sha-256-33ths/",
+    "price": "$ 1,326.09",
+    "hashrate": "33,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521233/innosilicon-t3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/innosilicon-t3-sha256-43ths/",
+    "price": "$ 2,781.60",
+    "hashrate": "43,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309647/antminer-s15.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S15 ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/antminer-s15-sha-256-28ths/",
+    "price": "$ 1,580.99",
+    "hashrate": "28,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521114/antminer-b7.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer B7 ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/antminer-b7-tensority-96khs/",
+    "price": "$ 1,820.99",
+    "hashrate": "96.0 KH/s",
+    "coin": " BTM"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835895/microbt-whatsminer-d1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MICROBT WHATSMINER D1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/microbt-whatsminer-d1-plus-psu-blake256-44ths/",
+    "price": "$ 1,743.99",
+    "hashrate": "44,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835704/innosilicon-t2-terminator.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon Terminator T2 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/innosilicon-terminator-t2-sha256-172ths/",
+    "price": "$ 1,396.50",
+    "hashrate": "17,200.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650462/fusionsilicon-x1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FusionSilicon X1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/fusionsilicon-x1-lyra2rev2-1296-ghs/",
+    "price": "$ 539.00",
+    "hashrate": "12,960.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639958/dayun-zig-z1-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/dayun-zig-z1-pro-lyra2rev2-13-ghs/",
+    "price": "$ 1,257.00",
+    "hashrate": "13.0 GH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935049/microbt-whatsminer-m31splus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M31S+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/whatsminer/microbt-whatsminer-m31splus-sha256-80ths/",
+    "price": "$ 1,680.00",
+    "hashrate": "80,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36798701/bitmain-antminer-s19-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Bitmain Antminer S19 PRO ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/bitmain-antminer-s19-pro-sha256-110ths/",
+    "price": "$ 2,860.00",
+    "hashrate": "110,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935009/microbt-whatsminer-m30s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M30S ASIC",
+    "link": "https://www.cryptocompare.com/mining/whatsminer/microbt-whatsminer-m30s-sha256-88ths/",
+    "price": "$ 2,083.00",
+    "hashrate": "88,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935048/microbt-whatsminer-m31s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M31S ASIC",
+    "link": "https://www.cryptocompare.com/mining/whatsminer/microbt-whatsminer-m31s-sha256-72ths/",
+    "price": "$ 1,470.00",
+    "hashrate": "72,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639956/avalonminer-1066.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 1066 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/avalonminer-1066-sha256-50ths/",
+    "price": "$ 661.00",
+    "hashrate": "50,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935009/microbt-whatsminer-m30s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M30S ASIC",
+    "link": "https://www.cryptocompare.com/mining/whats-miner/microbt-whatsminer-m30s-sha256-86ths/",
+    "price": "$ 2,100.00",
+    "hashrate": "86,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935046/microbt-whatsminer-m30splus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M30S+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/whatsminer/microbt-whatsminer-m30splus-sha256-100ths/",
+    "price": "$ 2,740.00",
+    "hashrate": "100,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651685/antminer-t17plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitcoincom/antminer-t17plus-sha256-55ths/",
+    "price": "$ 1,239.99",
+    "hashrate": "55,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651684/s17plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitcoincom/antminer-s17plus-sha-256-67ths/",
+    "price": "$ 1,909.99",
+    "hashrate": "67,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935047/microbt-whatsminer-m30splusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M30S++ ASIC",
+    "link": "https://www.cryptocompare.com/mining/whatsminer/microbt-whatsminer-m30splusplus-sha256-112ths/",
+    "price": "$ 3,900.00",
+    "hashrate": "112,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36798699/microbt-whatsminer-m30s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M30S ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/microbt-whatsminer-m30s-sha256-86ths/",
+    "price": "$ 2,695.00",
+    "hashrate": "86,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36798700/microbt-whatsminer-m31s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M31S ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/microbt-whatsminer-m31s-sha256-70ths/",
+    "price": "$ 1,950.00",
+    "hashrate": "70,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639956/avalonminer-1066.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 1066 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/avalonminer-1066-sha256-50ths/",
+    "price": "$ 1,080.00",
+    "hashrate": "50,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651454/ebang-e12.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebang E12 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/ebang-e12-sha256-44ths/",
+    "price": "$ 1,210.00",
+    "hashrate": "44,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639956/avalonminer-1066.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Canaan Avalon 1146 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/canaan-avalon-1146-sha256-56ths/",
+    "price": "$ 1,577.00",
+    "hashrate": "56,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651505/avalonminer-1047.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 1047 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/avalonminer-1047-sha256-37ths/",
+    "price": "$ 960.00",
+    "hashrate": "37,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639957/canaan-avalonminer-852.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 852 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/avalonminer-852-sha-256-15ths/",
+    "price": "$ 158.00",
+    "hashrate": "15,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835702/innosilicon-a8plus-cryptomaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A8+ CryptoMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/innosilicon-a8plus-cryptomaster-240ksolss/",
+    "price": "$ 247.00",
+    "hashrate": "240.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651670/whatsminerm21s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M21s ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/microbt-whatsminer-m21s-sha256-56ths/",
+    "price": "$ 1,507.00",
+    "hashrate": "56,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651515/innosilicon-t3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T3+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/innosilicon-t3plus-sha256-57ths/",
+    "price": "$ 1,942.00",
+    "hashrate": "57,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639956/avalonminer-1066.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner A1066 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitcoincom/avalonminer-a1066-sha256-50ths/",
+    "price": "$ 1,499.00",
+    "hashrate": "50,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651666/antminer-s9-se.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 SE ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitcoincom/antminer-s9-se-sha256-16ths/",
+    "price": "$ 299.99",
+    "hashrate": "16,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651620/s9k.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9k ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s9k-sha256-135ths/",
+    "price": "$ 210.00",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651620/s9k.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9k ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitcoincom/antminer-s9k-sha256-135ths/",
+    "price": "$ 259.99",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36798784/blockware-solutions.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Blockware Solutions - Bitmain products ASIC",
+    "link": "https://www.cryptocompare.com/mining/blockware-solutions/bitmain-products/",
+    "price": "$ 0",
+    "hashrate": "0.0 H/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36798784/blockware-solutions.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Blockware Solutions - Canaan products ASIC",
+    "link": "https://www.cryptocompare.com/mining/blockware-solutions/canaan-products/",
+    "price": "$ 0",
+    "hashrate": "0.0 H/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36798784/blockware-solutions.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Blockware Solutions - Innosilicon products ASIC",
+    "link": "https://www.cryptocompare.com/mining/blockware-solutions/innosilicon-products/",
+    "price": "$ 0",
+    "hashrate": "0.0 H/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36798784/blockware-solutions.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Blockware Solutions - Baikal products ASIC",
+    "link": "https://www.cryptocompare.com/mining/blockware-solutions/baikal-products/",
+    "price": "$ 0",
+    "hashrate": "0.0 H/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305484/avalon-1166-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 1166 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/canaan-creative/avalonminer-1166-pro-sha256-81ths/",
+    "price": "$ 0",
+    "hashrate": "81,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305486/avalonminer-1146-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Avalon 1146 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/canaan-creative/avalonminer-1146-pro-sha256-63ths/",
+    "price": "$ 0",
+    "hashrate": "63,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305487/avalonminer-1026.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 1026 ASIC",
+    "link": "https://www.cryptocompare.com/mining/canaan-creative/avalonminer-1026-sha256-30ths/",
+    "price": "$ 0",
+    "hashrate": "30,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835674/zigz1plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/dayun-zig-z1-xvg-68ghs/",
+    "price": "$ 111.00",
+    "hashrate": "6,800.0 MH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639958/dayun-zig-z1-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Dayun Zig Z1 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/dayun-zig-z1-pro-lyra2rev2-13-ghs/",
+    "price": "$ 801.08",
+    "hashrate": "13.0 GH/s",
+    "coin": " XVG"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935199/innosilicon-a6.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A6+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-a6plus-scrypt-22ghs/",
+    "price": "$ 3,279.71",
+    "hashrate": "22.0 GH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935199/innosilicon-a6.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A6 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-a6-scrypt-123ghs/",
+    "price": "$ 2,413.37",
+    "hashrate": "12,300.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001938/antminer-e3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer E3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-e3-ethash-190mhs/",
+    "price": "$ 624.00",
+    "hashrate": "190.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651753/pandaminer-b3-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "PandaMiner B3 Pro Rig",
+    "link": "https://www.cryptocompare.com/mining/pandaminer/pandaminer-b3-pro-ethash-235mhs/",
+    "price": "$ 1,200.00",
+    "hashrate": "235.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651449/s17e.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17e ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s17e-sha-256-60ths/",
+    "price": "$ 799.00",
+    "hashrate": "60,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305426/antminer-t17plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-t17plus-sha256-58ths/",
+    "price": "$ 817.00",
+    "hashrate": "58,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305422/antminer-s17plus-70ths.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s17plus-sha256-70ths/",
+    "price": "$ 1,232.00",
+    "hashrate": "70,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651450/t17e.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17e ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-t17e-sha256-53ths/",
+    "price": "$ 696.00",
+    "hashrate": "53,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651685/antminer-t17plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-t17plus-sha256-64ths/",
+    "price": "$ 1,077.00",
+    "hashrate": "64,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651666/antminer-s9-se.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 SE ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s9-se-sha256-16ths/",
+    "price": "$ 95.00",
+    "hashrate": "16,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651684/s17plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-s17plus-sha-256-73ths/",
+    "price": "$ 1,525.00",
+    "hashrate": "73,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651666/antminer-s9-se.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9k ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s9k-sha256-135ths/",
+    "price": "$ 63.00",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650316/s17-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-s17-pro-sha-256-53ths/",
+    "price": "$ 1,201.00",
+    "hashrate": "53,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650316/s17-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-s17-sha256-53ths/",
+    "price": "$ 1,094.00",
+    "hashrate": "53,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651662/antminert17.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-t17-sha256-40ths/",
+    "price": "$ 687.00",
+    "hashrate": "40,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651505/avalonminer-1047.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 1047 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/avalonminer-1047-sha256-37ths/",
+    "price": "$ 1,132.00",
+    "hashrate": "37,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309647/antminer-s15.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S15 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-s15-sha-256-28ths/",
+    "price": "$ 512.00",
+    "hashrate": "28,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935009/microbt-whatsminer-m30s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M30S ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/microbt-whatsminer-m30s-sha256-86ths/",
+    "price": "$ 2,297.02",
+    "hashrate": "86,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935049/microbt-whatsminer-m31splus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M31S+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/microbt-whatsminer-m31splus-sha256-76ths/",
+    "price": "$ 1,924.53",
+    "hashrate": "76,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305486/avalonminer-1146-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 1066 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/canaan-creative/avalonminer-1066-pro-sha256-55ths/",
+    "price": "$ 999.00",
+    "hashrate": "55,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935048/microbt-whatsminer-m31s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M31S ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/microbt-whatsminer-m31s-sha256-70ths/",
+    "price": "$ 1,800.37",
+    "hashrate": "70,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651662/antminert17.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-t17-sha256-40ths/",
+    "price": "$ 951.00",
+    "hashrate": "40,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639956/avalonminer-1066.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 1066 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/avalonminer-1066-sha256-50ths/",
+    "price": "$ 870.89",
+    "hashrate": "50,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651449/s17e.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17e ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s17e-sha-256-64ths/",
+    "price": "$ 1,910.00",
+    "hashrate": "64,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651450/t17e.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17e ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-t17e-sha256-53ths/",
+    "price": "$ 1,295.62",
+    "hashrate": "53,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651685/antminer-t17plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-t17plus-sha256-64ths/",
+    "price": "$ 1,749.09",
+    "hashrate": "64,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651450/t17e.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17e ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-t17e-sha256-53ths/",
+    "price": "$ 1,295.00",
+    "hashrate": "53,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521166/innosilicon-t2-turbo.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T2 Turbo ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/innosilicon-t2-turbo-sha-256-30ths/",
+    "price": "$ 429.00",
+    "hashrate": "30,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651684/s17plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-s17plus-sha-256-73ths/",
+    "price": "$ 2,526.47",
+    "hashrate": "73,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305495/innosilicon-t3pluspro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "T3+Pro SHA256 (67TH/s) ASIC",
+    "link": "https://www.cryptocompare.com/mining/innosilicon/innosilicon-t3pluspro-67t-sha256-67ths/",
+    "price": "$ 1,999.00",
+    "hashrate": "67,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651685/antminer-t17plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-t17plus-sha256-64ths/",
+    "price": "$ 1,890.00",
+    "hashrate": "64,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305470/ebit-e12plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebit Miner E12+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/ebang-communication/ebit-miner-e12plus-sha256-50ths/",
+    "price": "$ 1,500.00",
+    "hashrate": "50,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651449/s17e.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17e ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-s17e-sha-256-64ths/",
+    "price": "$ 2,137.78",
+    "hashrate": "64,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650803/antminer-t17.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-t17-sha256-42ths/",
+    "price": "$ 1,204.92",
+    "hashrate": "42,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650803/antminer-t17.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-t17-sha256-40ths/",
+    "price": "$ 1,110.00",
+    "hashrate": "40,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650640/whatsminer-m20s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M20S ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/microbt-whatsminer-m20s-sha256-68ths/",
+    "price": "$ 2,137.78",
+    "hashrate": "68,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651670/whatsminerm21s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M21s ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/microbt-whatsminer-m21s-sha256-56ths/",
+    "price": "$ 1,390.00",
+    "hashrate": "56,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36569360/canaan-1146.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Canaan Avalon 1146 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/canaan-avalon-1146-sha256-56ths/",
+    "price": "$ 1,550.00",
+    "hashrate": "56,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651449/s17e.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17e ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros/antminer-s17e-sha-256-64ths/",
+    "price": "$ 2,349.00",
+    "hashrate": "64,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35264139/bitmain-antminer-t15.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T15 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-t15-sha-256-22ths/",
+    "price": "$ 421.00",
+    "hashrate": "22,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935208/innosilicon-t3plus-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T3+ Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-t3plus-pro-sha256-67ths/",
+    "price": "$ 2,289.60",
+    "hashrate": "67,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651516/innosilicon-t3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T3+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-t3plus-sha256-57ths/",
+    "price": "$ 1,608.91",
+    "hashrate": "57,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36569361/canaan-1166.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Canaan Avalon 1166 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/canaan-avalon-1166-sha256-68ths/",
+    "price": "$ 2,470.00",
+    "hashrate": "68,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651669/whatsminerm20.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M20 ASIC",
+    "link": "https://www.cryptocompare.com/mining/whatsminer/microbt-whatsminer-m20-sha256-45ths/",
+    "price": "$ 1,618.00",
+    "hashrate": "45,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36569388/innosilicont3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T3+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/innosilicon-t3plus-sha256-67ths/",
+    "price": "$ 2,360.00",
+    "hashrate": "67,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651450/t17e.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17e ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-t17e-sha256-53ths/",
+    "price": "$ 1,665.00",
+    "hashrate": "53,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651668/whatsminerm20s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M20S ASIC",
+    "link": "https://www.cryptocompare.com/mining/whatsminer/microbt-whatsminer-m20s-sha256-68ths/",
+    "price": "$ 2,316.00",
+    "hashrate": "68,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651454/ebang-e12.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebang E12 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/ebang-e12-sha256-44ths/",
+    "price": "$ 1,360.40",
+    "hashrate": "44,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651663/whatsminerm20.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M20 ASIC",
+    "link": "https://www.cryptocompare.com/mining/whats-miner/microbt-whatsminer-m20-sha256-45ths/",
+    "price": "$ 1,819.00",
+    "hashrate": "45,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651665/whatsminierm21.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M21 ASIC",
+    "link": "https://www.cryptocompare.com/mining/whats-miner/microbt-whatsminer-m21-sha256-28ths/",
+    "price": "$ 888.00",
+    "hashrate": "28,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651670/whatsminerm21s.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT WhatsMiner M21s ASIC",
+    "link": "https://www.cryptocompare.com/mining/whatsminer/microbt-whatsminer-m21s-sha256-54ths/",
+    "price": "$ 1,508.00",
+    "hashrate": "54,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651664/whatsminer21ms.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M21s ASIC",
+    "link": "https://www.cryptocompare.com/mining/whats-miner/microbt-whatsminer-m21s-sha256-56ths/",
+    "price": "$ 1,799.00",
+    "hashrate": "56,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651662/antminert17.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-s17-pro-sha256-50ths/",
+    "price": "$ 2,503.00",
+    "hashrate": "50,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651666/antminer-s9-se.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 SE ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-s9-se-sha256-16ths/",
+    "price": "$ 342.13",
+    "hashrate": "16,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655915/antminer-s9i.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9I ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-s9i-sha-256-14-ths/",
+    "price": "$ 161.73",
+    "hashrate": "14,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935191/handshake-mars-h1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Handshake Mars H1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/handshake-mars-h1-blake2b-80-ghs/",
+    "price": "$ 2,095.15",
+    "hashrate": "80.0 GH/s",
+    "coin": " HNS"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651619/m21.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M21 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/microbt-whatsminer-m21-sha256-31ths/",
+    "price": "$ 1,825.20",
+    "hashrate": "31,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37071973/imperium-r2-fpga-multi-algo.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Imperium R2 FPGA",
+    "link": "https://www.cryptocompare.com/mining/fpga-guide/imperium-r2-fpga-multi-algo/",
+    "price": "$ 2,299.00",
+    "hashrate": "8.0 GH/s",
+    "coin": " HNS"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37071974/imperium-f2-fpga-multi-algo.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Imperium F2 FPGA",
+    "link": "https://www.cryptocompare.com/mining/fpga-guide/imperium-f2-fpga-multi-algo-financed-hosted/",
+    "price": "$ 625.00",
+    "hashrate": "7,100.0 MH/s",
+    "coin": " HNS"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305501/innosilicon-a6plus-ltc-master.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "A6+ LTC Master ASIC",
+    "link": "https://www.cryptocompare.com/mining/innosilicon/innosilicon-a6plus-ltc-master-scrypt-22ghs/",
+    "price": "$ 3,000.00",
+    "hashrate": "2,200.0 GH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305507/microbt-m32-68th.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT WhatsMiner M32-68T ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/microbt-whatsminer-m32-68t-sha256-68ths/",
+    "price": "$ 1,460.00",
+    "hashrate": "68,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305496/innosilicon-t3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "T3+ 57T ASIC",
+    "link": "https://www.cryptocompare.com/mining/innosilicon/innosilicon-t3plus-57t-sha256-57ths/",
+    "price": "$ 1,666.00",
+    "hashrate": "57,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305499/innosilicon-t2t-29t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "T2T-29T ASIC",
+    "link": "https://www.cryptocompare.com/mining/innosilicon/innosilicon-t2t-29t-sha256-29ths/",
+    "price": "$ 499.00",
+    "hashrate": "29,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305498/innosilicon-t3-40ths.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "T3-40T ASIC",
+    "link": "https://www.cryptocompare.com/mining/innosilicon/innosilicon-t3-40t-sha256-40ths/",
+    "price": "$ 1,480.00",
+    "hashrate": "40,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305510/goldshell-hs1-plus.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Goldshell HS1 Plus ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/goldshell-hs1-plus-blake2b-plus-sha3-105ghs/",
+    "price": "$ 440.00",
+    "hashrate": "105.0 GH/s",
+    "coin": " HNS"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305627/pandaminer-b7.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "PandaMiner B7 Ethash 230MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/pandaminer/pandaminer-b7-ethash-230mhs/",
+    "price": "$ 1,935.00",
+    "hashrate": "230.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305630/pandaminer-b9.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "PandaMiner B9 Ethash 330MH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/pandaminer/pandaminer-b9-ethash-330mhs/",
+    "price": "$ 3,280.00",
+    "hashrate": "330.0 MH/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305528/cheetah-miner-f5i.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Cheetah Miner F5i ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/cheetah-miner-f5i-sha256-60ths/",
+    "price": "$ 2,360.00",
+    "hashrate": "60,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935174/aladdin-l2.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "ALADDIN L2 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/aladdin-l2-sha256-30ths/",
+    "price": "$ 659.59",
+    "hashrate": "30,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639952/aisen-a1-25t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Aisen A1 25T ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/aisen-a1-25t-sha-256-24ths/",
+    "price": "$ 218.00",
+    "hashrate": "24,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650804/innosilicon-t2-turbo-30.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T2 Turbo ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/innosilicon-t2-turbo-sha-256-30ths/",
+    "price": "$ 680.00",
+    "hashrate": "30,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651622/t3-50t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-t3-sha256-50ths/",
+    "price": "$ 1,684.31",
+    "hashrate": "50,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305470/ebit-e12plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebit Miner E12+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/ebit-miner-e12plus-sha256-50ths/",
+    "price": "$ 2,320.00",
+    "hashrate": "50,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309649/bitmain-s11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S11 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-s11-sha-256-195ths/",
+    "price": "$ 362.00",
+    "hashrate": "19,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651752/pandaminer-p3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "PandaMiner P3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/pandaminer/pandaminer-p3-sha-256-44ths/",
+    "price": "$ 1,350.00",
+    "hashrate": "44,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651666/antminer-s9-se.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 SE ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s9-se-sha256-16ths/",
+    "price": "$ 305.00",
+    "hashrate": "16,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651666/antminer-s9-se.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 SE ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-s9-se-sha256-16ths/",
+    "price": "$ 254.00",
+    "hashrate": "16,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651620/s9k.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "BITMAIN S9K ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/bitmain-s9k-sha-256-14ths/",
+    "price": "$ 285.03",
+    "hashrate": "14,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651671/whatsminerm21.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT WhatsMiner M21 ASIC",
+    "link": "https://www.cryptocompare.com/mining/whatsminer/microbt-whatsminer-m21-sha256-28ths/",
+    "price": "$ 820.00",
+    "hashrate": "28,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521166/innosilicon-t2-turbo.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T2 Turbo ASIC",
+    "link": "https://www.cryptocompare.com/mining/ecos-cloud-mining/innosilicon-t2-turbo-sha-256-30ths/",
+    "price": "$ 1,137.00",
+    "hashrate": "30,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651514/ebit-e11plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebang E11+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/ecos-cloud-mining/ebang-e11plus-sha-256-37ths/",
+    "price": "$ 2,725.00",
+    "hashrate": "37,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650316/s17-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17 Pro 50 ASIC",
+    "link": "https://www.cryptocompare.com/mining/ecos-cloud-mining/antminer-s17-pro-50-sha-256-63ths/",
+    "price": "$ 5,995.00",
+    "hashrate": "63,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650803/antminer-t17.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/ecos-cloud-mining/antminer-t17plus-sha-256-38ths/",
+    "price": "$ 1,405.00",
+    "hashrate": "38,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651515/innosilicon-t3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/ecos-cloud-mining/innosilicon-t3-sha-256-40ths/",
+    "price": "$ 3,114.00",
+    "hashrate": "40,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305527/cheetah-miner-f1-24t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Cheetah Miner F1-24T ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/cheetah-miner-f1-24t-sha256-24ths/",
+    "price": "$ 440.00",
+    "hashrate": "24,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305512/asicminer-8-nano-pro.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "ASICminer 8 Nano Pro ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/asicminer-8-nano-pro-sha256-76ths/",
+    "price": "$ 6,417.00",
+    "hashrate": "76,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639954/antminer-b7.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer B7 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-b7-tensority-96khs/",
+    "price": "$ 935.00",
+    "hashrate": "96.0 KH/s",
+    "coin": " BTM"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521166/innosilicon-t2-turbo.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "INNOSILICON T2 TURBO ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-t2-turbo-t2t-miner-37ths/",
+    "price": "$ 971.71",
+    "hashrate": "37,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651449/s17e.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S17+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/ecos-cloud-mining/antminer-s17plus-sha-256-56ths/",
+    "price": "$ 5,060.00",
+    "hashrate": "56,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651454/ebang-e12.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 1041 ASIC",
+    "link": "https://www.cryptocompare.com/mining/ecos-cloud-mining/avalonminer-1041-sha-256-31ths/",
+    "price": "$ 1,168.00",
+    "hashrate": "31,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35309650/dr5.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer DR5 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-dr5-blake256r14-34ths/",
+    "price": "$ 741.00",
+    "hashrate": "34,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305526/canaan-avalon-911.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Canaan AvalonMiner 911 ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/canaan-avalonminer-911-sha256-195ths/",
+    "price": "$ 595.00",
+    "hashrate": "19,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651678/bitfury-tardis.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Bitfury Clarke Rig",
+    "link": "https://www.cryptocompare.com/mining/bitfury/bitfury-tardis-sha256-72ths/",
+    "price": "$ 3,021.00",
+    "hashrate": "72,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478500/antminer-s9j.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9j ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-s9j-sha-256-145ths/",
+    "price": "$ 281.00",
+    "hashrate": "14,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478500/antminer-s9j.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9j ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-s9j-sha-256-14ths/",
+    "price": "$ 585.00",
+    "hashrate": "14,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655915/antminer-s9i.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9I ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-s9i-sha-256-14-ths/",
+    "price": "$ 262.00",
+    "hashrate": "14,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001977/antminer-x3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer X3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-x3-cryptonight-220khs/",
+    "price": "$ 71.00",
+    "hashrate": "220.0 KH/s",
+    "coin": " XMO"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/19540/avalonnano.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Avalon Nano BTC USB Mining Equipment 3.6 GH/s USB",
+    "link": "https://www.cryptocompare.com/mining/avalon/avalon-nano-btc-usb-mining-equipment-36-ghs/",
+    "price": "$ 450.00",
+    "hashrate": "7.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/19539/avalon4.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Avalon 4.1 BTC Mining Equipment – 1.3 TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/avalon/avalon-41-btc-mining-equipment-13-ths/",
+    "price": "$ 64.22 k",
+    "hashrate": "1,300.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/19539/avalon4.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Avalon 4.1 BTC Mining Equipment 4.2 TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/avalon/avalon-41-btc-mining-equipment-42-ths/",
+    "price": "$ 1,550.00",
+    "hashrate": "3,900.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350668/avalon-miner-6.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Avalon 6.0 BTC Mining Equipment 3.7 TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/avalon/avalon-60-btc-mining-equipment-37-ths/",
+    "price": "$ 201.67 k",
+    "hashrate": "3,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382718/mineshop-zcash.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Zcash Mining Rigs 1300H/s Rig",
+    "link": "https://www.cryptocompare.com/mining/mineshop/zcash-mining-rig-1300hs/",
+    "price": "$ 2,357.73",
+    "hashrate": "1,165.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/352238/eth_rig_125.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Monero Mining Rig 3200 H/s Rig",
+    "link": "https://www.cryptocompare.com/mining/mineshop/monero-mining-rig-3200hs/",
+    "price": "$ 2,142.90",
+    "hashrate": "3,200.0 H/s",
+    "coin": " XMR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383988/avalon741-1080-1.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 741 BTC Mining Equipment 7.3 TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/avalon/avalonminer-741-btc-mining-equipment-73-ths/",
+    "price": "$ 199.00",
+    "hashrate": "7,300.0 MH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383985/antminer-d3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer D3 DASH 17 GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/gigawatt/antminer-d3-dash-17-ghs/",
+    "price": "$ 800.00",
+    "hashrate": "17.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913592/asic-miner-market-baikal-giant-a900-dash-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal Giant-A900 ASIC",
+    "link": "https://www.cryptocompare.com/mining/asic-miner-market/baikal-giant-a900-x11-900mhs/",
+    "price": "$ 800.00",
+    "hashrate": "900.0 MH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913594/asic-miner-market-bitcoin-miner-avalon-721-6th-asic.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Avalon 721 ASIC",
+    "link": "https://www.cryptocompare.com/mining/asic-miner-market/avalon-721-sha-256-6ths/",
+    "price": "$ 850.00",
+    "hashrate": "6,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/14913627/asic-miner-market-antminer-l3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/asic-miner-market/antminer-l3-scrypt-504mhs/",
+    "price": "$ 1,880.00",
+    "hashrate": "250.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/16746598/nvidia-gigabyte-gtx-1070-8gb.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "nVidia GigaByte GeForce GTX 1070 G1 8GB Zcash Mining GPU",
+    "link": "https://www.cryptocompare.com/mining/nvidia/nvidia-gigabyte-geforce-gtx-1070-g1-8gb-zcash-mining/",
+    "price": "$ 499.99",
+    "hashrate": "445.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/16746635/nvidia-evga-geforce-gtx-1080-ti-ftw3-11gb-gddr5x.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "nVidia EVGA GeForce GTX 1080 Ti FTW3 11GB Monero Mining GPU",
+    "link": "https://www.cryptocompare.com/mining/nvidia/nvidia-evga-geforce-gtx-1080-ti-ftw3-11gb/",
+    "price": "$ 799.99",
+    "hashrate": "910.0 H/s",
+    "coin": " XMR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780712/antminer-s7-bitcoin-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S7 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coinminer/antminer-s7-sha-256-473ths/",
+    "price": "$ 999.00",
+    "hashrate": "4,730.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780716/antminer-s9-135ths.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coinminer/antminer-s9-sha-256-135ths/",
+    "price": "$ 6,125.00",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350898/antminer-s9-bitcoin-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 13TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmart/antminer-s9-13ths/",
+    "price": "$ 398.97",
+    "hashrate": "13,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383985/antminer-d3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer D3 Dash Miner 19.3GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmart/antminer-d3-dash-miner-193ghs/",
+    "price": "$ 134.93",
+    "hashrate": "19,300.0 MH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-l3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3+ Litecoin Miner 504MH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmart/antminer-l3plus-litecoin-miner-504mhs/",
+    "price": "$ 204.25",
+    "hashrate": "504.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780717/baikal-giant-b.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal GIANT-B Decred Miner 160GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmart/baikal-giant-b-decred-miner-160ghs/",
+    "price": "$ 1,576.00",
+    "hashrate": "160.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780765/baikal-giant-x10-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal Giant X10 Dash Miner 10GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmart/baikal-giant-x10-dash-miner-10ghs/",
+    "price": "$ 2,059.37",
+    "hashrate": "10.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780717/baikal-giant-b.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-B ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros-india/baikal-bk-b-multi-algo/",
+    "price": "$ 599.00",
+    "hashrate": "160.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/350898/antminer-s9-bitcoin-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "S9 Antminer ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros-india/antminer-s9-sha-256-135ths/",
+    "price": "$ 2,900.00",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/27010578/maximus-zcash-mining-rig.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Maximus ZEC Mining Rig 4400 Sol/s Rig",
+    "link": "https://www.cryptocompare.com/mining/miningstore/maximus-zec-mining-rig-4400-sols/",
+    "price": "$ 5,754.00",
+    "hashrate": "4,400.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/27010579/nexus-zcash-mining-rig.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Nexus ZEC Mining Rig 2.4KH/s Rig",
+    "link": "https://www.cryptocompare.com/mining/miningstore/nexus-zec-mining-rig-24khs/",
+    "price": "$ 5,600.00",
+    "hashrate": "2,400.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/27010580/olympian-zcash-mining-rig.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Olympian ZEC Mining Rig 3600 Sols/s Rig",
+    "link": "https://www.cryptocompare.com/mining/miningstore/olympian-zec-mining-rig-3600-solss/",
+    "price": "$ 5,338.20",
+    "hashrate": "3,600.0 H/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/27010611/avalonminer-741.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 741 BTC 7.3TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/canaan-creative/avalonminer-741-sha256-73ths/",
+    "price": "$ 1,450.00",
+    "hashrate": "7,300.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/27010611/avalonminer-741.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 761 ASIC",
+    "link": "https://www.cryptocompare.com/mining/canaan-creative/avalonminer-761-sha256-88ths/",
+    "price": "$ 1,860.00",
+    "hashrate": "8,800.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/27010613/avalonminer-821.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 821 BTC 11TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/canaan-creative/avalonminer-821-sha256-11ths/",
+    "price": "$ 350.00",
+    "hashrate": "11,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001648/avalonminer-821-march.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 821 BTC 11TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/cryptouniverse/avalonminer-821-btc-11ths/",
+    "price": "$ 2,499.00",
+    "hashrate": "11,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001648/avalonminer-821-march.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 741 BTC 7,3TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/cryptouniverse/avalonminer-741-btc-7-3ths/",
+    "price": "$ 30.00",
+    "hashrate": "7,300.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780716/antminer-s9-135ths.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 BTC Mining Equipment 13TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/ironvault/antminer-s9-btc-mining-equipment-13ths/",
+    "price": "$ 560.00",
+    "hashrate": "13,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780765/baikal-giant-x10-miner.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-X DASH Mining Equipment 10 GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/ironvault/baikal-bk-x-dash-mining-equipment-10-ghs/",
+    "price": "$ 600.00",
+    "hashrate": "10.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001975/2pac.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "USB - Stick Miner GekkoScience 2Pac BTC 25GH/s USB",
+    "link": "https://www.cryptocompare.com/mining/cryptouniverse/usb-stick-miner-gekkoscience-2pac-btc-25ghs/",
+    "price": "$ 62.27",
+    "hashrate": "25.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001648/avalonminer-821-march.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "AvalonMiner 841 BTC 13TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/cryptouniverse/avalonminer-841-btc-13ths/",
+    "price": "$ 344.16",
+    "hashrate": "13,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30002330/antminer-b3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer B3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-b3-ethash-780-hs/",
+    "price": "$ 480.00",
+    "hashrate": "780.0 H/s",
+    "coin": " ETH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-l3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3++ ASIC",
+    "link": "https://www.cryptocompare.com/mining/bitmain/antminer-l3plusplus-scrypt-580mhs/",
+    "price": "$ 289.00",
+    "hashrate": "580.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655918/innosilicon-d9-decredmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon D9 DecredMaster DCR 2.4Th/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-store-5111/innosilicon-d9-decredmaster-dcr-24ths/",
+    "price": "$ 2,131.03",
+    "hashrate": "2,400.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34477957/avalon.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Avalon 821 BTC 11.5TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/blokforge/avalon-821-btc-115ths/",
+    "price": "$ 375.00",
+    "hashrate": "11,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478545/innosilicon-d9.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon D9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/miningcave/innosilicon-d9-2-8ths/",
+    "price": "$ 1,888.82",
+    "hashrate": "2,800.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835695/antminer-dr3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer DR3 + PSU DCR 7.8TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/antminer-dr3-plus-psu-dcr-78ths/",
+    "price": "$ 600.00",
+    "hashrate": "7,800.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478480/antminer-z9-mini.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 Mini + PSU 10Ksol/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/antminer-z9-mini-plus-psu-10ksols/",
+    "price": "$ 667.00",
+    "hashrate": "10.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-t9.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T9+ with PSU 10.5TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/antminer-t9plus-with-psu-105ths/",
+    "price": "$ 456.00",
+    "hashrate": "10,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655916/antminer-l3plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3++ with PSU 580MH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/antminer-l3plusplus-with-psu-580mhs/",
+    "price": "$ 570.00",
+    "hashrate": "580.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655916/antminer-l3plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3+ with PSU 504MH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/antminer-l3plus-with-psu-504mhs/",
+    "price": "$ 513.00",
+    "hashrate": "504.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478478/innosilicon-a9-zmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9 ZMaster + PSU ZEC 50Ksol/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/innosilicon-a9-zmaster-plus-psu-zec-50ksols/",
+    "price": "$ 3,021.00",
+    "hashrate": "50.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835704/innosilicon-t2-terminator.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon T2 Terminator + PSU BTC 12.2TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/innosilicon-t2-terminator-plus-psu-btc-122ths/",
+    "price": "$ 1,043.10",
+    "hashrate": "12,200.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655918/innosilicon-d9-decredmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon D9 DecredMaster + PSU DCR 2.4TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/innosilicon-d9-decredmaster-plus-psu-dcr-24ths/",
+    "price": "$ 1,236.90",
+    "hashrate": "2,400.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835709/baikal-bk-x10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-X10 + PSU DASH 10GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/baikal-bk-x10-plus-psu-dash-10ghs/",
+    "price": "$ 1,482.00",
+    "hashrate": "10.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835710/baikal-bk-d.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-D + PSU DCR 280GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/baikal-bk-d-plus-psu-dcr-280ghs/",
+    "price": "$ 1,675.80",
+    "hashrate": "280.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835712/baikal-bk-b.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-B ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/baikal-bk-b-multi-algo/",
+    "price": "$ 912.00",
+    "hashrate": "160.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835720/ibelink-dsm6t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "iBeLink DSM6T + PSU DCR 6TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/ibelink-dsm6t-plus-psu-dcr-6ths/",
+    "price": "$ 3,437.10",
+    "hashrate": "6,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835731/pangolin-whatsminer-m3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Pangolin Whatsminer M3 + PSU BTC 12TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/minerooio/pangolin-whatsminer-m3-plus-psu-btc-12ths/",
+    "price": "$ 456.00",
+    "hashrate": "12,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478481/antminer-z9.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 + PSU 40Ksols/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/antminer-z9-plus-psu-40ksolss/",
+    "price": "$ 2,349.00",
+    "hashrate": "40.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835695/antminer-dr3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer DR3 + PSU DCR 7.8TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/antminer-dr3-plus-psu-dcr-78ths/",
+    "price": "$ 1,099.00",
+    "hashrate": "7,800.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478480/antminer-z9-mini.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 Mini + PSU 10Ksol/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/antminer-z9-mini-plus-psu-10ksols/",
+    "price": "$ 1,099.00",
+    "hashrate": "10.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835710/baikal-bk-d.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-D + PSU DCR 280GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/baikal-bk-d-plus-psu-dcr-280ghs/",
+    "price": "$ 1,599.00",
+    "hashrate": "280.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835709/baikal-bk-x10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-X + PSU DASH 10GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/baikal-bk-x-plus-psu-dash-10ghs/",
+    "price": "$ 1,487.00",
+    "hashrate": "10.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835712/baikal-bk-b.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-B + PSU DCR 160GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/baikal-bk-b-multi-algo/",
+    "price": "$ 899.00",
+    "hashrate": "160.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655918/innosilicon-d9-decredmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon D9 DecredMaster + PSU DCR 2.4TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/innosilicon-d9-decredmaster-plus-psu-dcr-24ths/",
+    "price": "$ 1,869.00",
+    "hashrate": "2,400.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835894/strongu-stu-u1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "STRONGU STU-U1 + PSU DCR 11TH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/crypto-drilling/strongu-stu-u1-plus-psu-dcr-11ths/",
+    "price": "$ 1,394.00",
+    "hashrate": "11,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835709/baikal-bk-x10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-X + PSU DASH 10GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/baikal-bk-x-plus-psu-dash-10ghs/",
+    "price": "$ 1,230.00",
+    "hashrate": "10.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1383985/antminer-d3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer D3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-d3-plus-psu-x11-193ghs/",
+    "price": "$ 388.68",
+    "hashrate": "19,300.0 MH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835695/antminer-dr3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer DR3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-dr3-plus-psu-blake256r14-78ths/",
+    "price": "$ 392.00",
+    "hashrate": "7,800.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655916/antminer-l3plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3++ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-l3plusplus-with-psu-scrypt-580mhs/",
+    "price": "$ 323.89",
+    "hashrate": "580.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-t9.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T9+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-t9plus-with-psu-sha-256-105ths/",
+    "price": "$ 392.00",
+    "hashrate": "10,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/30001696/antminer-v9.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer V9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-v9-sha-256-4ths/",
+    "price": "$ 261.00",
+    "hashrate": "4,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478481/antminer-z9.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-z9-plus-psu-equilash-42-ksolss/",
+    "price": "$ 1,306.00",
+    "hashrate": "42.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835948/ffminer-decred-d18.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FFMINER DECRED D18 + PSU 340GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/ffminer-decred-d18-plus-psu-340ghs/",
+    "price": "$ 836.00",
+    "hashrate": "340.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835949/ffminer-ds19-dcr.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FF Miner DS19 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/ff-miner-ds19-plus-psu-blake256-31ths/",
+    "price": "$ 1,569.00",
+    "hashrate": "3,100.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655918/innosilicon-d9-decredmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon D9 DecredMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-d9-decredmaster-plus-psu-blake256-24ths/",
+    "price": "$ 1,878.65",
+    "hashrate": "2,400.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835731/pangolin-whatsminer-m3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M3X ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/microbt-whatsminer-m3x-plus-psu-sha-256-125ths/",
+    "price": "$ 323.89",
+    "hashrate": "12,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835894/strongu-stu-u1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "StrongU STU-U1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/strongu-stu-u1-plus-psu-blake256-11ths/",
+    "price": "$ 1,505.00",
+    "hashrate": "11,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835982/baikal-miner-bk-g28.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal Miner BK-G28 + PSU DASH 58GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros/baikal-miner-bk-g28-plus-psu-dash-28ghs/",
+    "price": "$ 1,501.00",
+    "hashrate": "28.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835708/baikal-bk-n240.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal Miner BK-G28 + PSU DASH 28GH/s ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/baikal-miner-bk-g28-plus-psu-dash-28ghs/",
+    "price": "$ 1,554.74",
+    "hashrate": "28.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521115/antminer-d5.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer D5 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-d5-plus-psu-x11-119ghs/",
+    "price": "$ 1,629.00",
+    "hashrate": "119.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655916/antminer-l3plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3++ ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-l3plusplus-scrypt-580mhs/",
+    "price": "$ 480.00",
+    "hashrate": "580.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521224/antminer-t9plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T9+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-t9plus-sha-256-105ths/",
+    "price": "$ 542.00",
+    "hashrate": "10,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835695/antminer-dr3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer DR3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-dr3-blake256r14-78ths/",
+    "price": "$ 565.00",
+    "hashrate": "7,800.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521115/antminer-d5.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer D5 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/antminer-d5-x11-119ghs/",
+    "price": "$ 1,555.00",
+    "hashrate": "119.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835710/baikal-bk-d.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-D ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/baikal-bk-d-plus-psu-blake256-280ghs/",
+    "price": "$ 1,582.99",
+    "hashrate": "280.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835982/baikal-miner-bk-g28.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-G28 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/baikal-bk-g28-plus-psu-x11-28ghs/",
+    "price": "$ 1,807.65",
+    "hashrate": "28.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835709/baikal-bk-x10.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-X10 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/baikal-bk-x10-plus-psu-x11-10ghs/",
+    "price": "$ 1,694.04",
+    "hashrate": "10.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521230/fusionsilicon-x7.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FusionSilicon X7 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/fusionsilicon-x7-x11-262ghs/",
+    "price": "$ 2,177.40",
+    "hashrate": "262.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835721/ibelink-dsm7t.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "iBeLink DSM7T ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/ibelink-dsm7t-plus-psu-blake256-7ths/",
+    "price": "$ 3,783.66",
+    "hashrate": "7,000.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/32655918/innosilicon-d9-decredmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon D9 DecredMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/innosilicon-d9-decredmaster-blake256-24ths/",
+    "price": "$ 1,932.30",
+    "hashrate": "2,400.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34835731/pangolin-whatsminer-m3.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/microbt-whatsminer-m3-plus-psu-sha256-12ths/",
+    "price": "$ 394.79",
+    "hashrate": "12,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521235/innosilicon-a9plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9+ ZMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/innosilicon-a9plus-zmaster-equilash-120-ksols/",
+    "price": "$ 6,794.40",
+    "hashrate": "120.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521218/a9plusplus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9++ ZMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/redbag-technologies/innosilicon-a9plusplus-zmaster-equilash-140-ksols/",
+    "price": "$ 7,068.00",
+    "hashrate": "140.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521203/antminer-z11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z11 ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros/antminer-z11-equilash-135ksolss/",
+    "price": "$ 1,799.00",
+    "hashrate": "135.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521230/fusionsilicon-x7.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FusionSilicon X7 ASIC",
+    "link": "https://www.cryptocompare.com/mining/miner-bros/fusionsilicon-x7-x11-262ghs/",
+    "price": "$ 949.00",
+    "hashrate": "262.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34477965/antminer-z9-408k.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/antminer-z9-equilash-42-ksolss/",
+    "price": "$ 1,180.99",
+    "hashrate": "42.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650453/product-500x500.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal BK-G28 ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/baikal-bk-g28-multi-algo/",
+    "price": "$ 1,250.99",
+    "hashrate": "28,000,000,000.0 H/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478342/spondoolies-spx36.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Spondoolies SPx36 ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/spondoolies-spx36-x11-540ghs/",
+    "price": "$ 4,200.99",
+    "hashrate": "540.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521230/fusionsilicon-x7.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FusionSilicon X7+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/satoshi-miners/fusionsilicon-x7plus-x11-330ghs/",
+    "price": "$ 2,095.99",
+    "hashrate": "330.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650805/e9i.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebang Ebit E9i+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/ebang-ebit-e9iplus-135-ths/",
+    "price": "$ 460.00",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651506/blackminer-f1plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Blackminer F1+ FPGA",
+    "link": "https://www.cryptocompare.com/mining/fpga-guide/blackminer-f1plus-fpga-multi-algo/",
+    "price": "$ 2,350.00",
+    "hashrate": "7,560.0 MH/s",
+    "coin": " DGB"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651528/blackminer-f1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Blackminer F1 FPGA",
+    "link": "https://www.cryptocompare.com/mining/fpga-guide/blackminer-f1-fpga-multi-algo/",
+    "price": "$ 1,350.00",
+    "hashrate": "5,040.0 MH/s",
+    "coin": " DGB"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651545/blackminer-f1-mini.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Blackminer F1 Mini FPGA",
+    "link": "https://www.cryptocompare.com/mining/fpga-guide/blackminer-f1-mini-fpga-multi-algo-260-mhs/",
+    "price": "$ 179.00",
+    "hashrate": "260.0 MH/s",
+    "coin": " DGB"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651619/m21.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MicroBT Whatsminer M21s ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/microbt-whatsminer-m21s-sha256-27ths/",
+    "price": "$ 1,425.18",
+    "hashrate": "27,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-l3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-l3plus-scrypt-504mhs/",
+    "price": "$ 259.11",
+    "hashrate": "504.0 MH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651623/ebang-ebit-e103.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "EBANG EBIT E10.3 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/ebang-ebit-e103-sha-256-24ths/",
+    "price": "$ 518.24",
+    "hashrate": "24,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478478/innosilicon-a9-zmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A9 ZMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/innosilicon-a9-zmaster-50ksols/",
+    "price": "$ 609.00",
+    "hashrate": "50.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478480/antminer-z9-mini.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 Mini ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-z9-mini-equilash-10ksols/",
+    "price": "$ 109.00",
+    "hashrate": "10.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34477965/antminer-z9-408k.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-z9-equilash-42-ksolss/",
+    "price": "$ 330.00",
+    "hashrate": "42.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/20780716/antminer-s9-135ths.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-s9-sha-256-135ths/",
+    "price": "$ 144.00",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/1382997/antminer-l3plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer L3+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-l3plus-scrypt-504mhs/",
+    "price": "$ 73.00",
+    "hashrate": "504.0 MH/s",
+    "coin": " LTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35651620/s9k.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer S9k ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-s9k-sha256-135ths/",
+    "price": "$ 254.00",
+    "hashrate": "13,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36639953/bk-g28.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Baikal Miner BK-G28 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/baikal-miner-bk-g28-dash-28ghs/",
+    "price": "$ 576.00",
+    "hashrate": "28.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521224/antminer-t9plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer T9+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-t9plus-sha-256-105ths/",
+    "price": "$ 195.00",
+    "hashrate": "10,500.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521203/antminer-z11.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z11 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/antminer-z11-equilash-135ksolss/",
+    "price": "$ 1,201.00",
+    "hashrate": "135.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35521230/fusionsilicon-x7.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "FusionSilicon X7 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/fusionsilicon-x7-x11-262ghs/",
+    "price": "$ 539.00",
+    "hashrate": "262.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36798751/strongu-stu-u6.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "StrongU STU-U6 ASIC",
+    "link": "https://www.cryptocompare.com/mining/mining-wholesale/strongu-stu-u6-x11-440ghs/",
+    "price": "$ 637.00",
+    "hashrate": "440.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935085/bitmain-antminer-k5.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "BITMAIN ANTMINER K5 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/bitmain-antminer-k5-eaglesong-1130ghs/",
+    "price": "$ 1,742.34",
+    "hashrate": "1,130.0 GH/s",
+    "coin": " CKB"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935177/antminer-z11j.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z11J ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/antminer-z11j-equilash-105ksolss/",
+    "price": "$ 1,430.75",
+    "hashrate": "105.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935190/ebang-ebit-e102.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "EBANG EBIT E10.2 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/ebang-ebit-e102-sha-256-27ths/",
+    "price": "$ 801.08",
+    "hashrate": "27,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935193/innosilicon-a5plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon A5+ ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-a5plus-x11-65ghs/",
+    "price": "$ 2,156.78",
+    "hashrate": "65.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935201/innosilicon-d9plus.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Innosilicon D9+ DecredMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/innosilicon-d9plus-decredmaster-blake256r14-28ths/",
+    "price": "$ 1,794.55",
+    "hashrate": "2,800.0 GH/s",
+    "coin": " DCR"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935209/microbt-whatsminer-m1.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "MICROBT WHATSMINER M1 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/microbt-whatsminer-m1-sha-256-12ths/",
+    "price": "$ 247.51",
+    "hashrate": "12,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/34478342/spondoolies-spx36.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Spondoolies SPx36 ASIC",
+    "link": "https://www.cryptocompare.com/mining/coin-mining-central/spondoolies-spx36-x11-540ghs/",
+    "price": "$ 1,241.63",
+    "hashrate": "540.0 GH/s",
+    "coin": " DASH"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305480/ebit-miner-e106.jpg?anchor=center&mode=crop&width=100&height=100",
+    "name": "Ebit Miner E10.6 ASIC",
+    "link": "https://www.cryptocompare.com/mining/ebang-communication/ebit-miner-e106-sha256-16ths/",
+    "price": "$ 590.00",
+    "hashrate": "16,000.0 GH/s",
+    "coin": " BTC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305500/innosilicon-equihash-a9plusplus-zmaster.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "A9++ ZMaster ASIC",
+    "link": "https://www.cryptocompare.com/mining/innosilicon/innosilicon-a9plusplus-zmaster-equihash-140ksols/",
+    "price": "$ 2,900.00",
+    "hashrate": "140.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/36935176/antminer-z11e.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "Antminer Z11E ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/antminer-z11e-equihash-80-ksols/",
+    "price": "$ 990.00",
+    "hashrate": "80.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/35650455/asicminer-zeon.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "ASICminer Zeon 180K ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/asicminer-zeon-180k-equihash-180ksols/",
+    "price": "$ 9,900.00",
+    "hashrate": "180.0 KH/s",
+    "coin": " ZEC"
+  },
+  {
+    "image": "https://www.cryptocompare.com/media/37305536/asicminer-equihash-40k.png?anchor=center&mode=crop&width=100&height=100",
+    "name": "ASICminer Equihash 40K ASIC",
+    "link": "https://www.cryptocompare.com/mining/sesterce-mining/asicminer-equihash-40k-equihash-40ksols/",
+    "price": "$ 1,075.00",
+    "hashrate": "40.0 KH/s",
+    "coin": " ZEC"
+  }
+]

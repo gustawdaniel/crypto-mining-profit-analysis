@@ -1,0 +1,5003 @@
+[
+  {
+    "name": "Antminer S3",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 478000000000,
+        "power_consumption": 366
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 60,
+    "prices": [
+      {
+        "date": 1404172800,
+        "price": 382
+      }
+    ],
+    "release_date": "07/2014",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S5",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 1155000000000,
+        "power_consumption": 590
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 60,
+    "prices": [],
+    "release_date": "12/2014",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S7",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 4730000000000,
+        "power_consumption": 1293
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 62,
+    "prices": [],
+    "release_date": "09/2015",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S9 - 11.5Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 11500000000000,
+        "power_consumption": 1127
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 85,
+    "prices": [],
+    "release_date": "06/2016",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S7-LN",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 2700000000000,
+        "power_consumption": 697
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 48,
+    "prices": [],
+    "release_date": "06/2016",
+    "comment": ""
+  },
+  {
+    "name": "Quadruple Mini Miner",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 600000000,
+        "power_consumption": 160
+      },
+      {
+        "algorithm": "X13",
+        "coin": "DeepOnion",
+        "hashrate": 600000000,
+        "power_consumption": 184
+      },
+      {
+        "algorithm": "X14",
+        "coin": "BERNcash",
+        "hashrate": 600000000,
+        "power_consumption": 188
+      },
+      {
+        "algorithm": "X15",
+        "coin": "Kobocoin",
+        "hashrate": 600000000,
+        "power_consumption": 192
+      },
+      {
+        "algorithm": "Quark",
+        "coin": "Quark",
+        "hashrate": 600000000,
+        "power_consumption": 100
+      },
+      {
+        "algorithm": "Qubit",
+        "coin": "DigiByte",
+        "hashrate": 600000000,
+        "power_consumption": 112
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 50,
+    "prices": [],
+    "release_date": "08/2016",
+    "comment": ""
+  },
+  {
+    "name": "Mini Miner",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 150000000,
+        "power_consumption": 40
+      },
+      {
+        "algorithm": "X13",
+        "coin": "DeepOnion",
+        "hashrate": 150000000,
+        "power_consumption": 46
+      },
+      {
+        "algorithm": "X14",
+        "coin": "BERNcash",
+        "hashrate": 150000000,
+        "power_consumption": 47
+      },
+      {
+        "algorithm": "X15",
+        "coin": "Kobocoin",
+        "hashrate": 150000000,
+        "power_consumption": 48
+      },
+      {
+        "algorithm": "Quark",
+        "coin": "Quark",
+        "hashrate": 150000000,
+        "power_consumption": 25
+      },
+      {
+        "algorithm": "Qubit",
+        "coin": "DigiByte",
+        "hashrate": 150000000,
+        "power_consumption": 28
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 45,
+    "prices": [],
+    "release_date": "09/2016",
+    "comment": ""
+  },
+  {
+    "name": "Giant A900",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 900000000,
+        "power_consumption": 217
+      },
+      {
+        "algorithm": "X13",
+        "coin": "DeepOnion",
+        "hashrate": 900000000,
+        "power_consumption": 255
+      },
+      {
+        "algorithm": "X14",
+        "coin": "BERNcash",
+        "hashrate": 900000000,
+        "power_consumption": 263
+      },
+      {
+        "algorithm": "X15",
+        "coin": "Kobocoin",
+        "hashrate": 900000000,
+        "power_consumption": 270
+      },
+      {
+        "algorithm": "Quark",
+        "coin": "Quark",
+        "hashrate": 900000000,
+        "power_consumption": 132
+      },
+      {
+        "algorithm": "Qubit",
+        "coin": "DigiByte",
+        "hashrate": 900000000,
+        "power_consumption": 146
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [],
+    "release_date": "10/2016",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S9 - 12.5Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 12500000000000,
+        "power_consumption": 1225
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 85,
+    "prices": [],
+    "release_date": "02/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer R4",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 8699999999999.999,
+        "power_consumption": 845
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 52,
+    "prices": [],
+    "release_date": "02/2017",
+    "comment": ""
+  },
+  {
+    "name": "AvalonMiner 741",
+    "manufacturer": "Canaan",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 7300000000000,
+        "power_consumption": 1150
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [],
+    "release_date": "04/2017",
+    "comment": ""
+  },
+  {
+    "name": "Miner Cube",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 300000000,
+        "power_consumption": 75
+      },
+      {
+        "algorithm": "X13",
+        "coin": "DeepOnion",
+        "hashrate": 300000000,
+        "power_consumption": 87
+      },
+      {
+        "algorithm": "X14",
+        "coin": "BERNcash",
+        "hashrate": 300000000,
+        "power_consumption": 89
+      },
+      {
+        "algorithm": "X15",
+        "coin": "Kobocoin",
+        "hashrate": 300000000,
+        "power_consumption": 91
+      },
+      {
+        "algorithm": "Quark",
+        "coin": "Quark",
+        "hashrate": 300000000,
+        "power_consumption": 50
+      },
+      {
+        "algorithm": "Qubit",
+        "coin": "DigiByte",
+        "hashrate": 300000000,
+        "power_consumption": 55
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 45,
+    "prices": [],
+    "release_date": "04/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer T9 - 11.5Th/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 11500000000000,
+        "power_consumption": 1450
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 68,
+    "prices": [],
+    "release_date": "04/2017",
+    "comment": ""
+  },
+  {
+    "name": "DR-3",
+    "manufacturer": "PinIdea",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 600000000,
+        "power_consumption": 345
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 50,
+    "prices": [],
+    "release_date": "04/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer L3+ - 504Mh/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Scrypt",
+        "coin": "Litecoin",
+        "hashrate": 504000000,
+        "power_consumption": 800
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "06/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S9 - 13Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 13000000000000,
+        "power_consumption": 1300
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      },
+      {
+        "url": "https://web.archive.org/web/20170615092905/https://www.cryptocompare.com/mining/bitmain/antminer-s9-miner/",
+        "access_time": "2020-01-09",
+        "comment": "Historical Price"
+      },
+      {
+        "url": "https://www.cryptocompare.com/mining/bitmain/antminer-s9i-sha256-145ths/",
+        "access_time": "2020-01-09",
+        "comment": "Current Price"
+      }
+    ],
+    "noise": 85,
+    "prices": [
+      {
+        "price": 1248,
+        "date": 1497477600
+      },
+      {
+        "price": 414,
+        "date": 1610146800
+      }
+    ],
+    "release_date": "07/2017",
+    "comment": ""
+  },
+  {
+    "name": "A4 Dominator",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Scrypt",
+        "coin": "Litecoin",
+        "hashrate": 280000000,
+        "power_consumption": 1050
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "07/2017",
+    "comment": ""
+  },
+  {
+    "name": "DM11G",
+    "manufacturer": "iBeLink",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 10800000000,
+        "power_consumption": 810
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 81,
+    "prices": [],
+    "release_date": "07/2017",
+    "comment": ""
+  },
+  {
+    "name": "Giant+ A2000",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 2000000000,
+        "power_consumption": 430
+      },
+      {
+        "algorithm": "X13",
+        "coin": "DeepOnion",
+        "hashrate": 1600000000,
+        "power_consumption": 430
+      },
+      {
+        "algorithm": "X14",
+        "coin": "BERNcash",
+        "hashrate": 1600000000,
+        "power_consumption": 440
+      },
+      {
+        "algorithm": "X15",
+        "coin": "Kobocoin",
+        "hashrate": 1600000000,
+        "power_consumption": 450
+      },
+      {
+        "algorithm": "Quark",
+        "coin": "Quark",
+        "hashrate": 2000000000,
+        "power_consumption": 248
+      },
+      {
+        "algorithm": "Qubit",
+        "coin": "DigiByte",
+        "hashrate": 2000000000,
+        "power_consumption": 280
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [],
+    "release_date": "08/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer T9 - 12.5Th/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 12500000000000,
+        "power_consumption": 1576
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 68,
+    "prices": [],
+    "release_date": "08/2017",
+    "comment": ""
+  },
+  {
+    "name": "DR-100",
+    "manufacturer": "PinIdea",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 19000000000,
+        "power_consumption": 900
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 55,
+    "prices": [],
+    "release_date": "08/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S9 - 13.5Th/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 13500000000000,
+        "power_consumption": 1323
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 85,
+    "prices": [],
+    "release_date": "09/2017",
+    "comment": ""
+  },
+  {
+    "name": "SX6",
+    "manufacturer": "Pantech",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 8500000000000,
+        "power_consumption": 1000
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [],
+    "release_date": "09/2017",
+    "comment": ""
+  },
+  {
+    "name": "DM22G",
+    "manufacturer": "iBeLink",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 22000000000,
+        "power_consumption": 810
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 81,
+    "prices": [],
+    "release_date": "09/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer D3 - 15Gh/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 15000000000,
+        "power_consumption": 1200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "09/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer D3 - 17.5Gh/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 17500000000,
+        "power_consumption": 1280
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "10/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer L3+ - 600Mh/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Scrypt",
+        "coin": "Litecoin",
+        "hashrate": 600000000,
+        "power_consumption": 910
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "10/2017",
+    "comment": ""
+  },
+  {
+    "name": "A5 DashMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 32500000000,
+        "power_consumption": 750
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "10/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer D3 - 19.3Gh/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 19300000000,
+        "power_consumption": 1350
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "10/2017",
+    "comment": ""
+  },
+  {
+    "name": "A4+ LTCMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Scrypt",
+        "coin": "Litecoin",
+        "hashrate": 620000000,
+        "power_consumption": 750
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 80,
+    "prices": [],
+    "release_date": "11/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S9 - 14Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 14000000000000,
+        "power_consumption": 1372
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 85,
+    "prices": [],
+    "release_date": "11/2017",
+    "comment": ""
+  },
+  {
+    "name": "BK-X",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 10000000000,
+        "power_consumption": 630
+      },
+      {
+        "algorithm": "Quark",
+        "coin": "Quark",
+        "hashrate": 10000000000,
+        "power_consumption": 360
+      },
+      {
+        "algorithm": "Qubit",
+        "coin": "DigiByte",
+        "hashrate": 10000000000,
+        "power_consumption": 390
+      },
+      {
+        "algorithm": "Myriad-Groestl",
+        "coin": "Myriadcoin",
+        "hashrate": 10000000000,
+        "power_consumption": 150
+      },
+      {
+        "algorithm": "Skein",
+        "coin": "Skeincoin",
+        "hashrate": 5000000000,
+        "power_consumption": 120
+      },
+      {
+        "algorithm": "Nist5",
+        "coin": "Electra",
+        "hashrate": 10000000000,
+        "power_consumption": 250
+      },
+      {
+        "algorithm": "X11Gost",
+        "coin": "SIBCoin",
+        "hashrate": 1350000000,
+        "power_consumption": 200
+      },
+      {
+        "algorithm": "Groestl",
+        "coin": "Groestlcoin",
+        "hashrate": 10000000000,
+        "power_consumption": 210
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [],
+    "release_date": "11/2017",
+    "comment": ""
+  },
+  {
+    "name": "DR-100 Pro",
+    "manufacturer": "PinIdea",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 21000000000,
+        "power_consumption": 900
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 55,
+    "prices": [],
+    "release_date": "11/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer G2",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 220000000,
+        "power_consumption": 1200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      },
+      {
+        "url": "https://www.eastshore.xyz/shop/antminer-g2-ethereum-miner-of-amd-rx570-gpu-miner/",
+        "access_time": "2020-01-20",
+        "comment": "Price source"
+      }
+    ],
+    "noise": 72,
+    "prices": [
+      {
+        "price": 3399,
+        "date": 1512082800
+      }
+    ],
+    "release_date": "12/2017",
+    "comment": "Price from page: https://www.eastshore.xyz/shop/antminer-g2-ethereum-miner-of-amd-rx570-gpu-miner/"
+  },
+  {
+    "name": "B8",
+    "manufacturer": "Bitfury",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 49000000000000,
+        "power_consumption": 6400
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 85,
+    "prices": [
+      {
+        "date": 1512086400,
+        "price": 6000
+      }
+    ],
+    "release_date": "12/2017",
+    "comment": ""
+  },
+  {
+    "name": "Whatsminer M3",
+    "manufacturer": "MicroBT",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 12000000000000,
+        "power_consumption": 2000
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 78,
+    "prices": [
+      {
+        "date": 1514764800,
+        "price": 1200
+      }
+    ],
+    "release_date": "01/2018",
+    "comment": ""
+  },
+  {
+    "name": "Snow Panther A1",
+    "manufacturer": "Bitfily",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 49000000000000,
+        "power_consumption": 5400
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 82,
+    "prices": [],
+    "release_date": "01/2017",
+    "comment": ""
+  },
+  {
+    "name": "Antminer T9+ - 10.5Th/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 10500000000000,
+        "power_consumption": 1432
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "01/2018",
+    "comment": ""
+  },
+  {
+    "name": "WX6",
+    "manufacturer": "Pantech",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 34000000000000,
+        "power_consumption": 5000
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [],
+    "release_date": "01/2018",
+    "comment": ""
+  },
+  {
+    "name": "A6 LTCMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Scrypt",
+        "coin": "Litecoin",
+        "hashrate": 1230000000,
+        "power_consumption": 1500
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 82,
+    "prices": [],
+    "release_date": "01/2018",
+    "comment": ""
+  },
+  {
+    "name": "BK-B",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 160000000000,
+        "power_consumption": 410
+      },
+      {
+        "algorithm": "Blake256R8",
+        "coin": "Photon",
+        "hashrate": 160000000000,
+        "power_consumption": 260
+      },
+      {
+        "algorithm": "Blake2B",
+        "coin": "SiaClassic",
+        "hashrate": 80000000000,
+        "power_consumption": 300
+      },
+      {
+        "algorithm": "Lbry",
+        "coin": "Lbry-Credits",
+        "hashrate": 40000000000,
+        "power_consumption": 400
+      },
+      {
+        "algorithm": "Pascal",
+        "coin": "Pascalcoin",
+        "hashrate": 40000000000,
+        "power_consumption": 210
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [],
+    "release_date": "01/2018",
+    "comment": ""
+  },
+  {
+    "name": "L21",
+    "manufacturer": "BW",
+    "algorithms": [
+      {
+        "algorithm": "Scrypt",
+        "coin": "Litecoin",
+        "hashrate": 550000000,
+        "power_consumption": 950
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "01/2018",
+    "comment": ""
+  },
+  {
+    "name": "Ebit E9+",
+    "manufacturer": "Ebang",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 9000000000000,
+        "power_consumption": 1300
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "01/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer A3 - 815Gh/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Blake2B",
+        "coin": "SiaClassic",
+        "hashrate": 815000000000,
+        "power_consumption": 1275
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "01/2018",
+    "comment": ""
+  },
+  {
+    "name": "Ebit E10",
+    "manufacturer": "Ebang",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 18000000000000,
+        "power_consumption": 1650
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "02/2018",
+    "comment": ""
+  },
+  {
+    "name": "AvalonMiner 821",
+    "manufacturer": "Canaan",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 11500000000000,
+        "power_consumption": 1200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [],
+    "release_date": "02/2018",
+    "comment": ""
+  },
+  {
+    "name": "B5 Plus",
+    "manufacturer": "PandaMiner",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 110000000,
+        "power_consumption": 800
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      },
+      {
+        "url": "https://pandaminer.io/product/pandaminer-b5-plus/",
+        "access_time": "2020-01-10",
+        "comment": "Price"
+      }
+    ],
+    "noise": 65,
+    "prices": [
+      {
+        "price": 2010,
+        "date": 1517439600
+      }
+    ],
+    "release_date": "02/2018",
+    "comment": ""
+  },
+  {
+    "name": "B7",
+    "manufacturer": "PandaMiner",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 230000000,
+        "power_consumption": 1150
+      }
+    ],
+    "links": [
+      {
+        "url": "https://www.cryptocompare.com/mining/pandaminer/pandaminer-b7-ethash-230mhs/",
+        "access_time": "2020-01-10",
+        "comment": "Price 1935 USD"
+      },
+      {
+        "url": "https://www.pandaminer.com/asicminervalue",
+        "access_time": "2020-01-10",
+        "comment": "Price 2300 USD"
+      },
+      {
+        "url": "https://www.pandaminer.com/product/product_detail/60",
+        "access_time": "2020-01-10",
+        "comment": "Price 2550 USD"
+      },
+      {
+        "url": "https://www.f2pool.com/miner?id=337",
+        "access_time": "2020-01-10",
+        "comment": "Release Date"
+      }
+    ],
+    "noise": 80,
+    "prices": [
+      {
+        "price": 2550,
+        "date": 1596232800
+      },
+      {
+        "prica": 1935,
+        "date": 1610146800
+      }
+    ],
+    "release_date": "2020/08",
+    "comment": ""
+  },
+  {
+    "name": "Antminer V9 - 4Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 4000000000000,
+        "power_consumption": 1027
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "03/2018",
+    "comment": ""
+  },
+  {
+    "name": "Whatsminer M3X",
+    "manufacturer": "MicroBT",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 12500000000000,
+        "power_consumption": 2050
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 78,
+    "prices": [
+      {
+        "date": 1519862400,
+        "price": 1200
+      }
+    ],
+    "release_date": "03/2018",
+    "comment": ""
+  },
+  {
+    "name": "BK-N",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "CryptoNight",
+        "coin": "Dero",
+        "hashrate": 20000,
+        "power_consumption": 60
+      },
+      {
+        "algorithm": "CryptoNight-Lite",
+        "coin": "Aeon",
+        "hashrate": 40000,
+        "power_consumption": 60
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 60,
+    "prices": [],
+    "release_date": "03/2018",
+    "comment": ""
+  },
+  {
+    "name": "A5+ DashMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 65000000000,
+        "power_consumption": 1500
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "03/2018",
+    "comment": ""
+  },
+  {
+    "name": "BK-N+",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "CryptoNight",
+        "coin": "Dero",
+        "hashrate": 40000,
+        "power_consumption": 120
+      },
+      {
+        "algorithm": "CryptoNight-Lite",
+        "coin": "Aeon",
+        "hashrate": 80000,
+        "power_consumption": 120
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 60,
+    "prices": [],
+    "release_date": "03/2018",
+    "comment": ""
+  },
+  {
+    "name": "B3 Pro",
+    "manufacturer": "PandaMiner",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 230000000,
+        "power_consumption": 1250
+      },
+      {
+        "algorithm": "Equihash",
+        "coin": "Zcash",
+        "hashrate": 2040,
+        "power_consumption": 1025
+      },
+      {
+        "algorithm": "Cryptonight-V7",
+        "coin": "Dero",
+        "hashrate": 5520,
+        "power_consumption": 980
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "04/2018",
+    "comment": ""
+  },
+  {
+    "name": "DragonMint T1",
+    "manufacturer": "Halong Mining",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 16000000000000,
+        "power_consumption": 1480
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "04/2018",
+    "comment": ""
+  },
+  {
+    "name": "AvalonMiner 841",
+    "manufacturer": "Canaan",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 13600000000000,
+        "power_consumption": 1290
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [],
+    "release_date": "04/2018",
+    "comment": ""
+  },
+  {
+    "name": "RR-200",
+    "manufacturer": "PinIdea",
+    "algorithms": [
+      {
+        "algorithm": "CryptoNight",
+        "coin": "Dero",
+        "hashrate": 27000,
+        "power_consumption": 350
+      },
+      {
+        "algorithm": "CryptoNight-Lite",
+        "coin": "Aeon",
+        "hashrate": 55000,
+        "power_consumption": 350
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 55,
+    "prices": [],
+    "release_date": "04/2018",
+    "comment": ""
+  },
+  {
+    "name": "DragonMint B52",
+    "manufacturer": "Halong Mining",
+    "algorithms": [
+      {
+        "algorithm": "Blake2B",
+        "coin": "SiaClassic",
+        "hashrate": 3830000000000,
+        "power_consumption": 1380
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "04/2018",
+    "comment": ""
+  },
+  {
+    "name": "DragonMint B29",
+    "manufacturer": "Halong Mining",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 2100000000000,
+        "power_consumption": 900
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "04/2018",
+    "comment": ""
+  },
+  {
+    "name": "A8 CryptoMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "CryptoNight",
+        "coin": "Dero",
+        "hashrate": 160000,
+        "power_consumption": 350
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "04/2018",
+    "comment": ""
+  },
+  {
+    "name": "RR-210",
+    "manufacturer": "PinIdea",
+    "algorithms": [
+      {
+        "algorithm": "CryptoNight",
+        "coin": "Dero",
+        "hashrate": 30000,
+        "power_consumption": 350
+      },
+      {
+        "algorithm": "CryptoNight-Lite",
+        "coin": "Aeon",
+        "hashrate": 60000,
+        "power_consumption": 350
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 55,
+    "prices": [],
+    "release_date": "04/2018",
+    "comment": ""
+  },
+  {
+    "name": "A8+ CryptoMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "CryptoNight",
+        "coin": "Dero",
+        "hashrate": 240000,
+        "power_consumption": 480
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "04/2018",
+    "comment": ""
+  },
+  {
+    "name": "S11 SiaMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Blake2B",
+        "coin": "SiaClassic",
+        "hashrate": 4300000000000,
+        "power_consumption": 1380
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "04/2018",
+    "comment": ""
+  },
+  {
+    "name": "D9 DecredMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 2400000000000,
+        "power_consumption": 1000
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "04/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer X3 - 220Kh/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "CryptoNight",
+        "coin": "Dero",
+        "hashrate": 220000,
+        "power_consumption": 465
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer L3++ - 596Mh/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Scrypt",
+        "coin": "Litecoin",
+        "hashrate": 596000000,
+        "power_consumption": 1050
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer B3 - 780H/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Tensority",
+        "coin": "Bytom",
+        "hashrate": 780,
+        "power_consumption": 360
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "A8C CryptoMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "CryptoNight",
+        "coin": "Dero",
+        "hashrate": 80000,
+        "power_consumption": 175
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "DM56G",
+    "manufacturer": "iBeLink",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 56000000000,
+        "power_consumption": 2100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S9i - 14Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 14000000000000,
+        "power_consumption": 1320
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S9i - 13.5Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 13500000000000,
+        "power_consumption": 1310
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "Ebit E9.2",
+    "manufacturer": "Ebang",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 12000000000000,
+        "power_consumption": 1320
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "8 Nano Pro",
+    "manufacturer": "ASICminer",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 80000000000000,
+        "power_consumption": 4200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 48,
+    "prices": [
+      {
+        "date": 1525132800,
+        "price": 9500
+      }
+    ],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S9i - 13Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 13000000000000,
+        "power_consumption": 1290
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "BK-N70",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "CryptoNight",
+        "coin": "Dero",
+        "hashrate": 70000,
+        "power_consumption": 220
+      },
+      {
+        "algorithm": "CryptoNight-Lite",
+        "coin": "Aeon",
+        "hashrate": 140000,
+        "power_consumption": 220
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 62,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer B3 - 1Kh/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Tensority",
+        "coin": "Bytom",
+        "hashrate": 1000,
+        "power_consumption": 380
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "Ebit E9.3",
+    "manufacturer": "Ebang",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 16000000000000,
+        "power_consumption": 1760
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer L3++ - 580Mh/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 16000000000000,
+        "power_consumption": 1760
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "T2 Terminator",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 17200000000000,
+        "power_consumption": 1570
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "BK-N240",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "CryptoNight",
+        "coin": "Dero",
+        "hashrate": 240000,
+        "power_consumption": 650
+      },
+      {
+        "algorithm": "CryptoNight-Lite",
+        "coin": "Aeon",
+        "hashrate": 480000,
+        "power_consumption": 630
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 62,
+    "prices": [],
+    "release_date": "05/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer Z9 Mini",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Equihash",
+        "coin": "Zcash",
+        "hashrate": 10000,
+        "power_consumption": 300
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [],
+    "release_date": "06/2018",
+    "comment": ""
+  },
+  {
+    "name": "DSM6T",
+    "manufacturer": "iBeLink",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 6000000000000,
+        "power_consumption": 2100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 78,
+    "prices": [],
+    "release_date": "06/2018",
+    "comment": ""
+  },
+  {
+    "name": "A9 ZMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Equihash",
+        "coin": "Zcash",
+        "hashrate": 50000,
+        "power_consumption": 620
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "06/2018",
+    "comment": ""
+  },
+  {
+    "name": "BK-D",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 320000000000,
+        "power_consumption": 500
+      },
+      {
+        "algorithm": "Blake256R8",
+        "coin": "Photon",
+        "hashrate": 280000000000,
+        "power_consumption": 550
+      },
+      {
+        "algorithm": "Lbry",
+        "coin": "Lbry-Credits",
+        "hashrate": 80000000000,
+        "power_consumption": 500
+      },
+      {
+        "algorithm": "Pascal",
+        "coin": "Pascalcoin",
+        "hashrate": 70000000000,
+        "power_consumption": 550
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [],
+    "release_date": "06/2018",
+    "comment": ""
+  },
+  {
+    "name": "B3 Pro 8G",
+    "manufacturer": "PandaMiner",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 230000000,
+        "power_consumption": 1250
+      },
+      {
+        "algorithm": "Equihash",
+        "coin": "Zcash",
+        "hashrate": 2040,
+        "power_consumption": 1025
+      },
+      {
+        "algorithm": "Cryptonight-V7",
+        "coin": "Dero",
+        "hashrate": 5520,
+        "power_consumption": 980
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "06/2018",
+    "comment": ""
+  },
+  {
+    "name": "Decred D18",
+    "manufacturer": "FFMiner",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 340000000000,
+        "power_consumption": 180
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 55,
+    "prices": [],
+    "release_date": "06/2018",
+    "comment": ""
+  },
+  {
+    "name": "SC1",
+    "manufacturer": "Obelisk",
+    "algorithms": [
+      {
+        "algorithm": "Blake2B",
+        "coin": "SiaClassic",
+        "hashrate": 550000000000,
+        "power_consumption": 500
+      },
+      {
+        "algorithm": "Blake2B-Sia",
+        "coin": "SiaCoin",
+        "hashrate": 550000000000,
+        "power_consumption": 500
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [
+      {
+        "date": 1527811200,
+        "price": 4000
+      }
+    ],
+    "release_date": "06/2018",
+    "comment": ""
+  },
+  {
+    "name": "DCR1",
+    "manufacturer": "Obelisk",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 1200000000000,
+        "power_consumption": 500
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [
+      {
+        "date": 1527811200,
+        "price": 2500
+      }
+    ],
+    "release_date": "06/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer E3 - 180Mh/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 180000000,
+        "power_consumption": 800
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "07/2018",
+    "comment": ""
+  },
+  {
+    "name": "16Th/s Bitcoin",
+    "manufacturer": "Aladdin Miner",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 16000000000000,
+        "power_consumption": 1400
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "07/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer E3 - 190Mh/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 190000000,
+        "power_consumption": 760
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "07/2018",
+    "comment": ""
+  },
+  {
+    "name": "Snow Panther B1",
+    "manufacturer": "Bitfily",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 16000000000000,
+        "power_consumption": 1380
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "07/2018",
+    "comment": ""
+  },
+  {
+    "name": "Snow Panther D1",
+    "manufacturer": "Bitfily",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 6000000000000,
+        "power_consumption": 2100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "07/2018",
+    "comment": ""
+  },
+  {
+    "name": "Ebit E9i",
+    "manufacturer": "Ebang",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 13500000000000,
+        "power_consumption": 1420
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 74,
+    "prices": [],
+    "release_date": "07/2018",
+    "comment": ""
+  },
+  {
+    "name": "D9+ DecredMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 2800000000000,
+        "power_consumption": 1230
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "08/2018",
+    "comment": ""
+  },
+  {
+    "name": "T2 Turbo",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 24000000000000,
+        "power_consumption": 1980
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [],
+    "release_date": "08/2018",
+    "comment": ""
+  },
+  {
+    "name": "DSM7T",
+    "manufacturer": "iBeLink",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 7000000000000,
+        "power_consumption": 2100
+      },
+      {
+        "algorithm": "Blake2B",
+        "coin": "SiaClassic",
+        "hashrate": 3500000000000,
+        "power_consumption": 2100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "08/2018",
+    "comment": ""
+  },
+  {
+    "name": "X6 Miner",
+    "manufacturer": "FusionSilicon",
+    "algorithms": [
+      {
+        "algorithm": "Scrypt",
+        "coin": "Litecoin",
+        "hashrate": 860000000,
+        "power_consumption": 1079
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [],
+    "release_date": "08/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S9j - 14.5Th/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 14500000000000,
+        "power_consumption": 1350
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "08/2018",
+    "comment": ""
+  },
+  {
+    "name": "DS19",
+    "manufacturer": "FFMiner",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 3100000000000,
+        "power_consumption": 680
+      },
+      {
+        "algorithm": "Blake2B",
+        "coin": "SiaClassic",
+        "hashrate": 1550000000000,
+        "power_consumption": 410
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 67,
+    "prices": [],
+    "release_date": "08/2018",
+    "comment": ""
+  },
+  {
+    "name": "Snow Panther B1+",
+    "manufacturer": "Bitfily",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 24500000000000,
+        "power_consumption": 2100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "08/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S9 Hydro - 18Th/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 18000000000000,
+        "power_consumption": 1728
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 45,
+    "prices": [],
+    "release_date": "08/2018",
+    "comment": ""
+  },
+  {
+    "name": "A10 - 485Mh/s",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 485000000,
+        "power_consumption": 850
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1535760000,
+        "price": 2500
+      }
+    ],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "A10 - 432Mh/s",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 432000000,
+        "power_consumption": 740
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1535760000,
+        "price": 2250
+      }
+    ],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "A10 - 365Mh/s",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 365000000,
+        "power_consumption": 650
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1535760000,
+        "price": 2000
+      }
+    ],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer Z9",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Equihash",
+        "coin": "Zcash",
+        "hashrate": 42000,
+        "power_consumption": 970
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "SPx36",
+    "manufacturer": "Spondoolies",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 540000000000,
+        "power_consumption": 4400
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "Zeon 180K",
+    "manufacturer": "ASICminer",
+    "algorithms": [
+      {
+        "algorithm": "Equihash",
+        "coin": "Zcash",
+        "hashrate": 180000,
+        "power_consumption": 2200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 47,
+    "prices": [
+      {
+        "date": 1535760000,
+        "price": 19900
+      }
+    ],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "Zig Z1",
+    "manufacturer": "Dayun",
+    "algorithms": [
+      {
+        "algorithm": "Lyra2REv2",
+        "coin": "Monacoin",
+        "hashrate": 6800000000,
+        "power_consumption": 1200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "T2 Turbo+ 32T",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 32000000000000,
+        "power_consumption": 2200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "Whatsminer M10S",
+    "manufacturer": "MicroBT",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 55000000000000,
+        "power_consumption": 3500
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1535760000,
+        "price": 789
+      }
+    ],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "Whatsminer M10",
+    "manufacturer": "MicroBT",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 33000000000000,
+        "power_consumption": 2145
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1535760000,
+        "price": 566
+      }
+    ],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "AvalonMiner 921",
+    "manufacturer": "Canaan",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 20000000000000,
+        "power_consumption": 1700
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "B3 Mute",
+    "manufacturer": "PandaMiner",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 230000000,
+        "power_consumption": 1150
+      },
+      {
+        "algorithm": "Cryptonight-V7",
+        "coin": "Dero",
+        "hashrate": 5520,
+        "power_consumption": 980
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 60,
+    "prices": [],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer DR3",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 7800000000000,
+        "power_consumption": 1410
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "09/2018",
+    "comment": ""
+  },
+  {
+    "name": "B2",
+    "manufacturer": "GMO miner",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 24000000000000,
+        "power_consumption": 1950
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "10/2018",
+    "comment": ""
+  },
+  {
+    "name": "STU-U1",
+    "manufacturer": "StrongU",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 11000000000000,
+        "power_consumption": 1600
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "10/2018",
+    "comment": ""
+  },
+  {
+    "name": "8 Nano 44Th",
+    "manufacturer": "ASICminer",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 44000000000000,
+        "power_consumption": 2100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 47,
+    "prices": [
+      {
+        "date": 1538352000,
+        "price": 4500
+      }
+    ],
+    "release_date": "10/2018",
+    "comment": ""
+  },
+  {
+    "name": "Ebit E11++",
+    "manufacturer": "Ebang",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 44000000000000,
+        "power_consumption": 1980
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1538352000,
+        "price": 2025
+      }
+    ],
+    "release_date": "10/2018",
+    "comment": ""
+  },
+  {
+    "name": "Ebit E11+",
+    "manufacturer": "Ebang",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 37000000000000,
+        "power_consumption": 2035
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1538352000,
+        "price": 1517
+      }
+    ],
+    "release_date": "10/2018",
+    "comment": ""
+  },
+  {
+    "name": "Ebit E11",
+    "manufacturer": "Ebang",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 30000000000000,
+        "power_consumption": 1950
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1538352000,
+        "price": 1110
+      }
+    ],
+    "release_date": "10/2018",
+    "comment": ""
+  },
+  {
+    "name": "Zig Z1+",
+    "manufacturer": "Dayun",
+    "algorithms": [
+      {
+        "algorithm": "Lyra2REv2",
+        "coin": "Monacoin",
+        "hashrate": 7250000000,
+        "power_consumption": 1200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [
+      {
+        "date": 1538352000,
+        "price": 2400
+      }
+    ],
+    "release_date": "10/2018",
+    "comment": ""
+  },
+  {
+    "name": "STU-U2",
+    "manufacturer": "StrongU",
+    "algorithms": [
+      {
+        "algorithm": "Blake2B",
+        "coin": "SiaClassic",
+        "hashrate": 7000000000000,
+        "power_consumption": 1600
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "10/2018",
+    "comment": ""
+  },
+  {
+    "name": "STU-U1+",
+    "manufacturer": "StrongU",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 12800000000000,
+        "power_consumption": 1850
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "10/2018",
+    "comment": ""
+  },
+  {
+    "name": "T2 Turbo 25T",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 25000000000000,
+        "power_consumption": 2050
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "10/2018",
+    "comment": ""
+  },
+  {
+    "name": "BK-G28",
+    "manufacturer": "Baikal",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 28000000000,
+        "power_consumption": 1300
+      },
+      {
+        "algorithm": "Quark",
+        "coin": "Quark",
+        "hashrate": 28000000000,
+        "power_consumption": 800
+      },
+      {
+        "algorithm": "Qubit",
+        "coin": "DigiByte",
+        "hashrate": 28000000000,
+        "power_consumption": 850
+      },
+      {
+        "algorithm": "Myriad-Groestl",
+        "coin": "Myriadcoin",
+        "hashrate": 28000000000,
+        "power_consumption": 350
+      },
+      {
+        "algorithm": "Nist5",
+        "coin": "Electra",
+        "hashrate": 28000000000,
+        "power_consumption": 550
+      },
+      {
+        "algorithm": "Skein",
+        "coin": "Skeincoin",
+        "hashrate": 14000000000,
+        "power_consumption": 300
+      },
+      {
+        "algorithm": "X11Gost",
+        "coin": "SIBCoin",
+        "hashrate": 3500000000,
+        "power_consumption": 450
+      },
+      {
+        "algorithm": "Groestl",
+        "coin": "Groestlcoin",
+        "hashrate": 28000000000,
+        "power_consumption": 450
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [],
+    "release_date": "10/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S11 - 20.5Th/s\r\n",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 20500000000000,
+        "power_consumption": 1530
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [],
+    "release_date": "11/2018",
+    "comment": ""
+  },
+  {
+    "name": "B3",
+    "manufacturer": "GMO miner",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 33000000000000,
+        "power_consumption": 3417
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [],
+    "release_date": "11/2018",
+    "comment": ""
+  },
+  {
+    "name": "Zig D1",
+    "manufacturer": "Dayun",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 48000000000,
+        "power_consumption": 2200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 55,
+    "prices": [
+      {
+        "date": 1541030400,
+        "price": 2300
+      }
+    ],
+    "release_date": "11/2018",
+    "comment": ""
+  },
+  {
+    "name": "Zig M1",
+    "manufacturer": "Dayun",
+    "algorithms": [
+      {
+        "algorithm": "Groestl",
+        "coin": "Groestlcoin",
+        "hashrate": 2600000000,
+        "power_consumption": 200
+      },
+      {
+        "algorithm": "Myriad-Groestl",
+        "coin": "Myriadcoin",
+        "hashrate": 4300000000,
+        "power_consumption": 220
+      },
+      {
+        "algorithm": "Lbry",
+        "coin": "Lbry-Credits",
+        "hashrate": 1500000000,
+        "power_consumption": 11
+      },
+      {
+        "algorithm": "Pascal",
+        "coin": "Pascalcoin",
+        "hashrate": 2300000000,
+        "power_consumption": 3
+      },
+      {
+        "algorithm": "Lyra2REv2",
+        "coin": "Monacoin",
+        "hashrate": 192000000,
+        "power_consumption": 25
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 55,
+    "prices": [
+      {
+        "date": 1541030400,
+        "price": 1700
+      }
+    ],
+    "release_date": "11/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer D5 - 119Gh/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 119000000000,
+        "power_consumption": 1566
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [
+      {
+        "date": 1541030400,
+        "price": 1600
+      }
+    ],
+    "release_date": "11/2018",
+    "comment": ""
+  },
+  {
+    "name": "Whatsminer D1",
+    "manufacturer": "MicroBT",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 48000000000000,
+        "power_consumption": 2200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1541030400,
+        "price": 940
+      }
+    ],
+    "release_date": "11/2018",
+    "comment": ""
+  },
+  {
+    "name": "Tardis",
+    "manufacturer": "Bitfury",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 80000000000000,
+        "power_consumption": 6300
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 80,
+    "prices": [
+      {
+        "date": 1541030400,
+        "price": 3770
+      }
+    ],
+    "release_date": "11/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S15 - 28Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 28000000000000,
+        "power_consumption": 1596
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [
+      {
+        "date": 1543622400,
+        "price": 1035
+      }
+    ],
+    "release_date": "12/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer T15 - 23Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 23000000000000,
+        "power_consumption": 1541
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [
+      {
+        "date": 1543622400,
+        "price": 722
+      }
+    ],
+    "release_date": "12/2018",
+    "comment": ""
+  },
+  {
+    "name": "Antminer DR5 - 34Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 34000000000000,
+        "power_consumption": 1800
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [
+      {
+        "date": 1543622400,
+        "price": 2000
+      }
+    ],
+    "release_date": "12/2018",
+    "comment": ""
+  },
+  {
+    "name": "H28",
+    "manufacturer": "Holic",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 28000000000000,
+        "power_consumption": 2100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [
+      {
+        "date": 1543622400,
+        "price": 2100
+      }
+    ],
+    "release_date": "12/2018",
+    "comment": ""
+  },
+  {
+    "name": "H22",
+    "manufacturer": "Holic",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 22000000000000,
+        "power_consumption": 1600
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [
+      {
+        "date": 1543622400,
+        "price": 1900
+      }
+    ],
+    "release_date": "12/2018",
+    "comment": ""
+  },
+  {
+    "name": "X1 Miner",
+    "manufacturer": "FusionSilicon",
+    "algorithms": [
+      {
+        "algorithm": "Lyra2REv2",
+        "coin": "Monacoin",
+        "hashrate": 12960000000,
+        "power_consumption": 1110
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [
+      {
+        "date": 1546300800,
+        "price": 750
+      }
+    ],
+    "release_date": "01/2019",
+    "comment": ""
+  },
+  {
+    "name": "SC1 Slim",
+    "manufacturer": "Obelisk",
+    "algorithms": [
+      {
+        "algorithm": "Blake2B",
+        "coin": "SiaClassic",
+        "hashrate": 550000000000,
+        "power_consumption": 450
+      },
+      {
+        "algorithm": "Blake2B-Sia",
+        "coin": "SiaCoin",
+        "hashrate": 550000000000,
+        "power_consumption": 450
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1546300800,
+        "price": 1700
+      }
+    ],
+    "release_date": "01/2019",
+    "comment": ""
+  },
+  {
+    "name": "A9+ ZMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Equihash",
+        "coin": "Zcash",
+        "hashrate": 120000,
+        "power_consumption": 1550
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1546300800,
+        "price": 4500
+      }
+    ],
+    "release_date": "01/2019",
+    "comment": ""
+  },
+  {
+    "name": "T3 43T",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 43000000000000,
+        "power_consumption": 2100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1546300800,
+        "price": 1720
+      }
+    ],
+    "release_date": "01/2019",
+    "comment": ""
+  },
+  {
+    "name": "A6+ LTCMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Scrypt",
+        "coin": "Litecoin",
+        "hashrate": 2200000000,
+        "power_consumption": 2100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 82,
+    "prices": [
+      {
+        "date": 1551398400,
+        "price": 3000
+      }
+    ],
+    "release_date": "03/2019",
+    "comment": ""
+  },
+  {
+    "name": "SC1 Immersion",
+    "manufacturer": "Obelisk",
+    "algorithms": [
+      {
+        "algorithm": "Blake2B",
+        "coin": "SiaClassic",
+        "hashrate": 2200000000000,
+        "power_consumption": 1600
+      },
+      {
+        "algorithm": "Blake2B-Sia",
+        "coin": "SiaCoin",
+        "hashrate": 2200000000000,
+        "power_consumption": 1600
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 30,
+    "prices": [
+      {
+        "date": 1551398400,
+        "price": 4000
+      }
+    ],
+    "release_date": "03/2019",
+    "comment": ""
+  },
+  {
+    "name": "Antminer B7 - 96Kh/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Tensority",
+        "coin": "Bytom",
+        "hashrate": 96000,
+        "power_consumption": 528
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [
+      {
+        "date": 1551398400,
+        "price": 2012
+      }
+    ],
+    "release_date": "03/2019",
+    "comment": ""
+  },
+  {
+    "name": "SC1 Dual",
+    "manufacturer": "Obelisk",
+    "algorithms": [
+      {
+        "algorithm": "Blake2B",
+        "coin": "SiaClassic",
+        "hashrate": 1100000000000,
+        "power_consumption": 900
+      },
+      {
+        "algorithm": "Blake2B-Sia",
+        "coin": "SiaCoin",
+        "hashrate": 1100000000000,
+        "power_consumption": 900
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1551398400,
+        "price": 2500
+      }
+    ],
+    "release_date": "03/2019",
+    "comment": ""
+  },
+  {
+    "name": "X7 Miner",
+    "manufacturer": "FusionSilicon",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 262000000000,
+        "power_consumption": 1420
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [
+      {
+        "date": 1551398400,
+        "price": 1663
+      }
+    ],
+    "release_date": "03/2019",
+    "comment": ""
+  },
+  {
+    "name": "T3 39T",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 39000000000000,
+        "power_consumption": 2150
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1551398400,
+        "price": 1880
+      }
+    ],
+    "release_date": "03/2019",
+    "comment": ""
+  },
+  {
+    "name": "X7+ Miner",
+    "manufacturer": "FusionSilicon",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 320000000000,
+        "power_consumption": 2000
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [
+      {
+        "date": 1551398400,
+        "price": 780
+      }
+    ],
+    "release_date": "03/2019",
+    "comment": ""
+  },
+  {
+    "name": "Antminer Z11",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "Equihash",
+        "coin": "Zcash",
+        "hashrate": 135000,
+        "power_consumption": 1418
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 70,
+    "prices": [
+      {
+        "date": 1554076800,
+        "price": 1608
+      }
+    ],
+    "release_date": "04/2019",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S17 Pro - 56Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 56000000000000,
+        "power_consumption": 2520
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 82,
+    "prices": [
+      {
+        "date": 1554076800,
+        "price": 4323
+      }
+    ],
+    "release_date": "04/2019",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S17 Pro - 50Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 50000000000000,
+        "power_consumption": 1975
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 82,
+    "prices": [
+      {
+        "date": 1554076800,
+        "price": 2969
+      }
+    ],
+    "release_date": "04/2019",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S17 - 53Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 53000000000000,
+        "power_consumption": 2385
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 82,
+    "prices": [
+      {
+        "date": 1554076800,
+        "price": 2727
+      }
+    ],
+    "release_date": "04/2019",
+    "comment": ""
+  },
+  {
+    "name": "A9++ ZMaster",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Equihash",
+        "coin": "Zcash",
+        "hashrate": 140000,
+        "power_consumption": 1550
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1556668800,
+        "price": 2900
+      }
+    ],
+    "release_date": "05/2019",
+    "comment": ""
+  },
+  {
+    "name": "T3+ 52T",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 52000000000000,
+        "power_consumption": 2200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1556668800,
+        "price": 1900
+      }
+    ],
+    "release_date": "05/2019",
+    "comment": ""
+  },
+  {
+    "name": "Antminer T17 - 40Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 40000000000000,
+        "power_consumption": 2200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 82,
+    "prices": [
+      {
+        "date": 1556668800,
+        "price": 2100
+      }
+    ],
+    "release_date": "05/2019",
+    "comment": ""
+  },
+  {
+    "name": "Whatsminer M21S",
+    "manufacturer": "MicroBT",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 56000000000000,
+        "power_consumption": 3360
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1559347200,
+        "price": 878
+      }
+    ],
+    "release_date": "06/2019",
+    "comment": ""
+  },
+  {
+    "name": "Zig Z1 Pro",
+    "manufacturer": "Dayun",
+    "algorithms": [
+      {
+        "algorithm": "Lyra2REv2",
+        "coin": "Monacoin",
+        "hashrate": 13000000000,
+        "power_consumption": 1500
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 72,
+    "prices": [
+      {
+        "date": 1559347200,
+        "price": 2400
+      }
+    ],
+    "release_date": "06/2019",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S9 SE - 16Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 16000000000000,
+        "power_consumption": 1280
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [
+      {
+        "date": 1561939200,
+        "price": 430
+      }
+    ],
+    "release_date": "07/2019",
+    "comment": ""
+  },
+  {
+    "name": "STU-U8",
+    "manufacturer": "StrongU",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 46000000000000,
+        "power_consumption": 2100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [
+      {
+        "date": 1561939200,
+        "price": 1598
+      }
+    ],
+    "release_date": "07/2019",
+    "comment": ""
+  },
+  {
+    "name": "STU-U1++",
+    "manufacturer": "StrongU",
+    "algorithms": [
+      {
+        "algorithm": "Blake256R14",
+        "coin": "Decred",
+        "hashrate": 52000000000000,
+        "power_consumption": 2200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [
+      {
+        "date": 1561939200,
+        "price": 1147
+      }
+    ],
+    "release_date": "07/2019",
+    "comment": ""
+  },
+  {
+    "name": "G32-1800",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Cuckatoo31",
+        "coin": "Grin",
+        "hashrate": 328,
+        "power_consumption": 1800
+      },
+      {
+        "algorithm": "Cuckatoo32",
+        "coin": "Grin",
+        "hashrate": 65.6,
+        "power_consumption": 1800
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [
+      {
+        "date": 1564617600,
+        "price": 14315
+      }
+    ],
+    "release_date": "08/2019",
+    "comment": ""
+  },
+  {
+    "name": "G32-500",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Cuckatoo31",
+        "coin": "Grin",
+        "hashrate": 100,
+        "power_consumption": 520
+      },
+      {
+        "algorithm": "Cuckatoo32",
+        "coin": "Grin",
+        "hashrate": 20,
+        "power_consumption": 520
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1564617600,
+        "price": 4355
+      }
+    ],
+    "release_date": "08/2019",
+    "comment": ""
+  },
+  {
+    "name": "G32-Mini",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Cuckatoo31",
+        "coin": "Grin",
+        "hashrate": 21.5,
+        "power_consumption": 140
+      },
+      {
+        "algorithm": "Cuckatoo32",
+        "coin": "Grin",
+        "hashrate": 4.5,
+        "power_consumption": 140
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 65,
+    "prices": [
+      {
+        "date": 1564617600,
+        "price": 1250
+      }
+    ],
+    "release_date": "08/2019",
+    "comment": ""
+  },
+  {
+    "name": "Whatsminer M20S",
+    "manufacturer": "MicroBT",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 72000000000000,
+        "power_consumption": 3360
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1564617600,
+        "price": 1500
+      }
+    ],
+    "release_date": "08/2019",
+    "comment": ""
+  },
+  {
+    "name": "Whatsminer M21",
+    "manufacturer": "MicroBT",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 31000000000000,
+        "power_consumption": 1860
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1564617600,
+        "price": 1000
+      }
+    ],
+    "release_date": "08/2019",
+    "comment": ""
+  },
+  {
+    "name": "STU-U6",
+    "manufacturer": "StrongU",
+    "algorithms": [
+      {
+        "algorithm": "X11",
+        "coin": "Dash",
+        "hashrate": 660000000000,
+        "power_consumption": 1300
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 76,
+    "prices": [
+      {
+        "date": 1572566400,
+        "price": 1882
+      }
+    ],
+    "release_date": "11/2019",
+    "comment": ""
+  },
+  {
+    "name": "Snow Panther B3",
+    "manufacturer": "Bitfily",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 24000000000000,
+        "power_consumption": 2100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1564617600,
+        "price": 1392
+      }
+    ],
+    "release_date": "08/2019",
+    "comment": ""
+  },
+  {
+    "name": "Antminer T17e",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 53000000000000,
+        "power_consumption": 2915
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 82,
+    "prices": [
+      {
+        "date": 1572566400,
+        "price": 1597
+      }
+    ],
+    "release_date": "11/2019",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S17e",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 64000000000000,
+        "power_consumption": 2880
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 82,
+    "prices": [
+      {
+        "date": 1572566400,
+        "price": 2683
+      }
+    ],
+    "release_date": "11/2019",
+    "comment": ""
+  },
+  {
+    "name": "8 Nano S",
+    "manufacturer": "ASICminer",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 58000000000000,
+        "power_consumption": 2500
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 47,
+    "prices": [
+      {
+        "date": 1561939200,
+        "price": 3800
+      }
+    ],
+    "release_date": "07/2019",
+    "comment": ""
+  },
+  {
+    "name": "Zeon Turbo",
+    "manufacturer": "ASICminer",
+    "algorithms": [
+      {
+        "algorithm": "Equihash",
+        "coin": "Zcash",
+        "hashrate": 400000,
+        "power_consumption": 2500
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 47,
+    "prices": [
+      {
+        "date": 1561939200,
+        "price": 9500
+      }
+    ],
+    "release_date": "07/2019",
+    "comment": ""
+  },
+  {
+    "name": "Ebit E12",
+    "manufacturer": "Ebang",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 44000000000000,
+        "power_consumption": 2500
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1567296000,
+        "price": 1930
+      }
+    ],
+    "release_date": "09/2019",
+    "comment": ""
+  },
+  {
+    "name": "Ebit E12+",
+    "manufacturer": "Ebang",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 50000000000000,
+        "power_consumption": 2500
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1567296000,
+        "price": 2410
+      }
+    ],
+    "release_date": "09/2019",
+    "comment": ""
+  },
+  {
+    "name": "T3 50T",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 50000000000000,
+        "power_consumption": 3100
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1561939200,
+        "price": 2100
+      }
+    ],
+    "release_date": "07/2019",
+    "comment": ""
+  },
+  {
+    "name": "A10 - 500Mh/s",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "Ethash",
+        "coin": "Ethereum",
+        "hashrate": 500000000,
+        "power_consumption": 750
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1567296000,
+        "price": 2500
+      }
+    ],
+    "release_date": "09/2019",
+    "comment": ""
+  },
+  {
+    "name": "T3+ 57T",
+    "manufacturer": "Innosilicon",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 57000000000000,
+        "power_consumption": 3300
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1569888000,
+        "price": 2310
+      }
+    ],
+    "release_date": "10/2019",
+    "comment": ""
+  },
+  {
+    "name": "Antminer T17+ - 64Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 64000000000000,
+        "power_consumption": 3200
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1569888000,
+        "price": 1802
+      }
+    ],
+    "release_date": "10/2019",
+    "comment": ""
+  },
+  {
+    "name": "Antminer S17+ - 73Th/s",
+    "manufacturer": "Bitmain",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 73000000000000,
+        "power_consumption": 2920
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1569888000,
+        "price": 2833
+      }
+    ],
+    "release_date": "10/2019",
+    "comment": ""
+  },
+  {
+    "name": "AvalonMiner 1047",
+    "manufacturer": "Canaan",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 37000000000000,
+        "power_consumption": 2380
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1572566400,
+        "price": 1030
+      }
+    ],
+    "release_date": "11/2019",
+    "comment": ""
+  },
+  {
+    "name": "AvalonMiner 1066",
+    "manufacturer": "Canaan",
+    "algorithms": [
+      {
+        "algorithm": "SHA-256",
+        "coin": "Bitcoin",
+        "hashrate": 50000000000000,
+        "power_consumption": 3250
+      }
+    ],
+    "links": [
+      {
+        "url": "https://asic-dex.com/wp-content/themes/master-blog/asicminer.php\\?q\\=table",
+        "access_time": "2020-01-09",
+        "comment": "ASIC DEX api"
+      }
+    ],
+    "noise": 75,
+    "prices": [
+      {
+        "date": 1572566400,
+        "price": 1390
+      }
+    ],
+    "release_date": "11/2019",
+    "comment": ""
+  }
+]

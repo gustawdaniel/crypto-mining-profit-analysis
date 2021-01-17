@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="368af84e-adab-4f3f-b693-1910f15d3798" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/crypto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015-08-07_2021-01-06_ethereum_price.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-compute/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-compute/data/difficulty.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-compute/data/electricity-price.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-compute/data/pl-miners.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-compute/data/price.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-compute/out/out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-compute/process-difficulty-csv-to-json.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-compute/process-price-csv-to-json.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-compute/raw/2015-08-07_2021-01-06_ethereum_price.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-compute/raw/export-BlockDifficulty.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-compute/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-asicminer-8-nano-44th.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-asicminer-8-nano-pro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-asicminer-8-nano-s.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-asicminer-zeon-180k.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-asicminer-zeon-turbo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitfily-snow-panther-b3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitfury-b8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitfury-tardis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-b7-96khs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-d5-119ghs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-dr5-34ths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-s15-28ths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-s17-1-73ths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-s17-53ths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-s17-pro-50ths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-s17-pro-56ths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-s17e.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-s3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-s9-se-16ths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-t15-23ths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-t17-1-64ths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-t17-40ths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-t17e.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-bitmain-antminer-z11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-canaan-avalonminer-1047.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-canaan-avalonminer-1066.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-dayun-zig-d1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-dayun-zig-m1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-dayun-zig-z1-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-dayun-zig-z1-pro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-dayun-zig-z1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-ebang-ebit-e11-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-ebang-ebit-e11-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-ebang-ebit-e11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-ebang-ebit-e12-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-ebang-ebit-e12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-fusionsilicon-x1-miner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-fusionsilicon-x7-1-miner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-fusionsilicon-x7-miner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-holic-h22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-holic-h28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-a10-365mhs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-a10-432mhs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-a10-485mhs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-a10-500mhs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-a6-1-ltcmaster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-a9-1-zmaster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-a9-2-zmaster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-g32-1800.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-g32-500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-g32-mini.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-t3-1-52t.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-t3-1-57t.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-t3-39t.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-t3-43t.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-innosilicon-t3-50t.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-microbt-whatsminer-d1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-microbt-whatsminer-m10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-microbt-whatsminer-m10s.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-microbt-whatsminer-m20s.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-microbt-whatsminer-m21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-microbt-whatsminer-m21s.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-microbt-whatsminer-m3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-microbt-whatsminer-m3x.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-obelisk-dcr1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-obelisk-sc1-dual.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-obelisk-sc1-immersion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-obelisk-sc1-slim.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-obelisk-sc1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-strongu-stu-u1-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-strongu-stu-u1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-strongu-stu-u6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/ad-strongu-stu-u8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-101.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-102.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-103.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-104.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-106.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-107.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-108.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-109.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-110.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-111.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-112.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-113.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-114.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-115.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-116.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-117.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-118.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-119.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-120.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-121.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-122.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-123.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-124.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-125.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-126.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-127.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-128.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-129.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-133.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-134.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-135.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-136.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-137.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-27.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-29.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-33.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-35.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-36.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-37.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-38.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-39.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-40.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-41.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-43.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-45.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-48.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-49.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-50.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-51.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-53.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-55.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-56.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-57.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-58.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-59.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-60.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-61.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-62.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-63.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-64.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-65.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-66.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-68.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-70.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-72.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-74.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-77.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-79.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-80.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-82.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-84.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-87.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-88.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-89.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-91.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-93.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-95.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-96.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-97.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-98.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/.tmp/f2-99.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/algo-types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/analyse-asic-dex-data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/get_miners_data-asic-dex.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/get_miners_data-f2pool.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/get_miners_pages-asic-dex.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/get_miners_pages-f2pool.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/merge_miners_data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/out/ad-preview.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/out/asic-dex-miners-full.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/out/cc-all-miners.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/out/f2-miners.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/out/pl-miners.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/out/pl-simple.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miners-scraper/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/assert.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/async_hooks.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/base.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/buffer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/child_process.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/cluster.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/console.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/constants.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/crypto.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/dgram.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/dns.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/domain.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/events.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/fs.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/fs/promises.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/globals.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/globals.global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/http.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/http2.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/https.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/inspector.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/module.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/net.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/os.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/path.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/perf_hooks.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/process.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/punycode.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/querystring.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/readline.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/repl.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/stream.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/string_decoder.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/timers.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/tls.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/trace_events.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/ts3.4/assert.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/ts3.4/base.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/ts3.4/globals.global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/ts3.4/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/ts3.6/base.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/ts3.6/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/tty.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/url.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/util.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/v8.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/vm.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/wasi.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/worker_threads.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/zlib.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profit.nb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mpmX5UtfpCr5UEk03dYisXWEe2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/miners-compute/raw" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/miners-scraper/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/miners-compute/raw" />
+      <recent name="$PROJECT_DIR$/miners-compute" />
+      <recent name="$PROJECT_DIR$/miners-scraper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/miners-compute/raw" />
+      <recent name="$PROJECT_DIR$/miners-scraper/out" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="368af84e-adab-4f3f-b693-1910f15d3798" name="Default Changelist" comment="" />
+      <created>1610198945201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610198945201</updated>
+      <workItem from="1610198946279" duration="36988000" />
+      <workItem from="1610893540190" duration="10380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
